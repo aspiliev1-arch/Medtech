@@ -1,62 +1,272 @@
 [
-    {"title": "Oura raises $900M, boosting valuation to around $11B", "summary": "The company's CEO, Tom Hale, told MobiHealthNews Oura will use the funds for AI-driven innovation to redefine what digital health technology can do.", "hyperlink": "https://www.mobihealthnews.com/news/oura-raises-900m-boosting-valuation-around-11b", "date": ""},
-    {"title": "WellTheory raises $14M for virtual autoimmune care platform", "summary": "The company offers a platform for virtual autoimmune care.", "hyperlink": "https://www.mobihealthnews.com/news/welltheory-raises-14m-virtual-autoimmune-care-platform", "date": ""},
-    {"title": "Cybersecurity company Hootl raises $6.5M", "summary": "The company raised funds for its cybersecurity platform.", "hyperlink": "https://www.mobihealthnews.com/news/cybersecurity-company-hootl-raises-65m", "date": ""},
-    {"title": "California Gov. Gavin Newsom signs legislation on AI chatbots", "summary": "The package of bills aims to bolster protections for children using online chatbots, including prohibiting chatbots from representing themselves as healthcare professionals.", "hyperlink": "https://www.mobihealthnews.com/news/california-gov-gavin-newsom-signs-legislation-ai-chatbots", "date": ""},
-    {"title": "Alleviate Health launches with $4.3M from Andreessen Horowitz", "summary": "The company offers a patient recruitment platform for clinical trials.", "hyperlink": "https://www.mobihealthnews.com/news/alleviate-health-launches-43m-andreessen-horowitz", "date": ""},
-    {"title": "Hesperos, Bayer Consumer Health team up to study central nervous system stress", "summary": "Data from the study revealed that chronic exposure to cortisol disrupts neuronal network activity and damages long-term potentiation, simulating stress-related cognitive decline.", "hyperlink": "https://www.mobihealthnews.com/news/hesperos-bayer-consumer-health-team-study-central-nervous-system-stress", "date": ""},
-    {"title": "Wisp, Vesalius partner to bring peptides into women's healthcare space", "summary": "The two companies will develop affordable peptide therapies aimed at extending women’s lifespan.", "hyperlink": "https://www.mobihealthnews.com/news/wisp-vesalius-partner-bring-peptides-womens-healthcare-space", "date": ""},
-    {"title": "Foundation Health raises $20M for pharmacy platform", "summary": "The funds will be used to expand operations and attract new partners.", "hyperlink": "https://www.mobihealthnews.com/news/foundation-health-raises-20m-pharmacy-platform", "date": ""},
-    {"title": "Rural Hospitals Can Save Time and Money on Managing Their Microsoft Infrastructure", "summary": "Rural hospitals can save time and money by managing their Microsoft infrastructure more efficiently.", "hyperlink": "https://healthtechmagazine.net/article/2025/09/rural-hospitals-can-save-time-and-money-managing-their-microsoft-infrastructure", "date": ""},
-    {"title": "An Overview of 2025 AI Trends in Healthcare", "summary": "Here's an overview of the AI trends in healthcare for 2025.", "hyperlink": "https://healthtechmagazine.net/article/2025/01/overview-2025-ai-trends-healthcare", "date": ""},
-    {"title": "Data Governance and AI Security Go Hand in Hand for Healthcare Organizations", "summary": "Data governance and AI security are crucial for healthcare organizations, here's why.", "hyperlink": "https://healthtechmagazine.net/article/2025/09/data-governance-and-ai-security-go-hand-hand-healthcare-organizations", "date": ""},
-    {"title": "How Agentic AI Accelerates Healthcare Research and Innovation", "summary": "Agentic AI can accelerate healthcare research and innovation, here's how.", "hyperlink": "https://healthtechmagazine.net/article/2025/09/how-agentic-ai-accelerates-healthcare-research-and-innovation", "date": ""},
-    {"title": "Transforming the Emergency Department with AI", "summary": "AI can transform the emergency department, here's how.", "hyperlink": "https://healthtechmagazine.net/article/2025/09/transforming-emergency-department-ai", "date": ""},
-    {"title": "Q&A: Customizing AI Tools To Attract and Retain Clinical Teams", "summary": "Customizing AI tools can help attract and retain clinical teams, here's a Q&A.", "hyperlink": "https://healthtechmagazine.net/article/2025/08/qa-customizing-ai-tools-attract-and-retain-clinical-teams", "date": ""},
-    {"title": "AI-Powered Honeypots Give Healthcare Organizations a Leg Up on Attackers", "summary": "Healthcare organizations are using AI-powered honeypots to detect and prevent cyberattacks.", "hyperlink": "https://healthtechmagazine.net/article/2025/09/ai-powered-honeypots-give-healthcare-organizations-leg-attackers", "date": ""},
-    {"title": "Out-Phishing: How Health Systems Can Re-Evaluate Employee Security Training", "summary": "Health systems can re-evaluate employee security training to prevent phishing attacks.", "hyperlink": "https://healthtechmagazine.net/article/2025/09/out-phishing-how-health-systems-can-re-evaluate-employee-security-training", "date": ""},
-    {"title": "Connected Workstations Are Transforming Fleet Management and Patient Care", "summary": "Connected workstations are transforming fleet management and patient care in healthcare organizations.", "hyperlink": "https://healthtechmagazine.net/article/2025/09/connected-workstations-transforming-fleet-management-and-patient-care", "date": ""},
-    {"title": "Key Elements of Business Continuity and Disaster Recovery in Healthcare", "summary": "Business continuity and disaster recovery are critical for healthcare organizations to ensure patient care is not disrupted.", "hyperlink": "https://healthtechmagazine.net/article/2025/09/key-elements-business-continuity-and-disaster-recovery-healthcare", "date": ""},
-    {"title": "Cleaning up healthcare data for the AI era", "summary": "A QHIN and interoperability pro explains what clean, standardized and interoperable data enables with AI. He also details good governance and standardized frameworks for what constitutes clean data.", "hyperlink": "https://www.healthcareitnews.com/news/cleaning-healthcare-data-ai-era", "date": ""},
-    {"title": "From legacy to scalable: Engineering the AI-powered credentialing stack", "summary": "AI tools that keep humans in the loop can augment healthcare teams’ efforts and help leaders manage risk and scale operations.", "hyperlink": "https://www.healthcareitnews.com/news/legacy-scalable-engineering-ai-powered-credentialing-stack", "date": ""},
-    {"title": "Roundup: EHR vendors prioritize patient access, RCM automation and more", "summary": "Epic with Louisiana providers will enable MyChart access for all of its 2.5 million patients in the state, while athenahealth and WellSky invested in administrative artificial intelligence for home health clinicians and practice claims staff.", "hyperlink": "https://www.healthcareitnews.com/news/roundup-ehr-vendors-prioritize-patient-access-rcm-automation-and-more", "date": ""},
-    {"title": "MetroHealth goes from anesthesia info overload to streamlined workflow success", "summary": "The health system achieved 100% adoption of an AI platform that consolidates multiple sources of clinical information into one easy-to-access mobile app. Clinician satisfaction with data access increased from 22% to 84%.", "hyperlink": "https://www.healthcareitnews.com/news/metrohealth-goes-anesthesia-info-overload-streamlined-workflow-success", "date": ""},
-    {"title": "Can Chewing Gum Diagnose or Prevent Viral Illness?", "summary": "Influenza is a very contagious virus that can spread easily ... but one way to prevent the spread of illness is to isolate", "hyperlink": "https://www.labroots.com/trending/microbiology/29671/chewing-gum-diagnose-prevent-viral-illness", "date": ""},
-    {"title": "The importance of Differential Diagnosis in Respiratory MDx", "summary": "Molecular Respiratory Panels — Importance of Differential Diagnosis With Respiratory Season rapidly approaching", "hyperlink": "https://www.labroots.com/trending/clinical-and-molecular-dx/29620/importance-differential-diagnosis-respiratory-mdx", "date": ""},
-    {"title": "A Component of Mucus Can Stop Salmonella Infections", "summary": "Mucus isn't just some junk for tissues, it serves important biological purposes. It is an important line of defense, and", "hyperlink": "https://www.labroots.com/trending/microbiology/29667/component-mucus-stop-salmonella-infections", "date": ""},
-    {"title": "Legionnaires' - A Recent Outbreak, and New Insights", "summary": "Legionella bacteria can contaminate many water sources, even windshield wiper fluid, and if inhaled as aerosols in contact", "hyperlink": "https://www.labroots.com/trending/microbiology/29640/legionnaires-recent-outbreak-insights", "date": ""},
-    {"title": "Oral Bacteria is Linked to Parkinson's Disease Development", "summary": "In Parkinson's disease, certain dopamine-producing neurons in the brain die off, disrupting movement", "hyperlink": "https://www.labroots.com/trending/microbiology/29630/oral-bacteria-linked-parkinson-s-disease-development", "date": ""},
-    {"title": "Bacteria Boost Chemotherapy Effectiveness", "summary": "The microbiome encompasses all the microorganisms and viruses that reside in a particular environment in the body.", "hyperlink": "https://www.labroots.com/trending/cancer/29642/bacteria-boost-chemotherapy-effectiveness", "date": ""},
-    {"title": "Electric Fields and Fluoxetine Delivery Accelerate Healing", "summary": "How can machine learning be used to treat and heal wounds?", "hyperlink": "https://www.labroots.com/trending/technology/29631/electric-fields-fluoxetine-delivery-accelerate-healing-2", "date": ""},
-    {"title": "Alcohol Lets a Microbial Molecule Escape the Gut & Damage the Liver", "summary": "In the US, the most common reason why someone needs a liver transplant is alcohol-associated liver disease (ALD)", "hyperlink": "https://www.labroots.com/trending/microbiology/29612/alcohol-microbial-molecule-escape-gut-damage-liver", "date": ""},
-    {"title": "From Dirt Comes Two New Antibiotic Candidates", "summary": "Microbes have long been engaged in warfare; these cells have to find a place to survive and thrive, and collect enough nutrients", "hyperlink": "https://www.labroots.com/trending/microbiology/29597/dirt-comes-antibiotic-candidates", "date": ""},
-    {"title": "This Anti-Flu Antibody Cocktail Could Change Virus Treatment", "summary": "Researchers have developed a new type of flu treatment that could have a dramatic impact on the fight against influenza", "hyperlink": "https://www.labroots.com/trending/microbiology/29591/anti-flu-antibody-cocktail-change-virus-treatment", "date": ""},
-    {"title": "Understanding How Host Genetics Can Affect Microbes in the Gut", "summary": "The relationship between the gut microbiome and the human body is complex.", "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29582/understanding-host-genetics-affect-microbes-gut", "date": ""},
-    {"title": "Exposure to Drugs has a Long Term Impact on the Microbiome", "summary": "The human gut microbiome is known to have a powerful impact on our health and well-being.", "hyperlink": "https://www.labroots.com/trending/microbiology/29580/exposure-drugs-term-impact-microbiome", "date": ""},
-    {"title": "Scientists Find a New Kind of Genetic Element in Mouth Microbes", "summary": "When investigating the human mouth microbiome, researchers made a surprising discovery.", "hyperlink": "https://www.labroots.com/trending/microbiology/29569/scientists-genetic-element-mouth-microbes", "date": ""},
-    {"title": "Mitochondria Help Defend Cells Against Infection", "summary": "Researchers have discovered that mitochondria play a crucial role in defending cells against infection, revealing a new mechanism of immune defense.", "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29501/mitochondria-help-defend-cells-infection", "date": ""},
-    {"title": "Gut Immune Cells Migrate to the Brain, Linked to Alzheimer's", "summary": "A new study has found that gut immune cells can migrate to the brain, where they may contribute to the development of Alzheimer's disease.", "hyperlink": "https://www.labroots.com/trending/microbiology/29528/gut-immune-cells-migrate-brain-linked-alzheimer-s", "date": ""},
-    {"title": "Ancient Microbial Samples Revealed in Mammoth Remains", "summary": "Scientists have discovered ancient microbial samples in the remains of mammoths, providing insights into the evolution of microorganisms over time.", "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29555/ancient-microbial-samples-revealed-mammoth-remains", "date": ""},
-    {"title": "Cells Linked to Depression are Discovered", "summary": "Depression is thought to affect over 250 million people around the world. It is a condition that is difficult to treat", "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29696/cells-linked-depression-discovered", "date": ""},
-    {"title": "Ultra-processed Foods May Not Drive Overeating", "summary": "Your perception of foods may matter as much as their nutritional content in determining whether you'll overeat", "hyperlink": "https://www.labroots.com/trending/cardiology/29689/ultra-processed-foods-drive-overeating-2", "date": ""},
-    {"title": "Epigenetics Links Maternal Infections & Neurodevelopmental Conditions", "summary": "There is increasing evidence linking maternal infections to developmental issues, and new research can explain how they", "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29669/epigenetics-links-maternal-infections-neurodevelopmental-conditions", "date": ""},
-    {"title": "Study Explores Role of Cannabinoid Receptor Type 2 Activity in Granulocyte Colony-Stimulating Factor (G-CSF) Treatment for Traumatic Brain Injury (TBI)", "summary": "A study published in the Journal of Cannabis Research examined the effect of granulocyte colony-stimulating factor (G-CS", "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29674/study-explores-role-cannabinoid-receptor-type-2-activity-granulocyte-colony-stimulating-factor-g-csf-2", "date": ""},
-    {"title": "Poor Sleep Linked to Faster Brain Aging", "summary": "Poor sleep may speed up brain aging, found a new study published in eBioMedicine", "hyperlink": "https://www.labroots.com/trending/neuroscience/29673/poor-sleep-linked-faster-brain-aging-2", "date": ""},
-    {"title": "Acetaminophen Under the Microscope: Evidence from Peer-Reviewed Studies", "summary": "Acetaminophen is a common pain and fever reliever medication used for many ailments, including headaches, muscle aches", "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29668/acetaminophen-microscope-evidence-peer-reviewed-studies-2", "date": ""},
-    {"title": "New Huntington's Disease Therapy Slows Patients' Disease by 75%", "summary": "Huntington's disease is a fatal genetic disorder, but new work could help change that", "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29629/huntington-s-disease-therapy-slows-patients-disease-75", "date": ""},
-    {"title": "Daylight Saving Time May Increase Strokes and Obesity", "summary": "Switching our clocks twice a year is having a significant negative impact on our health", "hyperlink": "https://www.labroots.com/trending/cardiology/29615/daylight-saving-time-increase-strokes-obesity-2", "date": ""},
-    {"title": "Does Frailty Cause Dementia?", "summary": "There may be a causal link between physical frailty and dementia, reported a recent study published in Neurology", "hyperlink": "https://www.labroots.com/trending/neuroscience/29619/frailty-cause-dementia-2", "date": ""},
-    {"title": "Why This ALS Drug Was a Miss, Though it Hit the Target", "summary": "Scientists have learned more about the effects of an experimental amyotrophic lateral sclerosis (ALS) drug candidate", "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29596/als-drug-miss-hit-target", "date": ""},
-    {"title": "Over 40% of Preschoolers Receive ADHD Medications Too Early", "summary": "A new study found that young children with ADHD often receive medication immediately after diagnosis without undergoing", "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29600/40-preschoolers-receive-adhd-medications-2", "date": ""},
-    {"title": "Opioids in Pregnancy May Not Increase Autism, ADHD Risk", "summary": "New research has found that exposure to opioid pain medications while in the womb may not increase the risk of autism or", "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29599/opioids-pregnancy-increase-autism-adhd-risk-2", "date": ""},
-    {"title": "Insomnia Linked to 40% Higher Dementia Risk", "summary": "People with chronic insomnia are 40% more likely to develop dementia or mild cognitive issues, reported a new study published", "hyperlink": "https://www.labroots.com/trending/neuroscience/29592/insomnia-linked-40-dementia-risk", "date": ""},
-    {"title": "Does Cannabis Still Affect Driving After a 2-day Break?", "summary": "Frequent cannabis users do not display impaired driving after at least 48 hours of abstinence, found a new study published", "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29578/cannabis-affect-driving-2-day-break-2", "date": ""},
-    {"title": "The Link Between Breakfast Timing and Longevity", "summary": "Eating breakfast later is associated with a higher risk of death in older adults", "hyperlink": "https://www.labroots.com/trending/cardiology/29577/link-breakfast-timing-longevity-2", "date": ""},
-    {"title": "New Study Reveals Foods that Delay Dementia and Heart Disease", "summary": "Focusing on a healthy diet as we age may stop or slow the progression of heart disease and dementia", "hyperlink": "https://www.labroots.com/trending/cardiology/29576/study-reveals-foods-delay-dementia-heart-disease-2", "date": ""},
-    {"title": "Targeting Brain Cancer from Multiple Angles", "summary": "Glioblastoma multiforme (GBM) is a highly aggressive and malignant brain tumor that is resistant to many treatments", "hyperlink": "https://www.labroots.com/trending/health-and-medicine/29573/targeting-brain-cancer-multiple-angles", "date": ""},
-    {"title": "Researchers Discover How to Differentiate Parkinson's & Essential Tremor", "summary": "Millions of people worldwide are affected by Parkinson's disease, which can cause movement disorders like tremor", "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29557/researchers-discover-differentiate-parkinson-s-essential-tremor", "date": ""},
-    {"title": "CBD Treatment Linked to Better Object and Spatial Memory Functions", "summary": "What impact can cannabidiol (CBD) have on cognitive function and memory?", "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29548/cbd-treatment-linked-object-spatial-memory-functions-2", "date": ""},
-    {"title": "New Insights Into How An Alzheimer's Risk Gene Works", "summary": "Microglia work to repair neuronal damage and maintain the health of neural networks", "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29547/insights-alzheimer-s-risk-gene", "date": ""},
-    {"title": "Purpose in Life May Protect Against Cognitive Impairment", "summary": "People with a strong sense of purpose in life are 28% less likely to develop cognitive impairment", "hyperlink": "https://www.labroots.com/trending/neuroscience/29529/purpose-life-protect-cognitive-impairment-2", "date": ""},
-    {"title": "Lymph Nodes Facilitate Cancer-Killing Immune Cells", "summary": "Lymph nodes have been shown to play a role in facilitating cancer-killing immune cells", "hyperlink": "https://www.labroots.com/trending/nocat/29666/lymph-nodes-facilitate-cancer-killing-immune-cells", "date": ""}
+    {
+        "title": "Kailera Therapeutics, an obesity drug startup, raises $600 million",
+        "summary": "Kailera Therapeutics has raised $600 million in funding to support the development of its obesity treatments.",
+        "hyperlink": "https://www.statnews.com/2025/10/14/kailera-therapeutics-obesity-drugs-fundraising/",
+        "date": ""
+    },
+    {
+        "title": "As more nurses deliver primary care, an AI startup wants to guide their decisions and training",
+        "summary": "An AI startup is working to guide the decisions and training of nurses who are delivering primary care.",
+        "hyperlink": "https://www.statnews.com/2025/10/14/altitude-artificial-intelligence-nursing-practitioners/",
+        "date": ""
+    },
+    {
+        "title": "CDC team running top survey on health and nutrition is laid off",
+        "summary": "A CDC team responsible for a key survey on health and nutrition has been laid off, raising concerns about the impact on public health research.",
+        "hyperlink": "https://www.statnews.com/2025/10/14/cdc-behind-top-nutrition-survey-nhanes-laid-off/",
+        "date": ""
+    },
+    {
+        "title": "The word ‘dementia’ is about to lose its value",
+        "summary": "The term 'dementia' may become less relevant as new biomarker-based diagnoses emerge for conditions like Alzheimer's disease.",
+        "hyperlink": "https://www.statnews.com/2025/10/14/dementia-biomarker-based-diagnoses-alzheimers-late-lewy-body/",
+        "date": ""
+    },
+    {
+        "title": "Lyra launches ‘clinical-grade’ chatbot amid growing concern about mental health and AI",
+        "summary": "Lyra has launched a 'clinical-grade' chatbot to support mental health, but concerns about AI in healthcare persist.",
+        "hyperlink": "https://www.statnews.com/2025/10/14/lyra-health-ai-chatbot-mental-health/",
+        "date": ""
+    },
+    {
+        "title": "The long history of euphemisms around the use of animals in lab research",
+        "summary": "The use of animals in lab research has a long history of euphemisms, which can obscure the reality of animal testing.",
+        "hyperlink": "https://www.statnews.com/2025/10/14/lab-dog-book-excerpt-de-animalization-animal-research/",
+        "date": ""
+    },
+    {
+        "title": "FDA declares Novo Nordisk plant, key to drug manufacturing for some biotechs, out of compliance",
+        "summary": "The FDA has declared a Novo Nordisk plant out of compliance, which could impact the manufacturing of certain drugs.",
+        "hyperlink": "https://www.statnews.com/2025/10/13/novo-nordisk-catalent-drug-manufacturing-fda/",
+        "date": ""
+    },
+    {
+        "title": "Why this cardiologist is cautious about the Apple Watch’s blood pressure feature",
+        "summary": "A cardiologist is expressing caution about the Apple Watch's blood pressure feature, citing concerns about its accuracy and potential impact on public health.",
+        "hyperlink": "https://www.statnews.com/2025/10/13/apple-watch-hypertension-notifications-blood-pressure-public-health/",
+        "date": ""
+    },
+    {
+        "title": "Drug developers shouldn’t shortchange the autoimmune community",
+        "summary": "The autoimmune community is often overlooked in the development of new treatments, and this needs to change.",
+        "hyperlink": "https://www.statnews.com/2025/10/13/clinical-trials-autoimmune-disorders-crohns-lupus-nkarta/",
+        "date": ""
+    },
+    {
+        "title": "Medicare Advantage insurers still in retreat as annual enrollment kicks off",
+        "summary": "Medicare Advantage insurers are still in retreat as the annual enrollment period kicks off, with many companies scaling back their offerings.",
+        "hyperlink": "https://www.statnews.com/2025/10/13/medicare-advantage-plans-open-enrollment-2026-benefits-costs/",
+        "date": ""
+    },
+    {
+        "title": "Biden is receiving radiation and hormone therapy to treat his prostate cancer",
+        "summary": "President Biden is undergoing radiation and hormone therapy to treat his prostate cancer.",
+        "hyperlink": "https://www.statnews.com/2025/10/12/joe-biden-prostate-cancer-treatment-radiation-hormone-therapy/",
+        "date": ""
+    },
+    {
+        "title": "One Mass. health system is turning to AI to ease shortage of primary care doctors. Some don’t like it",
+        "summary": "A Massachusetts health system is using AI to help alleviate a shortage of primary care doctors, but not everyone is on board with the plan.",
+        "hyperlink": "https://www.statnews.com/2025/10/12/mass-general-brigham-ai-primary-care-doctors-shortage/",
+        "date": ""
+    },
+    {
+        "title": "Sarepta to seek approval for gene therapy in rare form of muscular dystrophy",
+        "summary": "Sarepta is seeking approval for a gene therapy to treat a rare form of muscular dystrophy.",
+        "hyperlink": "https://www.statnews.com/2025/10/10/sarepta-gene-therapy-limb-girdle-muscular-dystrophy/",
+        "date": ""
+    },
+    {
+        "title": "President Trump is in ‘exceptional health,’ his doctor says, after visit to Walter Reed",
+        "summary": "President Trump's doctor says he is in 'exceptional health' after a visit to Walter Reed hospital.",
+        "hyperlink": "https://www.statnews.com/2025/10/10/president-trump-health-doctor-checkup-results/",
+        "date": ""
+    },
+    {
+        "title": "Bristol Myers to buy startup Orbital Therapeutics, building out cell therapy pipeline",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/10/bristol-myers-squibb-orbital-cell-therapy-autoimmune-car-t-in-vivo/",
+        "date": ""
+    },
+    {
+        "title": "In biotech, Boston reigns supreme, but its competitive edge is being challenged in new ways",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/09/boston-cambridge-biotech-capital/",
+        "date": ""
+    },
+    {
+        "title": "More people with psychosis are using cannabis. Medical professionals are worried",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/08/marijuana-link-to-psychosis-effect-of-legalization/",
+        "date": ""
+    },
+    {
+        "title": "Senate-passed BIOSECURE Act would add arrow to Trump’s drug-pricing quiver",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/10/senate-passes-biosecure-act-trump-drug-pricing-china/",
+        "date": ""
+    },
+    {
+        "title": "Coalition for Health AI faces escalating attacks by Trump officials, loss of founding member Amazon",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/09/chai-ai-coalition-healthcare-trump/",
+        "date": ""
+    },
+    {
+        "title": "Digital health M&A picks up, driven by AI and private equity",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/08/digital-health-mergers-acquisitions-ai-private-equity/",
+        "date": ""
+    },
+    {
+        "title": "They advised federal health agencies on the ethics and impact of scientific research. They’re no longer wanted",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/07/hhs-science-bioethics-advisory-committees-disbanded/",
+        "date": ""
+    },
+    {
+        "title": "Oura raises $900M, boosting valuation to around $11B",
+        "summary": "The company's CEO, Tom Hale, told MobiHealthNews Oura will use the funds for AI-driven innovation to redefine what digital health technology can do.",
+        "hyperlink": "https://www.mobihealthnews.com/news/oura-raises-900m-boosting-valuation-around-11b",
+        "date": ""
+    },
+    {
+        "title": "WellTheory raises $14M for virtual autoimmune care platform",
+        "summary": "The company offers a virtual care platform for autoimmune patients.",
+        "hyperlink": "https://www.mobihealthnews.com/news/welltheory-raises-14m-virtual-autoimmune-care-platform",
+        "date": ""
+    },
+    {
+        "title": "Cybersecurity company Hootl raises $6.5M",
+        "summary": "The company offers cybersecurity solutions for healthcare.",
+        "hyperlink": "https://www.mobihealthnews.com/news/cybersecurity-company-hootl-raises-65m",
+        "date": ""
+    },
+    {
+        "title": "California Gov. Gavin Newsom signs legislation on AI chatbots",
+        "summary": "The package of bills aims to bolster protections for children using online chatbots, including prohibiting chatbots from representing themselves as healthcare professionals.",
+        "hyperlink": "https://www.mobihealthnews.com/news/california-gov-gavin-newsom-signs-legislation-ai-chatbots",
+        "date": ""
+    },
+    {
+        "title": "Alleviate Health launches with $4.3M from Andreessen Horowitz",
+        "summary": "The company offers a patient recruitment platform for clinical trials.",
+        "hyperlink": "https://www.mobihealthnews.com/news/alleviate-health-launches-43m-andreessen-horowitz",
+        "date": ""
+    },
+    {
+        "title": "Hesperos, Bayer Consumer Health team up to study central nervous system stress",
+        "summary": "Data from the study revealed that chronic exposure to cortisol disrupts neuronal network activity and damages long-term potentiation, simulating stress-related cognitive decline.",
+        "hyperlink": "https://www.mobihealthnews.com/news/hesperos-bayer-consumer-health-team-study-central-nervous-system-stress",
+        "date": ""
+    },
+    {
+        "title": "Wisp, Vesalius partner to bring peptides into women's healthcare space",
+        "summary": "The two companies will develop affordable peptide therapies aimed at extending women’s lifespan.",
+        "hyperlink": "https://www.mobihealthnews.com/news/wisp-vesalius-partner-bring-peptides-womens-healthcare-space",
+        "date": ""
+    },
+    {
+        "title": "Foundation Health raises $20M for pharmacy platform",
+        "summary": "The funds will be used to expand operations and attract new partners.",
+        "hyperlink": "https://www.mobihealthnews.com/news/foundation-health-raises-20m-pharmacy-platform",
+        "date": ""
+    },
+    {
+        "title": "Rural Hospitals Can Save Time and Money on Managing Their Microsoft Infrastructure",
+        "summary": "Rural hospitals can save time and money by managing their Microsoft infrastructure more efficiently.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/rural-hospitals-can-save-time-and-money-managing-their-microsoft-infrastructure",
+        "date": ""
+    },
+    {
+        "title": "Data Governance and AI Security Go Hand in Hand for Healthcare Organizations",
+        "summary": "Data governance and AI security are crucial for healthcare organizations, here's why.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/data-governance-and-ai-security-go-hand-hand-healthcare-organizations",
+        "date": ""
+    },
+    {
+        "title": "How Agentic AI Accelerates Healthcare Research and Innovation",
+        "summary": "Agentic AI can accelerate healthcare research and innovation, here's how.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/how-agentic-ai-accelerates-healthcare-research-and-innovation",
+        "date": ""
+    },
+    {
+        "title": "Transforming the Emergency Department with AI",
+        "summary": "AI can transform the emergency department, here's how.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/transforming-emergency-department-ai",
+        "date": ""
+    },
+    {
+        "title": "Q&A: Customizing AI Tools To Attract and Retain Clinical Teams",
+        "summary": "Customizing AI tools can help attract and retain clinical teams, here's how.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/08/qa-customizing-ai-tools-attract-and-retain-clinical-teams",
+        "date": ""
+    },
+    {
+        "title": "Test Endurance in Healthcare Cybersecurity",
+        "summary": "Healthcare organizations must prioritize cybersecurity endurance to protect against threats.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/test-endurance-healthcare-cybersecurity",
+        "date": ""
+    },
+    {
+        "title": "AI Makes Penetration Testing More Powerful for Healthcare Organizations",
+        "summary": "AI-powered penetration testing can help healthcare organizations strengthen their cybersecurity defenses.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/ai-makes-penetration-testing-more-powerful-healthcare-organizations",
+        "date": ""
+    },
+    {
+        "title": "Smart Hospitals Start with Smart Buildings and Automation's Role in Patient-Centric Care",
+        "summary": "Smart hospitals can improve patient care with automation and smart building technologies.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/smart-hospitals-start-smart-buildings-automations-role-patient-centric-care",
+        "date": ""
+    },
+    {
+        "title": "Securing the Connected Ecosystem in Senior Care",
+        "summary": "Senior care organizations must prioritize cybersecurity to protect sensitive patient data.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/securing-connected-ecosystem-senior-care",
+        "date": ""
+    },
+    {
+        "title": "Project aims to establish Australia’s big data on traumatic brain injury",
+        "summary": "This first national collaboration will develop a localised neuroprognostication tool and adopt FHIR standards.",
+        "hyperlink": "https://www.healthcareitnews.com/news/anz/project-aims-establish-australias-big-data-traumatic-brain-injury",
+        "date": ""
+    },
+    {
+        "title": "Cleaning up healthcare data for the AI era",
+        "summary": "A QHIN and interoperability pro explains what clean, standardized and interoperable data enables with AI.",
+        "hyperlink": "https://www.healthcareitnews.com/news/cleaning-healthcare-data-ai-era",
+        "date": ""
+    },
+    {
+        "title": "'Deviceless' RPM could be a potent telehealth expansion",
+        "summary": "'Deviceless' RPM could be a potent telehealth expansion",
+        "hyperlink": "https://www.healthcareitnews.com/news/deviceless-rpm-could-be-potent-telehealth-expansion",
+        "date": ""
+    },
+    {
+        "title": "From legacy to scalable: Engineering the AI-powered credentialing stack",
+        "summary": "AI tools that keep humans in the loop can augment healthcare teams’ efforts and help leaders manage risk and scale operations.",
+        "hyperlink": "https://www.healthcareitnews.com/news/legacy-scalable-engineering-ai-powered-credentialing-stack",
+        "date": ""
+    },
+    {
+        "title": "Roundup: EHR vendors prioritize patient access, RCM automation and more",
+        "summary": "Epic with Louisiana providers will enable MyChart access for all of its 2.5 million patients in the state, while athenahealth and WellSky invested in administrative artificial intelligence for home health clinicians and practice claims staff.",
+        "hyperlink": "https://www.healthcareitnews.com/news/roundup-ehr-vendors-prioritize-patient-access-rcm-automation-and-more",
+        "date": ""
+    },
+    {
+        "title": "List shows all Medicare Advantage plans' overall star ratings for 2026",
+        "summary": "Thirty-four MA plans earned 5 stars in 2026 star ratings.",
+        "hyperlink": "https://www.healthcareitnews.com/news/list-shows-all-medicare-advantage-plans-overall-star-ratings-2026",
+        "date": ""
+    },
+    {
+        "title": "Wisp, Vesalius partner to bring peptides into women's healthcare space",
+        "summary": "The two companies will develop affordable peptide therapies aimed at extending women’s lifespan.",
+        "hyperlink": "https://www.healthcareitnews.com/news/wisp-vesalius-partner-bring-peptides-womens-healthcare-space",
+        "date": ""
+    }
 ]
