@@ -1,24 +1,6 @@
 ```json
 [
     {
-        "title": "Project aims to establish Australia’s big data on traumatic brain injury",
-        "summary": "This first national collaboration will develop a localised neuroprognostication tool and adopt FHIR standards.",
-        "hyperlink": "https://www.healthcareitnews.com/news/anz/project-aims-establish-australias-big-data-traumatic-brain-injury",
-        "date": "14-10-2025"
-    },
-    {
-        "title": "Cleaning up healthcare data for the AI era",
-        "summary": "A QHIN and interoperability pro explains what clean, standardized and interoperable data enables with AI.",
-        "hyperlink": "https://www.healthcareitnews.com/news/cleaning-healthcare-data-ai-era",
-        "date": "14-10-2025"
-    },
-    {
-        "title": "CHAI seeks to communicate with HHS leaders over recent criticisms",
-        "summary": "CHAI seeks to communicate with HHS leaders over recent criticisms",
-        "hyperlink": "https://www.healthcareitnews.com/news/chai-seeks-communicate-hhs-leaders-over-recent-criticisms",
-        "date": "14-10-2025"
-    },
-    {
         "title": "STAT Plus: Kailera Therapeutics, an obesity drug startup, raises $600 million",
         "summary": "Kailera Therapeutics, an obesity drug startup, has raised $600 million in funding to support the development of its obesity treatments.",
         "hyperlink": "https://www.statnews.com/2025/10/14/kailera-therapeutics-obesity-drugs-fundraising/",
@@ -43,32 +25,20 @@
         "date": "14-10-2025"
     },
     {
+        "title": "STAT Plus: Inside FDA, career staffers describe how political pressure is influencing their work",
+        "summary": "Career staffers at the FDA are describing how political pressure is influencing their work.",
+        "hyperlink": "https://www.statnews.com/2025/10/14/fda-under-trump-rfk-jr-staff-describe-political-pressure/",
+        "date": "14-10-2025"
+    },
+    {
         "title": "STAT Plus: Lyra launches ‘clinical-grade’ chatbot amid growing concern about mental health and AI",
         "summary": "Lyra has launched a 'clinical-grade' chatbot amid growing concern about mental health and AI.",
         "hyperlink": "https://www.statnews.com/2025/10/14/lyra-health-ai-chatbot-mental-health/",
         "date": "14-10-2025"
     },
     {
-        "title": "The long history of euphemisms around the use of animals in lab research",
-        "summary": "There is a long history of euphemisms around the use of animals in lab research.",
-        "hyperlink": "https://www.statnews.com/2025/10/14/lab-dog-book-excerpt-de-animalization-animal-research/",
-        "date": "14-10-2025"
-    },
-    {
-        "title": "'Deviceless' RPM could be a potent telehealth expansion",
-        "summary": "'Deviceless' RPM could be a potent telehealth expansion",
-        "hyperlink": "https://www.healthcareitnews.com/news/deviceless-rpm-could-be-potent-telehealth-expansion",
-        "date": "13-10-2025"
-    },
-    {
-        "title": "From legacy to scalable: Engineering the AI-powered credentialing stack",
-        "summary": "AI tools that keep humans in the loop can augment healthcare teams’ efforts and help leaders manage risk and scale operations.",
-        "hyperlink": "https://www.healthcareitnews.com/news/legacy-scalable-engineering-ai-powered-credentialing-stack",
-        "date": "13-10-2025"
-    },
-    {
         "title": "STAT Plus: FDA declares Novo Nordisk plant, key to drug manufacturing for some biotechs, out of compliance",
-        "summary": "The FDA has declared a Novo Nordisk plant out of compliance, which could impact the manufacturing of certain drugs.",
+        "summary": "The FDA has declared a Novo Nordisk plant out of compliance, which could impact drug manufacturing for some biotechs.",
         "hyperlink": "https://www.statnews.com/2025/10/13/novo-nordisk-catalent-drug-manufacturing-fda/",
         "date": "13-10-2025"
     },
@@ -86,7 +56,7 @@
     },
     {
         "title": "STAT Plus: Medicare Advantage insurers still in retreat as annual enrollment kicks off",
-        "summary": "Medicare Advantage insurers are still in retreat as the annual enrollment period kicks off, with many companies scaling back their offerings.",
+        "summary": "Medicare Advantage insurers are still in retreat as annual enrollment kicks off, with many companies scaling back their offerings.",
         "hyperlink": "https://www.statnews.com/2025/10/13/medicare-advantage-plans-open-enrollment-2026-benefits-costs/",
         "date": "13-10-2025"
     },
@@ -98,27 +68,9 @@
     },
     {
         "title": "One Mass. health system is turning to AI to ease shortage of primary care doctors. Some don’t like it",
-        "summary": "A Massachusetts health system is using AI to help alleviate a shortage of primary care doctors, but not everyone is on board with the plan.",
+        "summary": "A Massachusetts health system is using AI to help ease the shortage of primary care doctors, but not everyone is on board with the idea.",
         "hyperlink": "https://www.statnews.com/2025/10/12/mass-general-brigham-ai-primary-care-doctors-shortage/",
         "date": "12-10-2025"
-    },
-    {
-        "title": "Roundup: EHR vendors prioritize patient access, RCM automation and more",
-        "summary": "Epic with Louisiana providers will enable MyChart access for all of its 2.5 million patients in the state, while athenahealth and WellSky invested in administrative artificial intelligence for home health clinicians and practice claims staff.",
-        "hyperlink": "https://www.healthcareitnews.com/news/roundup-ehr-vendors-prioritize-patient-access-rcm-automation-and-more",
-        "date": "10-10-2025"
-    },
-    {
-        "title": "List shows all Medicare Advantage plans' overall star ratings for 2026",
-        "summary": "Thirty-four MA plans earned 5 stars in 2026 star ratings.",
-        "hyperlink": "https://www.healthcareitnews.com/news/list-shows-all-medicare-advantage-plans-overall-star-ratings-2026",
-        "date": "10-10-2025"
-    },
-    {
-        "title": "Wisp, Vesalius partner to bring peptides into women's healthcare space",
-        "summary": "The two companies will develop affordable peptide therapies aimed at extending women’s lifespan.",
-        "hyperlink": "https://www.healthcareitnews.com/news/wisp-vesalius-partner-bring-peptides-womens-healthcare-space",
-        "date": "10-10-2025"
     },
     {
         "title": "Sarepta to seek approval for gene therapy in rare form of muscular dystrophy",
@@ -128,7 +80,7 @@
     },
     {
         "title": "President Trump is in ‘exceptional health,’ his doctor says, after visit to Walter Reed",
-        "summary": "President Trump's doctor says he is in 'exceptional health' after a visit to Walter Reed hospital.",
+        "summary": "President Trump's doctor says he is in 'exceptional health' after a visit to Walter Reed medical center.",
         "hyperlink": "https://www.statnews.com/2025/10/10/president-trump-health-doctor-checkup-results/",
         "date": "10-10-2025"
     },
@@ -139,15 +91,9 @@
         "date": "10-10-2025"
     },
     {
-        "title": "Senate-passed BIOSECURE Act would add arrow to Trump’s drug-pricing quiver",
-        "summary": "The Senate-passed BIOSECURE Act aims to reduce drug prices by increasing competition and transparency in the pharmaceutical industry.",
-        "hyperlink": "https://www.statnews.com/2025/10/10/senate-passes-biosecure-act-trump-drug-pricing-china/",
-        "date": "10-10-2025"
-    },
-    {
-        "title": "Coalition for Health AI faces escalating attacks by Trump officials, loss of founding member Amazon",
-        "summary": "The Coalition for Health AI is facing challenges from Trump officials and the loss of founding member Amazon, which could impact its ability to promote AI in healthcare.",
-        "hyperlink": "https://www.statnews.com/2025/10/09/chai-ai-coalition-healthcare-trump/",
+        "title": "Trump Pharma: generics, Novo, antibiotics, UK, India, and Amazon",
+        "summary": "The Trump administration's impact on the pharmaceutical industry, including generics, Novo, antibiotics, and the role of the UK, India, and Amazon.",
+        "hyperlink": "https://www.statnews.com/pharmalot/2025/10/09/trump-pharma-generics-novo-antibiotics-uk-india-amazon/",
         "date": "09-10-2025"
     },
     {
@@ -155,6 +101,102 @@
         "summary": "The increasing use of cannabis among people with psychosis is causing concern among medical professionals, who warn of potential risks and consequences.",
         "hyperlink": "https://www.statnews.com/2025/10/08/marijuana-link-to-psychosis-effect-of-legalization/",
         "date": "08-10-2025"
+    },
+    {
+        "title": "As Supreme Court weighs conversion therapy, conservative justices question medical authority",
+        "summary": "The Supreme Court is considering the constitutionality of conversion therapy, with conservative justices questioning the medical community's opposition to the practice.",
+        "hyperlink": "https://www.statnews.com/2025/10/07/conversion-therapy-supreme-court-medical-regulation/",
+        "date": "07-10-2025"
+    },
+    {
+        "title": "Roche India patents medicines for rare disease",
+        "summary": "Roche India has been granted patents for medicines to treat rare diseases, sparking debate over access to affordable healthcare.",
+        "hyperlink": "https://www.statnews.com/pharmalot/2025/10/10/roche-india-patents-medicines-rare-disease/",
+        "date": "10-10-2025"
+    },
+    {
+        "title": "5 Questions About Which Firewall Goes Where",
+        "summary": "Here are 5 questions about firewalls and their placement.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/5-questions-about-which-firewall-goes-where",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "A Strategic Approach to Modern Work in Healthcare",
+        "summary": "These health IT influencers are change-makers, innovators and compassionate leaders who use technology to make a difference in provider experiences and patient outcomes.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/strategic-approach-modern-work-healthcare",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "IHS’s PATH EHR Rollout Aims to Modernize Healthcare for Native Americans",
+        "summary": "Health systems that have embraced remote or hybrid work may need to reassess what’s working and what needs to change.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/ihss-path-ehr-rollout-aims-modernize-healthcare-native-americans",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "Health Systems Need a Reliable Network To Deliver Quality Care",
+        "summary": "These health IT influencers are change-makers, innovators and compassionate leaders who use technology to make a difference in provider experiences and patient outcomes. Reliable networks are crucial for healthcare organizations to deliver high-quality patient care.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/health-systems-need-reliable-network-deliver-quality-care",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "Rural Hospitals Can Save Time and Money on Managing Their Microsoft Infrastructure",
+        "summary": "Rural hospitals can save time and money by managing their Microsoft infrastructure more efficiently.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/rural-hospitals-can-save-time-and-money-managing-their-microsoft-infrastructure",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Data Governance and AI Security Go Hand in Hand for Healthcare Organizations",
+        "summary": "Data governance and AI security are crucial for healthcare organizations, here's why.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/data-governance-and-ai-security-go-hand-hand-healthcare-organizations",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "How Agentic AI Accelerates Healthcare Research and Innovation",
+        "summary": "Agentic AI can accelerate healthcare research and innovation, here's how. Agentic AI can accelerate healthcare research and innovation by analyzing large datasets and identifying patterns.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/how-agentic-ai-accelerates-healthcare-research-and-innovation",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Transforming the Emergency Department with AI",
+        "summary": "AI can transform the emergency department, here's how.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/transforming-emergency-department-ai",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Test Endurance in Healthcare Cybersecurity",
+        "summary": "Healthcare organizations must prioritize cybersecurity endurance to protect against threats.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/test-endurance-healthcare-cybersecurity",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "AI Makes Penetration Testing More Powerful for Healthcare Organizations",
+        "summary": "AI-powered penetration testing can help healthcare organizations strengthen their cybersecurity defenses.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/ai-makes-penetration-testing-more-powerful-healthcare-organizations",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Smart Hospitals Start with Smart Buildings and Automation's Role in Patient-Centric Care",
+        "summary": "Smart hospitals can improve patient care with automation and smart building technologies.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/smart-hospitals-start-smart-buildings-automations-role-patient-centric-care",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Securing the Connected Ecosystem in Senior Care",
+        "summary": "Senior care organizations must prioritize cybersecurity to protect sensitive patient data.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/securing-connected-ecosystem-senior-care",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Q&A: Customizing AI Tools To Attract and Retain Clinical Teams",
+        "summary": "Customizing AI tools can help attract and retain clinical teams, here's how.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/08/qa-customizing-ai-tools-attract-and-retain-clinical-teams",
+        "date": "01-08-2025"
+    },
+    {
+        "title": "Helpful Tips for Hospitals When Implementing Microsoft Dragon Copilot",
+        "summary": "These health IT influencers are change-makers, innovators and compassionate leaders who use technology to make a difference in provider experiences and patient outcomes. Hospitals can benefit from implementing Microsoft Dragon Copilot, here are some helpful tips.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/07/helpful-tips-hospitals-when-implementing-microsoft-dragon-copilot",
+        "date": "01-07-2025"
     },
     {
         "title": "Oura raises $900M, boosting valuation to around $11B",
@@ -193,63 +235,51 @@
         "date": ""
     },
     {
+        "title": "Wisp, Vesalius partner to bring peptides into women's healthcare space",
+        "summary": "The two companies will develop affordable peptide therapies aimed at extending women’s lifespan.",
+        "hyperlink": "https://www.mobihealthnews.com/news/wisp-vesalius-partner-bring-peptides-womens-healthcare-space",
+        "date": ""
+    },
+    {
         "title": "Foundation Health raises $20M for pharmacy platform",
         "summary": "The funds will be used to expand operations and attract new partners.",
         "hyperlink": "https://www.mobihealthnews.com/news/foundation-health-raises-20m-pharmacy-platform",
         "date": ""
     },
     {
-        "title": "Rural Hospitals Can Save Time and Money on Managing Their Microsoft Infrastructure",
-        "summary": "Rural hospitals can save time and money by managing their Microsoft infrastructure more efficiently.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/rural-hospitals-can-save-time-and-money-managing-their-microsoft-infrastructure",
+        "title": "Project aims to establish Australia’s big data on traumatic brain injury",
+        "summary": "This first national collaboration will develop a localised neuroprognostication tool and adopt FHIR standards.",
+        "hyperlink": "https://www.healthcareitnews.com/news/anz/project-aims-establish-australias-big-data-traumatic-brain-injury",
         "date": ""
     },
     {
-        "title": "Data Governance and AI Security Go Hand in Hand for Healthcare Organizations",
-        "summary": "Data governance and AI security are crucial for healthcare organizations, here's why.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/data-governance-and-ai-security-go-hand-hand-healthcare-organizations",
+        "title": "Cleaning up healthcare data for the AI era",
+        "summary": "A QHIN and interoperability pro explains what clean, standardized and interoperable data enables with AI.",
+        "hyperlink": "https://www.healthcareitnews.com/news/cleaning-healthcare-data-ai-era",
         "date": ""
     },
     {
-        "title": "How Agentic AI Accelerates Healthcare Research and Innovation",
-        "summary": "Agentic AI can accelerate healthcare research and innovation, here's how.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/how-agentic-ai-accelerates-healthcare-research-and-innovation",
+        "title": "'Deviceless' RPM could be a potent telehealth expansion",
+        "summary": "'Deviceless' RPM could be a potent telehealth expansion",
+        "hyperlink": "https://www.healthcareitnews.com/news/deviceless-rpm-could-be-potent-telehealth-expansion",
         "date": ""
     },
     {
-        "title": "Transforming the Emergency Department with AI",
-        "summary": "AI can transform the emergency department, here's how.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/transforming-emergency-department-ai",
+        "title": "From legacy to scalable: Engineering the AI-powered credentialing stack",
+        "summary": "AI tools that keep humans in the loop can augment healthcare teams’ efforts and help leaders manage risk and scale operations.",
+        "hyperlink": "https://www.healthcareitnews.com/news/legacy-scalable-engineering-ai-powered-credentialing-stack",
         "date": ""
     },
     {
-        "title": "Q&A: Customizing AI Tools To Attract and Retain Clinical Teams",
-        "summary": "Customizing AI tools can help attract and retain clinical teams, here's how.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/08/qa-customizing-ai-tools-attract-and-retain-clinical-teams",
+        "title": "Roundup: EHR vendors prioritize patient access, RCM automation and more",
+        "summary": "Epic with Louisiana providers will enable MyChart access for all of its 2.5 million patients in the state, while athenahealth and WellSky invested in administrative artificial intelligence for home health clinicians and practice claims staff.",
+        "hyperlink": "https://www.healthcareitnews.com/news/roundup-ehr-vendors-prioritize-patient-access-rcm-automation-and-more",
         "date": ""
     },
     {
-        "title": "AI Makes Penetration Testing More Powerful for Healthcare Organizations",
-        "summary": "AI-powered penetration testing is becoming increasingly important for healthcare organizations to protect against cyber threats.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/ai-makes-penetration-testing-more-powerful-healthcare-organizations",
-        "date": ""
-    },
-    {
-        "title": "QA: Cyberark Security Leader on Why Agentic AI Makes Zero Trust More Important Than Ever",
-        "summary": "Agentic AI is making zero-trust security more important than ever for healthcare organizations, according to a security leader at Cyberark.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/qa-cyberark-security-leader-why-agentic-ai-makes-zero-trust-more-important-ever",
-        "date": ""
-    },
-    {
-        "title": "Smart Hospitals Start with Smart Buildings: Automation's Role in Patient-Centric Care",
-        "summary": "Smart buildings are essential for creating smart hospitals that prioritize patient-centric care, according to healthcare experts.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/smart-hospitals-start-smart-buildings-automations-role-patient-centric-care",
-        "date": ""
-    },
-    {
-        "title": "Building Stronger Support Systems for Rural Healthcare",
-        "summary": "Rural healthcare organizations are working to build stronger support systems to improve patient care and outcomes.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/building-stronger-support-systems-rural-healthcare",
+        "title": "List shows all Medicare Advantage plans' overall star ratings for 2026",
+        "summary": "Thirty-four MA plans earned 5 stars in 2026 star ratings.",
+        "hyperlink": "https://www.healthcareitnews.com/news/list-shows-all-medicare-advantage-plans-overall-star-ratings-2026",
         "date": ""
     }
 ]
