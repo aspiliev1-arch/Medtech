@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Medical News Viewer</title>
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #000000;
+      --meta: #444444;
+      --link: #0056cc;
+      --border: #dddddd;
+    }
+
+    [data-theme="dark"] {
+      --bg: #121212;
+      --text: #f0f0f0;
+      --meta: #bbbbbb;
+      --link: #66aaff;
+      --border: #333333;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 20px;
+      transition: background 0.3s ease, color 0.3s ease;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    input[type="search"] {
+      width: 100%;
+      max-width: 500px;
+      padding: 10px;
+      margin-top: 10px;
+      font-size: 16px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .toggle {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .record {
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .title a {
+      font-weight: bold;
+      font-size: 16px;
+      color: var(--link);
+      text-decoration: none;
+    }
+
+    .title a:hover {
+      text-decoration: underline;
+    }
+
+    .summary {
+      margin-top: 4px;
+      font-size: 14px;
+    }
+
+    .meta {
+      margin-top: 6px;
+      font-size: 13px;
+      color: var(--meta);
+    }
+
+    .date {
+      color: var(--meta);
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="topbar">
+    <h2>Medical News Viewer</h2>
+    <div class="toggle">
+      <label for="themeToggle">Dark mode</label>
+      <input type="checkbox" id="themeToggle">
+    </div>
+    <input type="search" id="filterInput" placeholder="Filter by title, summary, or link..." />
+  </div>
+
+  <div id="news-container">Loading…</div>
+
+  <script>
+    const jsonFile = "./data.json";
+    let fullData = [];
+
+    const formatDate = (raw) => {
+      if (!raw) return "";
+      try {
+        const parts = raw.replace(/[^0-9\-]/g, "").split("-");
+        if (parts.length === 3) {
+          const [d, m, y] = parts;
+          const date = new Date(`${y}-${m}-${d}`);
+          return date.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" });
+        }
+        return raw;
+      } catch {
+        return raw;
+      }
+    };
+
+    const render = (items) => {
+      const container = document.getElementById("news-container");
+      container.innerHTML = "";
+
+      items.forEach(item => {
+        const div = document.createElement("div");
+        div.className = "record";
+
+        const titleDiv = document.createElement("div");
+        titleDiv.className = "title";
+
+        if (item.hyperlink && item.title) {
+          const link = document.createElement("a");
+          link.href = item.hyperlink;
+          link.textContent = item.title;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          titleDiv.appendChild(link);
+        } else {
+          titleDiv.textContent = item.title || "(Untitled)";
+        }
+
+        const summary = document.createElement("div");
+        summary.className = "summary";
+        summary.textContent = item.summary || "(No summary)";
+
+        const meta = document.createElement("div");
+        meta.className = "meta";
+
+        const host = item.hyperlink ? new URL(item.hyperlink).hostname : "No link";
+        const dup = typeof item.duplicate_count === "number" ? `Duplicate Count: ${item.duplicate_count}` : "";
+        const date = item.date ? `<span class="date">${formatDate(item.date)}</span>` : "";
+
+        meta.innerHTML = [host, date, dup].filter(Boolean).join(" &nbsp;|&nbsp; ");
+
+        div.appendChild(titleDiv);
+        div.appendChild(summary);
+        div.appendChild(meta);
+
+        container.appendChild(div);
+      });
+    };
+
+    const filter = () => {
+      const q = document.getElementById("filterInput").value.toLowerCase().trim();
+      if (!q) return render(fullData);
+
+      const filtered = fullData.filter(item => {
+        const haystack = [item.title, item.summary, item.hyperlink, item.date]
+          .join(" ")
+          .toLowerCase();
+        return haystack.includes(q);
+      });
+
+      render(filtered);
+    };
+
+    document.getElementById("themeToggle").addEventListener("change", (e) => {
+      document.documentElement.setAttribute("data-theme", e.target.checked ? "dark" : "light");
+    });
+
+    document.getElementById("filterInput").addEventListener("input", filter);
+
+    fetch(jsonFile)
+      .then(r => r.json())
+      .then(data => {
+        if (Array.isArray(data)) {
+          fullData = data;
+        } else if (data.validated_articles) {
+          fullData = data.validated_articles;
+        } else if (data.unique_articles) {
+          fullData = data.unique_articles;
+        } else if (data.articles) {
+          fullData = data.articles;
+        } else {
+          throw new Error("Unrecognized JSON structure");
+        }
+
+        render(fullData);
+      })
+      .catch(err => {
+        document.getElementById("news-container").textContent = "Error loading JSON.";
+        console.error(err);
+      });
+  </script>
+
+</body>
+</html>
