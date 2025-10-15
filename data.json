@@ -1,93 +1,136 @@
+```json
 [
     {
-        "title": "FDA under Trump: RFK Jr. staff describe political pressure",
-        "summary": "Staffers who worked under Robert F. Kennedy Jr. at the FDA describe the political pressure they faced during the Trump administration.",
-        "hyperlink": "https://www.statnews.com/2025/10/14/fda-under-trump-rfk-jr-staff-describe-political-pressure/",
+        "title": "Project aims to establish Australia’s big data on traumatic brain injury",
+        "summary": "This first national collaboration will develop a localised neuroprognostication tool and adopt FHIR standards.",
+        "hyperlink": "https://www.healthcareitnews.com/news/anz/project-aims-establish-australias-big-data-traumatic-brain-injury",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "Cleaning up healthcare data for the AI era",
+        "summary": "A QHIN and interoperability pro explains what clean, standardized and interoperable data enables with AI.",
+        "hyperlink": "https://www.healthcareitnews.com/news/cleaning-healthcare-data-ai-era",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "CHAI seeks to communicate with HHS leaders over recent criticisms",
+        "summary": "CHAI seeks to communicate with HHS leaders over recent criticisms",
+        "hyperlink": "https://www.healthcareitnews.com/news/chai-seeks-communicate-hhs-leaders-over-recent-criticisms",
         "date": "14-10-2025"
     },
     {
         "title": "STAT Plus: Kailera Therapeutics, an obesity drug startup, raises $600 million",
         "summary": "Kailera Therapeutics, an obesity drug startup, has raised $600 million in funding to support the development of its obesity treatments.",
         "hyperlink": "https://www.statnews.com/2025/10/14/kailera-therapeutics-obesity-drugs-fundraising/",
-        "date": ""
+        "date": "14-10-2025"
     },
     {
         "title": "STAT Plus: As more nurses deliver primary care, an AI startup wants to guide their decisions and training",
-        "summary": "An AI startup is working to guide the decisions and training of nurses who are delivering primary care.",
+        "summary": "An AI startup is developing a tool to guide nurses' decisions and training in primary care.",
         "hyperlink": "https://www.statnews.com/2025/10/14/altitude-artificial-intelligence-nursing-practitioners/",
-        "date": ""
+        "date": "14-10-2025"
     },
     {
         "title": "CDC team running top survey on health and nutrition is laid off",
         "summary": "The CDC team running a top survey on health and nutrition has been laid off.",
         "hyperlink": "https://www.statnews.com/2025/10/14/cdc-behind-top-nutrition-survey-nhanes-laid-off/",
-        "date": ""
+        "date": "14-10-2025"
     },
     {
         "title": "The word ‘dementia’ is about to lose its value",
         "summary": "The word 'dementia' is about to lose its value, according to a recent article.",
         "hyperlink": "https://www.statnews.com/2025/10/14/dementia-biomarker-based-diagnoses-alzheimers-late-lewy-body/",
-        "date": ""
+        "date": "14-10-2025"
     },
     {
         "title": "STAT Plus: Lyra launches ‘clinical-grade’ chatbot amid growing concern about mental health and AI",
         "summary": "Lyra has launched a 'clinical-grade' chatbot amid growing concern about mental health and AI.",
         "hyperlink": "https://www.statnews.com/2025/10/14/lyra-health-ai-chatbot-mental-health/",
-        "date": ""
+        "date": "14-10-2025"
     },
     {
         "title": "The long history of euphemisms around the use of animals in lab research",
         "summary": "There is a long history of euphemisms around the use of animals in lab research.",
         "hyperlink": "https://www.statnews.com/2025/10/14/lab-dog-book-excerpt-de-animalization-animal-research/",
-        "date": ""
+        "date": "14-10-2025"
+    },
+    {
+        "title": "'Deviceless' RPM could be a potent telehealth expansion",
+        "summary": "'Deviceless' RPM could be a potent telehealth expansion",
+        "hyperlink": "https://www.healthcareitnews.com/news/deviceless-rpm-could-be-potent-telehealth-expansion",
+        "date": "13-10-2025"
+    },
+    {
+        "title": "From legacy to scalable: Engineering the AI-powered credentialing stack",
+        "summary": "AI tools that keep humans in the loop can augment healthcare teams’ efforts and help leaders manage risk and scale operations.",
+        "hyperlink": "https://www.healthcareitnews.com/news/legacy-scalable-engineering-ai-powered-credentialing-stack",
+        "date": "13-10-2025"
     },
     {
         "title": "STAT Plus: FDA declares Novo Nordisk plant, key to drug manufacturing for some biotechs, out of compliance",
         "summary": "The FDA has declared a Novo Nordisk plant out of compliance, which could impact the manufacturing of certain drugs.",
         "hyperlink": "https://www.statnews.com/2025/10/13/novo-nordisk-catalent-drug-manufacturing-fda/",
-        "date": ""
+        "date": "13-10-2025"
     },
     {
         "title": "STAT Plus: Why this cardiologist is cautious about the Apple Watch’s blood pressure feature",
         "summary": "A cardiologist is expressing caution about the Apple Watch's blood pressure feature, citing concerns about its accuracy and potential impact on public health.",
         "hyperlink": "https://www.statnews.com/2025/10/13/apple-watch-hypertension-notifications-blood-pressure-public-health/",
-        "date": ""
+        "date": "13-10-2025"
     },
     {
         "title": "Drug developers shouldn’t shortchange the autoimmune community",
         "summary": "The autoimmune community is often overlooked in the development of new treatments, and this needs to change.",
         "hyperlink": "https://www.statnews.com/2025/10/13/clinical-trials-autoimmune-disorders-crohns-lupus-nkarta/",
-        "date": ""
+        "date": "13-10-2025"
     },
     {
         "title": "STAT Plus: Medicare Advantage insurers still in retreat as annual enrollment kicks off",
         "summary": "Medicare Advantage insurers are still in retreat as the annual enrollment period kicks off, with many companies scaling back their offerings.",
         "hyperlink": "https://www.statnews.com/2025/10/13/medicare-advantage-plans-open-enrollment-2026-benefits-costs/",
-        "date": ""
+        "date": "13-10-2025"
     },
     {
         "title": "Biden is receiving radiation and hormone therapy to treat his prostate cancer",
         "summary": "President Biden is undergoing radiation and hormone therapy to treat his prostate cancer.",
         "hyperlink": "https://www.statnews.com/2025/10/12/joe-biden-prostate-cancer-treatment-radiation-hormone-therapy/",
-        "date": ""
+        "date": "12-10-2025"
     },
     {
         "title": "One Mass. health system is turning to AI to ease shortage of primary care doctors. Some don’t like it",
         "summary": "A Massachusetts health system is using AI to help alleviate a shortage of primary care doctors, but not everyone is on board with the plan.",
         "hyperlink": "https://www.statnews.com/2025/10/12/mass-general-brigham-ai-primary-care-doctors-shortage/",
-        "date": ""
+        "date": "12-10-2025"
+    },
+    {
+        "title": "Roundup: EHR vendors prioritize patient access, RCM automation and more",
+        "summary": "Epic with Louisiana providers will enable MyChart access for all of its 2.5 million patients in the state, while athenahealth and WellSky invested in administrative artificial intelligence for home health clinicians and practice claims staff.",
+        "hyperlink": "https://www.healthcareitnews.com/news/roundup-ehr-vendors-prioritize-patient-access-rcm-automation-and-more",
+        "date": "10-10-2025"
+    },
+    {
+        "title": "List shows all Medicare Advantage plans' overall star ratings for 2026",
+        "summary": "Thirty-four MA plans earned 5 stars in 2026 star ratings.",
+        "hyperlink": "https://www.healthcareitnews.com/news/list-shows-all-medicare-advantage-plans-overall-star-ratings-2026",
+        "date": "10-10-2025"
+    },
+    {
+        "title": "Wisp, Vesalius partner to bring peptides into women's healthcare space",
+        "summary": "The two companies will develop affordable peptide therapies aimed at extending women’s lifespan.",
+        "hyperlink": "https://www.healthcareitnews.com/news/wisp-vesalius-partner-bring-peptides-womens-healthcare-space",
+        "date": "10-10-2025"
     },
     {
         "title": "Sarepta to seek approval for gene therapy in rare form of muscular dystrophy",
         "summary": "Sarepta is seeking approval for a gene therapy to treat a rare form of muscular dystrophy.",
         "hyperlink": "https://www.statnews.com/2025/10/10/sarepta-gene-therapy-limb-girdle-muscular-dystrophy/",
-        "date": ""
+        "date": "10-10-2025"
     },
     {
         "title": "President Trump is in ‘exceptional health,’ his doctor says, after visit to Walter Reed",
         "summary": "President Trump's doctor says he is in 'exceptional health' after a visit to Walter Reed hospital.",
         "hyperlink": "https://www.statnews.com/2025/10/10/president-trump-health-doctor-checkup-results/",
-        "date": ""
+        "date": "10-10-2025"
     },
     {
         "title": "Bristol Myers to buy startup Orbital Therapeutics, building out cell therapy pipeline",
@@ -112,12 +155,6 @@
         "summary": "The increasing use of cannabis among people with psychosis is causing concern among medical professionals, who warn of potential risks and consequences.",
         "hyperlink": "https://www.statnews.com/2025/10/08/marijuana-link-to-psychosis-effect-of-legalization/",
         "date": "08-10-2025"
-    },
-    {
-        "title": "Animal testing alternatives: Nicole Kleinstreuer on the new NIH office",
-        "summary": "Nicole Kleinstreuer discusses the new NIH office focused on alternatives to animal testing, and what it means for the future of research.",
-        "hyperlink": "https://www.statnews.com/2025/10/03/animal-testing-alternatives-nicole-kleinstreuer-new-nih-office/",
-        "date": "03-10-2025"
     },
     {
         "title": "Oura raises $900M, boosting valuation to around $11B",
@@ -156,12 +193,6 @@
         "date": ""
     },
     {
-        "title": "Wisp, Vesalius partner to bring peptides into women's healthcare space",
-        "summary": "The two companies will develop affordable peptide therapies aimed at extending women’s lifespan.",
-        "hyperlink": "https://www.mobihealthnews.com/news/wisp-vesalius-partner-bring-peptides-womens-healthcare-space",
-        "date": ""
-    },
-    {
         "title": "Foundation Health raises $20M for pharmacy platform",
         "summary": "The funds will be used to expand operations and attract new partners.",
         "hyperlink": "https://www.mobihealthnews.com/news/foundation-health-raises-20m-pharmacy-platform",
@@ -192,69 +223,34 @@
         "date": ""
     },
     {
-        "title": "AI-Powered Honeypots Give Healthcare Organizations a Leg Up on Attackers",
-        "summary": "Healthcare organizations are using AI-powered honeypots to detect and prevent cyberattacks.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/ai-powered-honeypots-give-healthcare-organizations-leg-attackers",
+        "title": "Q&A: Customizing AI Tools To Attract and Retain Clinical Teams",
+        "summary": "Customizing AI tools can help attract and retain clinical teams, here's how.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/08/qa-customizing-ai-tools-attract-and-retain-clinical-teams",
+        "date": ""
+    },
+    {
+        "title": "AI Makes Penetration Testing More Powerful for Healthcare Organizations",
+        "summary": "AI-powered penetration testing is becoming increasingly important for healthcare organizations to protect against cyber threats.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/ai-makes-penetration-testing-more-powerful-healthcare-organizations",
+        "date": ""
+    },
+    {
+        "title": "QA: Cyberark Security Leader on Why Agentic AI Makes Zero Trust More Important Than Ever",
+        "summary": "Agentic AI is making zero-trust security more important than ever for healthcare organizations, according to a security leader at Cyberark.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/qa-cyberark-security-leader-why-agentic-ai-makes-zero-trust-more-important-ever",
+        "date": ""
+    },
+    {
+        "title": "Smart Hospitals Start with Smart Buildings: Automation's Role in Patient-Centric Care",
+        "summary": "Smart buildings are essential for creating smart hospitals that prioritize patient-centric care, according to healthcare experts.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/smart-hospitals-start-smart-buildings-automations-role-patient-centric-care",
         "date": ""
     },
     {
         "title": "Building Stronger Support Systems for Rural Healthcare",
-        "summary": "Building stronger support systems for rural healthcare is crucial for improving patient outcomes.",
+        "summary": "Rural healthcare organizations are working to build stronger support systems to improve patient care and outcomes.",
         "hyperlink": "https://healthtechmagazine.net/article/2025/09/building-stronger-support-systems-rural-healthcare",
-        "date": ""
-    },
-    {
-        "title": "Out-Phishing: How Health Systems Can Re-Evaluate Employee Security Training",
-        "summary": "Health systems can re-evaluate employee security training to prevent phishing attacks.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/out-phishing-how-health-systems-can-re-evaluate-employee-security-training",
-        "date": ""
-    },
-    {
-        "title": "Connected Workstations Are Transforming Fleet Management and Patient Care",
-        "summary": "Connected workstations are transforming fleet management and patient care in healthcare.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/connected-workstations-transforming-fleet-management-and-patient-care",
-        "date": ""
-    },
-    {
-        "title": "Project aims to establish Australia’s big data on traumatic brain injury",
-        "summary": "This first national collaboration will develop a localised neuroprognostication tool and adopt FHIR standards.",
-        "hyperlink": "https://www.healthcareitnews.com/news/anz/project-aims-establish-australias-big-data-traumatic-brain-injury",
-        "date": ""
-    },
-    {
-        "title": "Cleaning up healthcare data for the AI era",
-        "summary": "A QHIN and interoperability pro explains what clean, standardized and interoperable data enables with AI.",
-        "hyperlink": "https://www.healthcareitnews.com/news/cleaning-healthcare-data-ai-era",
-        "date": ""
-    },
-    {
-        "title": "'Deviceless' RPM could be a potent telehealth expansion",
-        "summary": "'Deviceless' RPM could be a potent telehealth expansion",
-        "hyperlink": "https://www.healthcareitnews.com/news/deviceless-rpm-could-be-potent-telehealth-expansion",
-        "date": ""
-    },
-    {
-        "title": "From legacy to scalable: Engineering the AI-powered credentialing stack",
-        "summary": "AI tools that keep humans in the loop can augment healthcare teams’ efforts and help leaders manage risk and scale operations.",
-        "hyperlink": "https://www.healthcareitnews.com/news/legacy-scalable-engineering-ai-powered-credentialing-stack",
-        "date": ""
-    },
-    {
-        "title": "Roundup: EHR vendors prioritize patient access, RCM automation and more",
-        "summary": "Epic with Louisiana providers will enable MyChart access for all of its 2.5 million patients in the state, while athenahealth and WellSky invested in administrative artificial intelligence for home health clinicians and practice claims staff.",
-        "hyperlink": "https://www.healthcareitnews.com/news/roundup-ehr-vendors-prioritize-patient-access-rcm-automation-and-more",
-        "date": ""
-    },
-    {
-        "title": "List shows all Medicare Advantage plans' overall star ratings for 2026",
-        "summary": "Thirty-four MA plans earned 5 stars in 2026 star ratings.",
-        "hyperlink": "https://www.healthcareitnews.com/news/list-shows-all-medicare-advantage-plans-overall-star-ratings-2026",
-        "date": ""
-    },
-    {
-        "title": "Wisp, Vesalius partner to bring peptides into women's healthcare space",
-        "summary": "The two companies will develop affordable peptide therapies aimed at extending women’s lifespan.",
-        "hyperlink": "https://www.healthcareitnews.com/news/wisp-vesalius-partner-bring-peptides-womens-healthcare-space",
         "date": ""
     }
 ]
+```
