@@ -1,284 +1,386 @@
 [
     {
-        "title": "5 Questions About Which Firewall Goes Where",
-        "summary": "Get answers to common questions about firewalls in healthcare",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/5-questions-about-which-firewall-goes-where",
-        "date": "01-01-2025"
+        "title": "Tubulis raises $358 million to advance cancer treatments",
+        "summary": "STAT Plus: German biotech Tubulis raises $358 million to advance cancer treatments",
+        "hyperlink": "https://www.statnews.com/2025/10/15/tubulis-biotech-cancer-funding/",
+        "date": "15-10-2025"
     },
     {
-        "title": "A Strategic Approach to Modern Work in Healthcare",
-        "summary": "Learn how to implement a strategic approach to modern work in healthcare",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/strategic-approach-modern-work-healthcare",
-        "date": "01-01-2025"
+        "title": "Implementing AI is hard: Three safety-net clinics on the challenges",
+        "summary": "STAT Plus: Implementing AI is hard: Three safety-net clinics on the challenges",
+        "hyperlink": "https://www.statnews.com/2025/10/15/implementing-ai-is-hard-clinics-explain-challenges-ai-prognosis/",
+        "date": "15-10-2025"
     },
     {
-        "title": "IHS’s PATH EHR Rollout Aims to Modernize Healthcare for Native Americans",
-        "summary": "Discover how IHS's PATH EHR rollout is modernizing healthcare for Native Americans",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/ihss-path-ehr-rollout-aims-modernize-healthcare-native-americans",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Understanding Low-Code and No-Code for Healthcare",
-        "summary": "Learn about the benefits and challenges of low-code and no-code solutions in healthcare",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/low-code-no-code-healthcare-hipaa-compliant-perfcon",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Health Systems Need a Reliable Network To Deliver Quality Care",
-        "summary": "Discover why a reliable network is crucial for delivering quality care in healthcare",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/health-systems-need-reliable-network-deliver-quality-care",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "From Regulation to Resilience: Best Practices for Securing Healthcare Data in an AI Era",
-        "summary": "Learn best practices for securing healthcare data in an AI era",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/regulation-resilience-best-practices-securing-healthcare-data-ai-era",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Enterprise Master Patient Index Revolution: The Future of Healthcare Data Management",
-        "summary": "Discover how the Enterprise Master Patient Index is revolutionizing healthcare data management",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/master-patient-index-future-healthcare-data-perfcon",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Rural Hospitals Can Save Time and Money on Managing Their Microsoft Infrastructure",
-        "summary": "Rural hospitals can save time and money by managing their Microsoft infrastructure effectively.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/rural-hospitals-can-save-time-and-money-managing-their-microsoft-infrastructure",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Data Governance and AI Security Go Hand in Hand for Healthcare Organizations",
-        "summary": "Healthcare organizations should prioritize data governance and AI security to ensure the safe and effective use of artificial intelligence.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/data-governance-and-ai-security-go-hand-hand-healthcare-organizations",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "How Agentic AI Accelerates Healthcare Research and Innovation",
-        "summary": "Agentic AI can accelerate healthcare research and innovation by enabling researchers to analyze large amounts of data quickly and accurately.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/how-agentic-ai-accelerates-healthcare-research-and-innovation",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Transforming the Emergency Department with AI",
-        "summary": "AI can transform the emergency department by enabling healthcare providers to make faster and more accurate diagnoses.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/transforming-emergency-department-ai",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Q&A: Customizing AI Tools To Attract and Retain Clinical Teams",
-        "summary": "Customizing AI tools can help healthcare organizations attract and retain clinical teams by improving their workflow and productivity.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/08/qa-customizing-ai-tools-attract-and-retain-clinical-teams",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "AI Makes Penetration Testing More Powerful for Healthcare Organizations",
-        "summary": "AI-powered penetration testing can help healthcare organizations strengthen their cybersecurity posture.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/ai-makes-penetration-testing-more-powerful-healthcare-organizations",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "AI-Powered Honeypots Give Healthcare Organizations a Leg Up on Attackers",
-        "summary": "AI-powered honeypots can help healthcare organizations detect and prevent cyberattacks.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/ai-powered-honeypots-give-healthcare-organizations-leg-attackers",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Test Endurance: Healthcare Cybersecurity",
-        "summary": "Healthcare organizations must test their cybersecurity endurance to ensure they can withstand cyberattacks.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/test-endurance-healthcare-cybersecurity",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Smart Hospitals Start with Smart Buildings: Automation's Role in Patient-Centric Care",
-        "summary": "Smart hospitals can improve patient care by leveraging automation and smart building technologies.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/09/smart-hospitals-start-smart-buildings-automations-role-patient-centric-care",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Helpful Tips for Hospitals When Implementing Microsoft Dragon Copilot",
-        "summary": "Learn how hospitals can implement Microsoft Dragon Copilot",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/07/helpful-tips-hospitals-when-implementing-microsoft-dragon-copilot",
-        "date": "01-01-2025"
-    },
-    {
-        "title": "Oura raises $900M, boosting valuation to around $11B",
-        "summary": "The company's CEO, Tom Hale, told MobiHealthNews Oura will use the funds for AI-driven innovation to redefine what digital health technology can do.",
-        "hyperlink": "https://www.mobihealthnews.com/news/oura-raises-900m-boosting-valuation-around-11b",
-        "date": ""
-    },
-    {
-        "title": "Youth mental health company Marble Health raises $15.5M",
-        "summary": "The company works with schools to offer virtual mental healthcare for students and enable collaboration among counselors, parents and providers.",
-        "hyperlink": "https://www.mobihealthnews.com/news/youth-mental-health-company-marble-health-raises-155m",
-        "date": ""
-    },
-    {
-        "title": "How rural hospital acquisitions affect obstetrics care",
-        "summary": "Martin Gaynor, professor emeritus at Carnegie Mellon University, discusses a study on obstetric care changes after mergers with larger systems that may be farther away but can offer more specialized care.",
-        "hyperlink": "https://www.mobihealthnews.com/video/how-rural-hospital-acquisitions-affect-obstetrics-care",
-        "date": ""
-    },
-    {
-        "title": "California Gov. Gavin Newsom signs legislation on AI chatbots",
-        "summary": "The package of bills aims to bolster protections for children using online chatbots, including prohibiting chatbots from representing themselves as healthcare professionals.",
-        "hyperlink": "https://www.mobihealthnews.com/news/california-gov-gavin-newsom-signs-legislation-ai-chatbots",
-        "date": ""
-    },
-    {
-        "title": "Hesperos, Bayer Consumer Health team up to study central nervous system stress",
-        "summary": "Data from the study revealed that chronic exposure to cortisol disrupts neuronal network activity and damages long-term potentiation, simulating stress-related cognitive decline.",
-        "hyperlink": "https://www.mobihealthnews.com/news/hesperos-bayer-consumer-health-team-study-central-nervous-system-stress",
-        "date": ""
-    },
-    {
-        "title": "Cleaning up healthcare data for the AI era",
-        "summary": "A QHIN and interoperability pro explains what clean, standardized and interoperable data enables with AI.",
-        "hyperlink": "https://www.healthcareitnews.com/news/cleaning-healthcare-data-ai-era",
-        "date": ""
-    },
-    {
-        "title": "A longtime clinical decision support tool gets a new AI update",
-        "summary": "A longtime clinical decision support tool gets a new AI update",
-        "hyperlink": "https://www.healthcareitnews.com/video/longtime-clinical-decision-support-tool-gets-new-ai-update",
-        "date": ""
-    },
-    {
-        "title": "Deviceless RPM could be a potent telehealth expansion",
-        "summary": "The lack of devices in remote patient monitoring could be a game-changer for telehealth expansion.",
-        "hyperlink": "https://www.healthcareitnews.com/news/deviceless-rpm-could-be-potent-telehealth-expansion",
-        "date": ""
+        "title": "Doctor groups need to ‘step up to the plate’ as CDC guidance becomes harder to trust, former leaders say",
+        "summary": "Former CDC leaders say doctor groups need to step up and provide guidance as trust in federal health recommendations erodes.",
+        "hyperlink": "https://www.statnews.com/2025/10/15/former-cdc-officials-say-trust-doctors-not-federal-health-recommendations/",
+        "date": "15-10-2025"
     },
     {
         "title": "Integrated EHR helps group practice double revenue, multiply number of providers",
-        "summary": "The platform, which includes AI-enabled features, has helped Orka Health and Wellness reduce the time required to meet insurance requirements for client progress notes and ease the process of meeting new clinician quotas.",
+        "summary": "By Bill Siwicki |  October 15, 2025",
         "hyperlink": "https://www.healthcareitnews.com/news/integrated-ehr-helps-group-practice-double-revenue-multiply-number-providers",
-        "date": ""
+        "date": "15-10-2025"
+    },
+    {
+        "title": "When rural hospitals are acquired they often close obstetrics, research shows",
+        "summary": "By HIMSS TV |  October 15, 2025",
+        "hyperlink": "https://www.healthcareitnews.com/video/when-rural-hospitals-are-acquired-they-often-close-obstetrics-research-shows",
+        "date": "15-10-2025"
     },
     {
         "title": "DiMe launches new playbook for implementing AI",
         "summary": "The Digital Medicine Society said its three-part artificial intelligence guide for hospitals and health systems is designed to help with planning, sourcing and scaling health AI technologies to protect resources and deliver system-level ROI.",
         "hyperlink": "https://www.healthcareitnews.com/news/dime-launches-new-playbook-implementing-ai",
-        "date": ""
+        "date": "15-10-2025"
+    },
+    {
+        "title": "Youth mental health company Marble Health raises $15.5M",
+        "summary": "The company works with schools to offer virtual mental healthcare for students and enable collaboration among counselors, parents and providers.",
+        "hyperlink": "https://www.mobihealthnews.com/news/youth-mental-health-company-marble-health-raises-155m",
+        "date": "15-10-2025"
+    },
+    {
+        "title": "Teladoc Health introduces safety platform to reduce workplace violence",
+        "summary": "Clarity uses video and audio to examine facial expressions, identify intimidating gestures and aggressive language.",
+        "hyperlink": "https://www.mobihealthnews.com/news/teladoc-health-introduces-safety-platform-reduce-workplace-violence",
+        "date": "15-10-2025"
+    },
+    {
+        "title": "Verily teams up with UCHealth and other partners for research",
+        "summary": "Verily's platform will be used to create biomedical data pipelines and developing novel AI/ML models across key therapeutic areas.",
+        "hyperlink": "https://www.mobihealthnews.com/news/verily-teams-uchealth-and-other-partners-research",
+        "date": "15-10-2025"
+    },
+    {
+        "title": "Medicare open enrollment: How to make a choice",
+        "summary": "Medicare open enrollment is underway. Here's how to make a choice that's right for you.",
+        "hyperlink": "https://www.statnews.com/2025/10/15/medicare-open-enrollment-choice-help/",
+        "date": "15-10-2025"
+    },
+    {
+        "title": "Kailera Therapeutics, an obesity drug startup, raises $600 million",
+        "summary": "STAT Plus: Kailera Therapeutics, an obesity drug startup, raises $600 million",
+        "hyperlink": "https://www.statnews.com/2025/10/14/kailera-therapeutics-obesity-drugs-fundraising/",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "CDC team running top survey on health and nutrition is laid off",
+        "summary": "The CDC team responsible for a top survey on health and nutrition has been laid off.",
+        "hyperlink": "https://www.statnews.com/2025/10/14/cdc-behind-top-nutrition-survey-nhanes-laid-off/",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "The long history of euphemisms around the use of animals in lab research",
+        "summary": "The use of animals in lab research has a long history of euphemisms.",
+        "hyperlink": "https://www.statnews.com/2025/10/14/lab-dog-book-excerpt-de-animalization-animal-research/",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "Oura raises $900M, boosting valuation to around $11B",
+        "summary": "The company's CEO, Tom Hale, told MobiHealthNews Oura will use the funds for AI-driven innovation to redefine what digital health technology can do.",
+        "hyperlink": "https://www.mobihealthnews.com/news/oura-raises-900m-boosting-valuation-around-11b",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "WellTheory raises $14M for virtual autoimmune care platform",
+        "summary": "WellTheory raises $14M for virtual autoimmune care platform",
+        "hyperlink": "https://www.mobihealthnews.com/news/welltheory-raises-14m-virtual-autoimmune-care-platform",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "Cybersecurity company Hootl raises $6.5M",
+        "summary": "Cybersecurity company Hootl raises $6.5M",
+        "hyperlink": "https://www.mobihealthnews.com/news/cybersecurity-company-hootl-raises-65m",
+        "date": "14-10-2025"
     },
     {
         "title": "Project aims to establish Australia’s big data on traumatic brain injury",
-        "summary": "This first national collaboration will develop a localised neuroprognostication tool and adopt FHIR standards.",
+        "summary": "By Adam Ang |  October 14, 2025",
         "hyperlink": "https://www.healthcareitnews.com/news/anz/project-aims-establish-australias-big-data-traumatic-brain-injury",
-        "date": ""
+        "date": "14-10-2025"
     },
     {
-        "title": "When rural hospitals are acquired they often close obstetrics, research shows",
-        "summary": "But somewhat surprisingly, says Martin Gaynor, professor emeritus at Carnegie Mellon University, researchers found no correlation between department closures and negative outcomes for patients driving greater distances.",
-        "hyperlink": "https://www.healthcareitnews.com/video/when-rural-hospitals-are-acquired-they-often-close-obstetrics-research-shows",
-        "date": ""
+        "title": "A longtime clinical decision support tool gets a new AI update",
+        "summary": "By HIMSS TV |  October 14, 2025",
+        "hyperlink": "https://www.healthcareitnews.com/video/longtime-clinical-decision-support-tool-gets-new-ai-update",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "Cleaning up healthcare data for the AI era",
+        "summary": "By Bill Siwicki |  12:18 pm |  October 14, 2025",
+        "hyperlink": "https://www.healthcareitnews.com/news/cleaning-healthcare-data-ai-era",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "CHAI seeks to communicate with HHS leaders over recent criticisms",
+        "summary": "By Andrea Fox |  11:32 am |  October 14, 2025",
+        "hyperlink": "https://www.healthcareitnews.com/news/chai-seeks-communicate-hhs-leaders-over-recent-criticisms",
+        "date": "14-10-2025"
+    },
+    {
+        "title": "California Gov. Gavin Newsom signs legislation on AI chatbots",
+        "summary": "The package of bills aims to bolster protections for children using online chatbots, including prohibiting chatbots from representing themselves as healthcare professionals.",
+        "hyperlink": "https://www.mobihealthnews.com/news/california-gov-gavin-newsom-signs-legislation-ai-chatbots",
+        "date": "13-10-2025"
+    },
+    {
+        "title": "'Deviceless' RPM could be a potent telehealth expansion",
+        "summary": "By Bill Siwicki |  12:56 pm |  October 13, 2025",
+        "hyperlink": "https://www.healthcareitnews.com/news/deviceless-rpm-could-be-potent-telehealth-expansion",
+        "date": "13-10-2025"
+    },
+    {
+        "title": "New book highlights intersection of healthcare, AI and military innovation",
+        "summary": "By HIMSS TV |  09:27 am |  October 13, 2025",
+        "hyperlink": "https://www.healthcareitnews.com/video/new-book-highlights-intersection-healthcare-ai-and-military-innovation",
+        "date": "13-10-2025"
+    },
+    {
+        "title": "Biden is receiving radiation and hormone therapy to treat his prostate cancer",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/12/joe-biden-prostate-cancer-treatment-radiation-hormone-therapy/",
+        "date": "12-10-2025"
+    },
+    {
+        "title": "Deep cuts made to CDC’s flagship MMWR publication reversed hours later",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/11/cdc-morbidity-and-mortality-weekly-report-staff-fired/",
+        "date": "11-10-2025"
+    },
+    {
+        "title": "Jay Shetty and his health advice are everywhere. It’s by design",
+        "summary": "Jay Shetty's health advice is everywhere, and it's by design.",
+        "hyperlink": "https://www.statnews.com/2025/10/10/jay-shetty-profile-on-purpose-podcast-host/",
+        "date": "10-10-2025"
+    },
+    {
+        "title": "President Trump is in ‘exceptional health,’ his doctor says, after visit to Walter Reed",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/10/president-trump-health-doctor-checkup-results/",
+        "date": "10-10-2025"
+    },
+    {
+        "title": "Building digital health for all, including the displaced",
+        "summary": "By HIMSS TV |  04:46 pm |  October 10, 2025",
+        "hyperlink": "https://www.healthcareitnews.com/video/emea/building-digital-health-all-including-displaced",
+        "date": "10-10-2025"
+    },
+    {
+        "title": "Party in biotech land and AstraZeneca’s miscalculation",
+        "summary": "The Readout LOUD",
+        "hyperlink": "https://www.statnews.com/2025/10/09/readout-loud-podcast-biotech-peter-marks-eli-lilly-astrazeneca/",
+        "date": "09-10-2025"
+    },
+    {
+        "title": "Startups supporting Parkinson’s care pick up new investments and key hospital partnerships",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/09/parkinsons-disease-symptom-monitoring-tech-startups/",
+        "date": "09-10-2025"
+    },
+    {
+        "title": "When patients refuse cancer treatment",
+        "summary": "First Opinion Podcast",
+        "hyperlink": "https://www.statnews.com/2025/10/08/breast-cancer-treatment-options-support-oncologists-refusal/",
+        "date": "08-10-2025"
+    },
+    {
+        "title": "2025 Nobel Prize in medicine goes to Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi for immune system discoveries",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/06/nobel-prize-medicine-2025-winner-brunkow-ramsdell-sakaguchi/",
+        "date": "06-10-2025"
+    },
+    {
+        "title": "Animal testing alternatives: New NIH office",
+        "summary": "The NIH has established a new office to promote alternative methods to animal testing.",
+        "hyperlink": "https://www.statnews.com/2025/10/03/animal-testing-alternatives-nicole-kleinstreuer-new-nih-office/",
+        "date": "03-10-2025"
+    },
+    {
+        "title": "Science social media star Dr. Noc on the value of edutainment",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/10/01/dr-noc-morgan-mcsweeney-social-media-influencer-science-health/",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "5 Questions About Which Firewall Goes Where",
+        "summary": "Get answers to common questions about firewalls in healthcare",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/5-questions-about-which-firewall-goes-where",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "A Strategic Approach to Modern Work in Healthcare",
+        "summary": "Learn about a strategic approach to modern work in healthcare",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/strategic-approach-modern-work-healthcare",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "IHS’s PATH EHR Rollout Aims to Modernize Healthcare for Native Americans",
+        "summary": "Discover how IHS's PATH EHR rollout is modernizing healthcare for Native Americans",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/ihss-path-ehr-rollout-aims-modernize-healthcare-native-americans",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "Understanding Low-Code and No-Code for Healthcare",
+        "summary": "Learn about low-code and no-code solutions for healthcare",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/low-code-no-code-healthcare-hipaa-compliant-perfcon",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "Health Systems Need a Reliable Network To Deliver Quality Care",
+        "summary": "Find out why a reliable network is crucial for healthcare systems",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/health-systems-need-reliable-network-deliver-quality-care",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "From Regulation to Resilience: Best Practices for Securing Healthcare Data in an AI Era",
+        "summary": "Learn best practices for securing healthcare data in an AI era",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/regulation-resilience-best-practices-securing-healthcare-data-ai-era",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "Enterprise Master Patient Index Revolution: The Future of Healthcare Data Management",
+        "summary": "Discover the future of healthcare data management with enterprise master patient index",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/10/master-patient-index-future-healthcare-data-perfcon",
+        "date": "01-10-2025"
+    },
+    {
+        "title": "Rural Hospitals Can Save Time and Money on Managing Their Microsoft Infrastructure",
+        "summary": "Rural hospitals can save time and money by managing their Microsoft infrastructure more efficiently.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/rural-hospitals-can-save-time-and-money-managing-their-microsoft-infrastructure",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Data Governance and AI Security Go Hand in Hand for Healthcare Organizations",
+        "summary": "Healthcare organizations must prioritize data governance and AI security to ensure the safe and effective use of AI in healthcare.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/data-governance-and-ai-security-go-hand-hand-healthcare-organizations",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "How Agentic AI Accelerates Healthcare Research and Innovation",
+        "summary": "Agentic AI can accelerate healthcare research and innovation by enabling healthcare providers to analyze large amounts of data quickly and accurately.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/how-agentic-ai-accelerates-healthcare-research-and-innovation",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Transforming the Emergency Department with AI",
+        "summary": "AI can help transform the emergency department by enabling healthcare providers to quickly and accurately diagnose patients.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/transforming-emergency-department-ai",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Q&A: Cyberark Security Leader on Why Agentic AI Makes Zero Trust More Important Than Ever",
+        "summary": "Agentic AI makes zero-trust security more crucial for healthcare organizations to protect against cyber threats.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/qa-cyberark-security-leader-why-agentic-ai-makes-zero-trust-more-important-ever",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Building Stronger Support Systems for Rural Healthcare",
+        "summary": "Rural healthcare organizations can build stronger support systems by leveraging technology and innovative strategies.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/09/building-stronger-support-systems-rural-healthcare",
+        "date": "01-09-2025"
+    },
+    {
+        "title": "Q&A: Customizing AI Tools To Attract and Retain Clinical Teams",
+        "summary": "Customizing AI tools can help attract and retain clinical teams by enabling them to work more efficiently and effectively.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/08/qa-customizing-ai-tools-attract-and-retain-clinical-teams",
+        "date": "01-08-2025"
+    },
+    {
+        "title": "30 Healthcare IT Influencers Worth Following in 2025",
+        "summary": "These 30 healthcare IT influencers are shaping the future of healthcare technology and innovation.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/06/30-healthcare-it-influencers-worth-follow-2025",
+        "date": "01-06-2025"
+    },
+    {
+        "title": "Helpful Tips for Hospitals When Implementing Microsoft Dragon Copilot",
+        "summary": "Learn how hospitals can implement Microsoft Dragon Copilot",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/07/helpful-tips-hospitals-when-implementing-microsoft-dragon-copilot",
+        "date": "01-07-2025"
+    },
+    {
+        "title": "An Overview of 2025 AI Trends in Healthcare",
+        "summary": "The use of AI in healthcare is expected to continue growing in 2025, with a focus on improving patient outcomes and streamlining clinical workflows.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/01/overview-2025-ai-trends-healthcare",
+        "date": "01-01-2025"
+    },
+    {
+        "title": "4 Key Aspects That Make AI PCs Attractive to Healthcare Workers",
+        "summary": "Find out what makes AI PCs attractive to healthcare workers",
+        "hyperlink": "https://healthtechmagazine.net/article/2024/10/4-key-aspects-make-ai-pcs-attractive-healthcare-workers",
+        "date": "01-10-2024"
+    },
+    {
+        "title": "How Remote Monitoring Can Help Improve Care for Chronic-Disease Patients",
+        "summary": "Discover how remote monitoring can improve care for chronic-disease patients",
+        "hyperlink": "https://healthtechmagazine.net/article/2024/04/how-remote-monitoring-can-help-improve-care-chronic-disease-patients",
+        "date": "01-04-2024"
+    },
+    {
+        "title": "CMS delays rule requiring Medicare Advantage insurers to remind members of unused benefits",
+        "summary": "CMS delays rule requiring Medicare Advantage insurers to remind members of unused benefits",
+        "hyperlink": "https://www.statnews.com/2025/09/09/medicare-advantage-delays-rule-requiring-insurers-notify-members-of-unused-benefits/",
+        "date": "09-09-2025"
+    },
+    {
+        "title": "The way we talk about dementia is about to change completely",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/09/29/dementia-care-diagnostics-treatments-expert-revolution/",
+        "date": "29-09-2025"
+    },
+    {
+        "title": "Hospitals get dinged for reporting too many infections. In some cases, the solution is not to test",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/09/22/hospital-acquired-infection-reporting-healthcare-dirty-little-secret/",
+        "date": "22-09-2025"
+    },
+    {
+        "title": "From an elixir for ‘little hotheads’ to deadly overdoses, how Tylenol became a medicinal scapegoat",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/09/25/trump-autism-claims-latest-chapter-tylenol-history-of-controversy/",
+        "date": "25-09-2025"
+    },
+    {
+        "title": "What the evidence tells us about Tylenol, leucovorin, and autism",
+        "summary": "",
+        "hyperlink": "https://www.statnews.com/2025/09/22/trump-autism-tylenol-leucovorin-what-science-says/",
+        "date": "22-09-2025"
+    },
+    {
+        "title": "A pharma C-suite shakeup and Trump’s deal with Pfizer",
+        "summary": "The Readout LOUD",
+        "hyperlink": "https://www.statnews.com/2025/10/02/gsk-emma-walmsley-trump-deal-pfizer-readout",
+        "date": "02-10-2025"
     },
     {
         "title": "Legacy scalable engineering launches AI-powered credentialing stack",
-        "summary": "Legacy scalable engineering has launched an AI-powered credentialing stack.",
+        "summary": "Legacy scalable engineering launches AI-powered credentialing stack.",
         "hyperlink": "https://www.healthcareitnews.com/news/legacy-scalable-engineering-ai-powered-credentialing-stack",
         "date": ""
     },
     {
         "title": "Get the AI skills you need to maximize your productivity",
-        "summary": "Healthcare professionals need to get the AI skills they need to maximize their productivity.",
+        "summary": "Get the AI skills you need to maximize your productivity.",
         "hyperlink": "https://www.healthcareitnews.com/news/get-ai-skills-you-need-maximize-your-productivity",
         "date": ""
     },
     {
-        "title": "Transforming specialties with eClinicalWorks AI-powered innovations",
-        "summary": "eClinicalWorks is transforming specialties with its AI-powered innovations.",
+        "title": "Transforming specialties: eClinicalWorks AI-powered innovations",
+        "summary": "Transforming specialties: eClinicalWorks AI-powered innovations.",
         "hyperlink": "https://www.healthcareitnews.com/news/transforming-specialties-eclinicalworks-ai-powered-innovations",
         "date": ""
     },
     {
         "title": "Jhah advances physician efficiency and reduces burnout with voice recognition",
-        "summary": "Jhah has advanced physician efficiency and reduced burnout with voice recognition.",
+        "summary": "Jhah advances physician efficiency and reduces burnout with voice recognition.",
         "hyperlink": "https://www.healthcareitnews.com/news/jhah-advances-physician-efficiency-and-reduces-burnout-voice-recognition",
         "date": ""
     },
     {
-        "title": "Doctor groups need to ‘step up to the plate’ as CDC guidance becomes harder to trust, former leaders say",
-        "summary": "Former CDC leaders say doctor groups need to step up to the plate as CDC guidance becomes harder to trust.",
-        "hyperlink": "https://www.statnews.com/2025/10/15/former-cdc-officials-say-trust-doctors-not-federal-health-recommendations/",
-        "date": ""
-    },
-    {
-        "title": "STAT Plus: CEO of GSK plays down its role in FDA effort to approve therapy for autism-related condition",
-        "summary": "GSK CEO plays down company's role in FDA effort to approve therapy for autism-related condition.",
-        "hyperlink": "https://www.statnews.com/2025/10/15/gsk-leucovorin-autism-treatment-walmsley/",
-        "date": ""
-    },
-    {
-        "title": "STAT Plus: Implementing AI is hard: Three safety-net clinics on the challenges",
-        "summary": "Three safety-net clinics discuss the challenges of implementing AI.",
-        "hyperlink": "https://www.statnews.com/2025/10/15/implementing-ai-is-hard-clinics-explain-challenges-ai-prognosis/",
-        "date": ""
-    },
-    {
-        "title": "STAT Plus: German biotech Tubulis raises $358 million to advance cancer treatments",
-        "summary": "German biotech Tubulis raises $358 million to advance cancer treatments.",
-        "hyperlink": "https://www.statnews.com/2025/10/15/tubulis-biotech-cancer-funding/",
-        "date": ""
-    },
-    {
-        "title": "CDC team running top survey on health and nutrition is laid off",
-        "summary": "CDC team running top survey on health and nutrition is laid off.",
-        "hyperlink": "https://www.statnews.com/2025/10/14/cdc-behind-top-nutrition-survey-nhanes-laid-off/",
-        "date": ""
-    },
-    {
-        "title": "Kailera Therapeutics, an obesity drug startup, raises $600 million",
-        "summary": "Kailera Therapeutics raises $600 million for obesity drug development.",
-        "hyperlink": "https://www.statnews.com/2025/10/14/kailera-therapeutics-obesity-drugs-fundraising/",
-        "date": ""
-    },
-    {
-        "title": "The enduring lack of pregnant women in drug trials",
-        "summary": "Pregnant women are often excluded from clinical trials, which can lead to a lack of data on the safety and efficacy of medications during pregnancy.",
-        "hyperlink": "https://www.statnews.com/2025/10/02/clinical-trials-pregnant-women-ssri-tylenol-autism/",
-        "date": ""
-    },
-    {
-        "title": "Science social media star Dr. Noc on the value of edutainment",
-        "summary": "Dr. Noc, a science social media star, discusses the importance of making science accessible and entertaining for a broad audience.",
-        "hyperlink": "https://www.statnews.com/2025/10/01/dr-noc-morgan-mcsweeney-social-media-influencer-science-health/",
-        "date": ""
-    },
-    {
-        "title": "Party in biotech land and AstraZeneca’s miscalculation",
-        "summary": "Biotech land and AstraZeneca",
-        "hyperlink": "https://www.statnews.com/2025/10/09/readout-loud-podcast-biotech-peter-marks-eli-lilly-astrazeneca/",
-        "date": ""
-    },
-    {
-        "title": "When patients refuse cancer treatment",
-        "summary": "Cancer treatment options",
-        "hyperlink": "https://www.statnews.com/2025/10/08/breast-cancer-treatment-options-support-oncologists-refusal/",
-        "date": ""
-    },
-    {
-        "title": "Telehealth companies shift from providing patient access to selling drugs",
-        "summary": "Telehealth news",
-        "hyperlink": "https://www.statnews.com/2025/10/06/telehealth-companies-shift-from-providing-patient-access-to-selling-drugs/",
-        "date": ""
-    },
-    {
-        "title": "Jay Shetty profile: On purpose podcast host",
-        "summary": "Jay Shetty profile",
-        "hyperlink": "https://www.statnews.com/2025/10/10/jay-shetty-profile-on-purpose-podcast-host/",
-        "date": ""
-    },
-    {
-        "title": "Health news: CDC cuts Medicare, North Carolina biotech",
-        "summary": "Health news",
-        "hyperlink": "https://www.statnews.com/2025/10/15/health-news-cdc-cuts-medicare-north-carolina-biotech/",
-        "date": ""
-    },
-    {
-        "title": "Biotech news: Tubulis, Pelage, Genentech, Amgen",
-        "summary": "Biotech news",
-        "hyperlink": "https://www.statnews.com/2025/10/15/biotech-news-tubulis-pelage-genentech-amgen/",
+        "title": "Meet the 2025 STAT Wunderkinds",
+        "summary": "Meet the 2025 STAT Wunderkinds, a group of talented individuals in the health and medicine field.",
+        "hyperlink": "https://www.statnews.com/wunderkinds",
         "date": ""
     }
 ]
