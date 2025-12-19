@@ -1,420 +1,362 @@
 [
     {
-        "title": "2026 HIMSS Global Health Conference & Exhibition",
-        "summary": "Join us at HIMSS26, the premier event that brings together healthcare professionals, technology partners, policymakers and thought leaders for four days of learning, collaboration and inspiration.",
-        "hyperlink": "https://www.himssconference.com/",
-        "date": "09-03-2026"
+        "title": "Australia approves first wearable stethoscope for children",
+        "summary": "The wearable stethoscope is designed to improve respiratory monitoring in pediatric patients.",
+        "hyperlink": "https://www.mobihealthnews.com/news/anz/australia-approves-first-wearable-stethoscope-children",
+        "date": "19-12-2025"
     },
     {
-        "title": "Digital upskilling of Australian allied health professionals",
-        "summary": "The Australian Digital Health Agency is enabling allied health's access to health data and wider uptake of AI tools and other emerging technologies.",
-        "hyperlink": "https://www.healthcareitnews.com/news/anz/digital-upskilling-australian-allied-health-professionals",
+        "title": "CUHK to pilot free AI-powered stool test for autism in children",
+        "summary": "The test uses machine learning algorithms to analyze microbiome data and identify potential biomarkers for autism.",
+        "hyperlink": "https://www.mobihealthnews.com/news/asia/cuhk-pilot-free-ai-powered-stool-test-autism-children",
+        "date": "19-12-2025"
+    },
+    {
+        "title": "Eli Lilly's obesity pill shows promise in maintaining weight loss",
+        "summary": "Eli Lilly's obesity pill has shown promise in maintaining weight loss",
+        "hyperlink": "https://www.statnews.com/2025/12/18/eli-lilly-obesity-pill-orforglipron-maintain-weight-loss/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "Weight loss drugs: Health plans to cover Wegovy, Zepbound",
+        "summary": "Health plans will cover the weight loss drugs Wegovy and Zepbound",
+        "hyperlink": "https://www.statnews.com/2025/12/18/weight-loss-drugs-wegovy-zepbound-health-plans/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "LA fires: ERs see surge in smoke-related visits",
+        "summary": "Emergency rooms in the LA area are seeing a surge in smoke-related visits due to the recent fires",
+        "hyperlink": "https://www.statnews.com/2025/12/18/health-news-la-fires-er-smoke-risk/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "In major effort to end gender-affirming care, Trump administration takes aim at hospitals",
+        "summary": "The Trump administration is taking aim at hospitals that provide gender-affirming care, in an effort to end the practice.",
+        "hyperlink": "https://www.statnews.com/2025/12/18/transgender-care-hospitals-trump-cms-rules/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "STAT Plus: Biotech, growing up, is turning profitable",
+        "summary": "The biotech industry is becoming more profitable as it matures.",
+        "hyperlink": "https://www.statnews.com/2025/12/18/biotech-growing-up-is-turning-profitable/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "STAT Plus: UnitedHealthcare delays controversial RPM policy change",
+        "summary": "UnitedHealthcare has delayed a controversial policy change related to remote patient monitoring (RPM).",
+        "hyperlink": "https://www.statnews.com/2025/12/18/unitedhealthcare-delays-rpm-policy-change-health-tech/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "As dangerous eugenic ideas spread, NIH falls silent",
+        "summary": "The NIH has been criticized for its silence on the spread of eugenic ideas, which have been linked to discrimination and violence.",
+        "hyperlink": "https://www.statnews.com/2025/12/18/trump-nih-cuts-nhgri-special-report-american-science-shattered/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "Trump’s marijuana reclassification could boost research, broaden access",
+        "summary": "Trump's reclassification of marijuana could lead to increased research and broader access to the drug.",
+        "hyperlink": "https://www.statnews.com/2025/12/18/trump-reclassifies-marijuana-to-boost-research-and-access/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "CDC awards grant to controversial Danish researchers with ties to top FDA official",
+        "summary": "The CDC has awarded a grant to Danish researchers with ties to a top FDA official, despite controversy surrounding their work.",
+        "hyperlink": "https://www.statnews.com/2025/12/18/cdc-grant-controversial-researchers-ties-to-tracy-beth-hoeg/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "Biotech’s year in review",
+        "summary": "A review of the biotech industry's performance in 2025, including venture capital investments and notable developments.",
+        "hyperlink": "https://www.statnews.com/2025/12/18/readout-loud-podcast-biotech-venture-capital-obesity-coverage/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "Facing federal hostility, supervised consumption site points to 1,900 overdose reversals",
+        "summary": "A supervised consumption site in New York City has reported 1,900 overdose reversals, despite facing federal hostility.",
+        "hyperlink": "https://www.statnews.com/2025/12/18/on-point-nyc-drug-consumption-site-trump-defiance/",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "VA announces VHA reorg as Congress proposes to reauthorize department",
+        "summary": "The proposed reorganization would create a new office focused on modernizing the agency's technology systems.",
+        "hyperlink": "https://www.mobihealthnews.com/news/va-announces-vha-reorg-congress-proposes-reauthorize-department",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "Baptist Memorial bets on AI-enabled care management and wins",
+        "summary": "The Mid-South health system identified over twice as many incidental pulmonary nodules, half of which were in a higher-risk group that needs timely clinical review. And it saw $3.44 million in incremental direct margin from downstream services.",
+        "hyperlink": "https://www.healthcareitnews.com/news/baptist-memorial-bets-ai-enabled-care-management-and-wins",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "CranioSense lands $5.5M NIH, DoD funding for intracranial pressure monitoring",
+        "summary": "CranioSense says it will use the funding to support clinical trials and bring its product to market.",
+        "hyperlink": "https://www.mobihealthnews.com/news/craniosense-lands-55m-nih-dod-funding-intracranial-pressure-monitoring",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "Noom taps Ash for at-home testing for GLP-1 microdosing program",
+        "summary": "Ash will provide at-home biomarker testing to Noom users to provide insights into key health markers linked to chronic disease risk and aging.",
+        "hyperlink": "https://www.mobihealthnews.com/news/noom-taps-ash-home-testing-glp-1-microdosing-program",
+        "date": "18-12-2025"
+    },
+    {
+        "title": "STAT Plus: FDA approves brain tumor warning on Depo-Provera label as court battle grows over side effects",
+        "summary": "The FDA has approved a brain tumor warning on the label of Depo-Provera, a contraceptive injection.",
+        "hyperlink": "https://www.statnews.com/pharmalot/2025/12/17/fda-pfizer-contraception-cancer-preemption-depoprovera/",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "STAT Plus: Meta is urged by state attorneys general to boost enforcement of weight loss drug advertising",
+        "summary": "State attorneys general are urging Meta to increase enforcement of weight loss drug advertising on its platforms.",
+        "hyperlink": "https://www.statnews.com/pharmalot/2025/12/17/meta-facebook-instagram-weight-obesity-drugs-ads/",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "House passes health care bill to boost access to workplace insurance",
+        "summary": "The House has passed a health care bill aimed at increasing access to workplace insurance.",
+        "hyperlink": "https://www.statnews.com/2025/12/17/house-passes-health-care-bill-workplace-insurance/",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "Resolving data fragmentation and silo issues",
+        "summary": "Kevin Ritter, EVP for CareInMotion at Altera Digital Health, offers some answers and discusses how to surmount inconsistent, duplicate records that can erode trust and weaken the efficacy of analytics and clinical decision-making.",
+        "hyperlink": "https://www.healthcareitnews.com/video/resolving-data-fragmentation-and-silo-issues",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "Mass General Brigham announces AI company and clinical trial screening tool",
+        "summary": "AIwithCare features a software platform that uses generative AI to screen patients for clinical trial eligibility.",
+        "hyperlink": "https://www.healthcareitnews.com/news/mass-general-brigham-announces-ai-company-and-clinical-trial-screening-tool",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "In Tampa General's call center, AI drives ROI",
+        "summary": "Lower abandonment rates, shorter wait times and increased appointment scheduling are just three areas where artificial intelligence has helped the hospital address costly communication challenges and improve patient experience.",
+        "hyperlink": "https://www.healthcareitnews.com/news/tampa-generals-call-center-ai-drives-roi",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "'Hospital in the Home' goes live in southern NSW",
+        "summary": "Southern NSW Local Health District has designed a remote patient monitoring program with Philips Australia to bring multidisciplinary care teams to homes, helping free up more emergency beds.",
+        "hyperlink": "https://www.healthcareitnews.com/news/anz/hospital-home-goes-live-southern-nsw",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "Tech-enabled Island Hospital named Malaysia's flagship medical tourism hospital",
+        "summary": "CEO Lim Kooi Ling shares what sets the Penang-based specialist hospital apart from other finalists and how digitalisation contributed to its recognition.",
+        "hyperlink": "https://www.healthcareitnews.com/news/asia/tech-enabled-island-hospital-named-malaysias-flagship-medical-tourism-hospital",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "Healthcare needs data liquidity, not just interoperability",
+        "summary": "Healthcare systems must go beyond simple information exchange to ensure their data is discrete, normalized and able to flow between multiple applications.",
+        "hyperlink": "https://www.mobihealthnews.com/video/healthcare-needs-data-liquidity-not-just-interoperability",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "Wearlinq secures $14M to scale wireless heart monitor",
+        "summary": "The funding will be used to support the commercial launch of Wearlinq's wireless heart monitoring system.",
+        "hyperlink": "https://www.mobihealthnews.com/news/wearlinq-secures-14m-scale-wireless-heart-monitor",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "Reimagine Care, Tampa General partner to deliver AI-enabled virtual cancer care",
+        "summary": "The partnership will focus on using AI to improve patient outcomes and streamline care coordination.",
+        "hyperlink": "https://www.mobihealthnews.com/news/reimagine-care-tampa-general-partner-deliver-ai-enabled-virtual-cancer-care",
+        "date": "17-12-2025"
+    },
+    {
+        "title": "Dana-Farber to pay $15 million settlement over manipulated data",
+        "summary": "Dana-Farber has agreed to pay a $15 million settlement over manipulated data",
+        "hyperlink": "https://www.statnews.com/2025/12/16/dana-farber-15-million-settlement-manipulated-data/",
+        "date": "16-12-2025"
+    },
+    {
+        "title": "Bipolar disorder: Social media may trigger manic episodes",
+        "summary": "Social media may trigger manic episodes in people with bipolar disorder",
+        "hyperlink": "https://www.statnews.com/2025/12/16/bipolar-disorder-social-media-manic-episodes/",
+        "date": "16-12-2025"
+    },
+    {
+        "title": "CDC approves new hepatitis B vaccine recommendation as some hospitals reject changes",
+        "summary": "The CDC has approved a new recommendation for hepatitis B vaccines, but some hospitals are resisting the changes.",
+        "hyperlink": "https://www.statnews.com/2025/12/16/hepatitis-b-vaccine-cdc-acip-recommendation-meets-resistance/",
+        "date": "16-12-2025"
+    },
+    {
+        "title": "More AI agents launching on patient management systems",
+        "summary": "Platform providers like MediRecords are increasingly introducing AI agents to support the generation of patient summaries, managing clinical inboxes, and more.",
+        "hyperlink": "https://www.healthcareitnews.com/news/anz/more-ai-agents-launching-patient-management-systems",
+        "date": "16-12-2025"
+    },
+    {
+        "title": "WellSky and uMed expand home-based clinical trial access nationwide",
+        "summary": "The partnership will enable patients to participate in clinical trials from the comfort of their own homes.",
+        "hyperlink": "https://www.mobihealthnews.com/news/wellsky-and-umed-expand-home-based-clinical-trial-access-nationwide",
+        "date": "16-12-2025"
+    },
+    {
+        "title": "Healthcare leaders reveal 2025’s biggest surprises, Part 2",
+        "summary": "Executives pointed to faster-than-expected AI adoption in healthcare, shifting regulatory signals and growing demand for AI tools that deliver measurable outcomes.",
+        "hyperlink": "https://www.mobihealthnews.com/news/healthcare-leaders-reveal-2025s-biggest-surprises-part-2",
+        "date": "16-12-2025"
+    },
+    {
+        "title": "Medicare routes $16 billion to insurers to offset high drug costs",
+        "summary": "Medicare is routing $16 billion to insurers to help offset high drug costs, a move that could impact the pharmaceutical industry and patients",
+        "hyperlink": "https://www.statnews.com/2025/12/12/medicare-part-d-costs-soar-insurers-get-16-billion-reconciliation-payment/",
         "date": "12-12-2025"
     },
     {
-        "title": "Samsha Acting Chief Art Kleinschmidt Leaves Post",
-        "summary": "The acting chief of SAMHSA, Art Kleinschmidt, has announced his departure.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/samsha-acting-chief-art-kleinschmidt-leaves-post/",
+        "title": "ACA premium spike looms as Senate votes fail, House bill faces long odds",
+        "summary": "The ACA premium spike is looming as Senate votes fail and the House bill faces long odds, leaving many unsure about their healthcare coverage",
+        "hyperlink": "https://www.statnews.com/2025/12/11/aca-subsidy-extension-senate-rejects-proposals-as-deadline-nears/",
         "date": "11-12-2025"
     },
     {
-        "title": "American Science Shattered Series Impact of Research Funding Cuts",
-        "summary": "A series on the impact of research funding cuts on American science.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/american-science-shattered-series-impact-of-research-funding-cuts/",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "FDA Approves New Gonorrhea Antibiotic Blujepa from GSK",
-        "summary": "The FDA has approved a new antibiotic, Blujepa, from GSK for the treatment of gonorrhea.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/fda-approves-new-gonorrhea-antibiotic-blujepa-from-gsk/",
-        "date": "11-12-2025",
-        "duplicate_count": 1
-    },
-    {
-        "title": "Now is the time to launch mpox vaccine booster trials",
-        "summary": "Experts are calling for the launch of mpox vaccine booster trials to protect against the virus.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/mpox-vaccine-booster-trials-research/",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "When a doctor can’t heal his friends",
-        "summary": "A doctor reflects on the challenges of treating friends and the emotional toll it can take.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/doctor-empathy-compassion-trauma/",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "Wave’s ‘gym bro’ obesity drug is story over substance",
-        "summary": "Wave's obesity drug has been criticized for being more story than substance, with some questioning its efficacy.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/wave-obesity-drug-wve-007-wall-street-body-composition/",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "Lilly’s next-gen obesity drug delivers major weight loss in Phase 3 trial, but with many discontinuations",
-        "summary": "Lilly's next-gen obesity drug has shown promising results in a Phase 3 trial, but with a high discontinuation rate.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/eli-lilly-retatrutide-weight-loss-obesity-tolerability-trial-results/",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "HHS health IT chief hints at a new approach to EHR certification",
-        "summary": "The HHS health IT chief has hinted at a new approach to EHR certification, which could impact the healthcare industry.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/hhs-new-approach-ehr-certification-health-tech/",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "Europe’s pharma policy shakeup moves forward toward enactment",
-        "summary": "The European Union's pharma policy shakeup is moving forward, with potential implications for the industry.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/eu-pharma-package-market-exclusivity-medicine-access/",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "The future of American science and a dispatch from ASH",
-        "summary": "The Readout LOUD podcast discusses the future of American science and a dispatch from ASH.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/ash25-eli-lilly-obesity-drug-readout-loud-podcast/",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "Trump signs executive order to block state AI regulations",
-        "summary": "The order blocks state regulations on AI, citing the need for a unified national approach.",
-        "hyperlink": "https://www.statnews.com/2025/12/11/trump-signs-executive-order-blocking-state-ai-regulations/",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "Bon Secours Mercy Health’s venture arm partners for workforce stability",
-        "summary": "Bon Secours Mercy Health’s venture arm partners for workforce stability",
-        "hyperlink": "https://www.healthcareitnews.com/news/bon-secours-mercy-healths-venture-arm-partners-workforce-stability",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "OpenAI report highlights rapid enterprise AI growth in healthcare",
-        "summary": "OpenAI report highlights rapid enterprise AI growth in healthcare",
-        "hyperlink": "https://www.healthcareitnews.com/news/openai-report-highlights-rapid-enterprise-ai-growth-healthcare",
-        "date": "11-12-2025",
-        "duplicate_count": 1
-    },
-    {
-        "title": "VA responds to reports of EHR glitches, ahead of renewed 2026 rollouts",
-        "summary": "VA responds to reports of EHR glitches, ahead of renewed 2026 rollouts",
-        "hyperlink": "https://www.healthcareitnews.com/news/va-responds-reports-ehr-glitches-ahead-renewed-2026-rollouts",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "Four fundamentals of EHR success from the 300-EHR-project man",
-        "summary": "Intentional governance, process redesign, change management and data strategy all must be addressed to achieve optimal electronic records, says Barry Mathis, managing principal of IT advisory consulting at PYA.",
-        "hyperlink": "https://www.healthcareitnews.com/news/four-fundamentals-ehr-success-300-ehr-project-man",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "Singapore OKs first AI alternative to inpatient EWS",
-        "summary": "Screening rates in northern Queensland lag behind the statewide average.",
-        "hyperlink": "https://www.mobihealthnews.com/news/asia/singapore-oks-first-ai-alternative-inpatient-ews",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "Global Medra raises $52M, partners with Genentech",
-        "summary": "Genentech will leverage Medra's Physical AI, Scientific AI and robotics into its lab systems to accelerate drug discovery.",
-        "hyperlink": "https://www.mobihealthnews.com/news/medra-raises-52m-partners-genentech",
-        "date": "11-12-2025"
-    },
-    {
-        "title": "Revolution Dementia Care Interview Expert",
-        "summary": "An expert discusses the revolution in dementia care.",
-        "hyperlink": "https://www.statnews.com/2025/12/10/revolution-dementia-care-interview-expert/",
-        "date": "10-12-2025",
-        "duplicate_count": 1
-    },
-    {
-        "title": "Nonprofit Telethon Wins FDA Approval Gene Therapy Waskyra",
-        "summary": "A nonprofit has received FDA approval for a gene therapy treatment called Waskyra.",
-        "hyperlink": "https://www.statnews.com/2025/12/10/nonprofit-telethon-wins-fda-approval-gene-therapy-waskyra/",
+        "title": "Covid vaccine myocarditis: Rare side effect cause identified",
+        "summary": "Researchers have identified a potential cause of a rare but serious side effect of Covid-19 vaccines",
+        "hyperlink": "https://www.statnews.com/2025/12/10/covid-vaccine-myocarditis-rare-side-effect-cause-identified/",
         "date": "10-12-2025"
     },
     {
-        "title": "FDA Panel Ease Access Testosterone Therapy Men",
-        "summary": "An FDA panel has recommended easing access to testosterone therapy for men.",
-        "hyperlink": "https://www.statnews.com/2025/12/10/fda-panel-ease-access-testosterone-therapy-men/",
-        "date": "10-12-2025"
-    },
-    {
-        "title": "Sperm donor with rare cancer-causing mutation fathers nearly 200 children across Europe",
-        "summary": "A sperm donor with a rare cancer-causing mutation has fathered nearly 200 children across Europe.",
-        "hyperlink": "https://www.statnews.com/2025/12/10/200-children-inherit-gene-mutation-one-sperm-donor/",
-        "date": "10-12-2025"
-    },
-    {
-        "title": "Rush predicts OR demand with 90% accuracy",
-        "summary": "Sam Davis Jr., AVP of perioperative and interventional clinical services, says in the second part of our look at the Chicago medical center's returns on investments in operating room analytics, 'trusted data and transparency made all the difference.'",
-        "hyperlink": "https://www.healthcareitnews.com/video/rush-predicts-or-demand-90-accuracy",
-        "date": "10-12-2025"
-    },
-    {
-        "title": "Athenahealth EHR to make Microsoft Dragon Copilot available to doctors",
-        "summary": "Next year, providers within healthcare practices on the company's EHR will be able to choose the new copilot, or any other ambient tool that best suits them, the company says.",
-        "hyperlink": "https://www.healthcareitnews.com/news/athenahealth-ehr-make-microsoft-dragon-copilot-available-doctors",
-        "date": "10-12-2025"
-    },
-    {
-        "title": "AI-enabled EHR-RCM platform saves 5-clinic group $79K in just 3 months",
-        "summary": "The Therapy Network has reduced claim denials by one-third and more than doubled its therapist visit volume.",
-        "hyperlink": "https://www.healthcareitnews.com/news/ai-enabled-ehr-rcm-platform-saves-5-clinic-group-79k-just-3-months",
-        "date": "10-12-2025"
-    },
-    {
-        "title": "AI cuts discharge note writing time by half: study",
-        "summary": "The LLM-based tool, developed by researchers from Yonsei University College of Medicine, automatically generates legally required discharge notes in the emergency department.",
-        "hyperlink": "https://www.mobihealthnews.com/news/asia/ai-cuts-discharge-note-writing-time-half-study",
-        "date": "10-12-2025"
-    },
-    {
-        "title": "Using AI outreach to raise bowel cancer screening in rural Queensland",
-        "summary": "Screening rates in northern Queensland lag behind the statewide average.",
-        "hyperlink": "https://www.mobihealthnews.com/news/anz/using-ai-outreach-raise-bowel-cancer-screening-rural-queensland",
-        "date": "10-12-2025"
-    },
-    {
-        "title": "Welldoc adds CLEAR biometric ID verification to digital health app",
-        "summary": "The company will use the funds to advance product innovation, strengthen clinical partnerships and accelerate its nationwide growth.",
-        "hyperlink": "https://www.mobihealthnews.com/news/welldoc-adds-clear-biometric-id-verification-digital-health-app",
-        "date": "10-12-2025"
-    },
-    {
-        "title": "J&J’s two-drug combo blocked tumors in advanced multiple myeloma",
-        "summary": "J&J's two-drug combo has shown promise in blocking tumors in advanced multiple myeloma.",
-        "hyperlink": "https://www.statnews.com/2025/12/09/ash-jandj-multiple-myeloma-and-cdc-sickle-cell-data/",
-        "date": "09-12-2025"
-    },
-    {
-        "title": "Cabrini ED care wraps 24 minutes earlier using AI scribe",
-        "summary": "It is now extending the emergency department testing of Heidi AI scribe to 12 months after an initial month-long pilot.",
-        "hyperlink": "https://www.healthcareitnews.com/news/anz/cabrini-ed-care-wraps-24-minutes-earlier-using-ai-scribe",
-        "date": "09-12-2025"
-    },
-    {
-        "title": "AI-focused deals now make up 75% of health tech funding, J.P. Morgan report finds",
-        "summary": "Investors are funneling capital into early-stage automation and clinical support tools that use AI to counter workforce shortages, according to the report.",
-        "hyperlink": "https://www.mobihealthnews.com/news/ai-focused-deals-now-make-75-health-tech-funding-jp-morgan-report-finds",
-        "date": "09-12-2025"
-    },
-    {
-        "title": "HHS releases AI strategy for agency operations",
-        "summary": "The goal is to make artificial intelligence available to the federal workforce and to integrate it across internal operations, research and public health.",
-        "hyperlink": "https://www.mobihealthnews.com/news/hhs-releases-ai-strategy-agency-operations",
-        "date": "09-12-2025"
-    },
-    {
-        "title": "Terns Leukemia Drug ASH Results Tern 701",
-        "summary": "Terns Pharmaceuticals has announced results from a clinical trial for a leukemia treatment.",
-        "hyperlink": "https://www.statnews.com/2025/12/08/terns-leukemia-drug-ash-results-tern-701/",
-        "date": "08-12-2025"
-    },
-    {
-        "title": "ASH Positive Results Leukemia Terns Rival Novartis",
-        "summary": "Terns Pharmaceuticals has announced positive results from a clinical trial for a leukemia treatment, rivaling Novartis.",
-        "hyperlink": "https://www.statnews.com/2025/12/08/ash-positive-results-leukemia-terns-rival-novartis/",
-        "date": "08-12-2025",
-        "duplicate_count": 1
-    },
-    {
-        "title": "Exclusive: Lin Health raises $11M to scale digital chronic pain care",
-        "summary": "The company will use the funds to advance product innovation, strengthen clinical partnerships and accelerate its nationwide growth.",
-        "hyperlink": "https://www.mobihealthnews.com/news/exclusive-lin-health-raises-11m-scale-digital-chronic-pain-care",
-        "date": "08-12-2025"
-    },
-    {
-        "title": "Healthcare executives' biggest takeaways from 2025, part two",
-        "summary": "Investors are funneling capital into early-stage automation and clinical support tools that use AI to counter workforce shortages, according to the report.",
-        "hyperlink": "https://www.mobihealthnews.com/news/healthcare-executives-biggest-takeaways-2025-part-two",
-        "date": "08-12-2025"
-    },
-    {
-        "title": "CDC panel recommends delaying birth dose of hepatitis B vaccine",
-        "summary": "A CDC panel has recommended delaying the birth dose of the hepatitis B vaccine.",
-        "hyperlink": "https://www.statnews.com/2025/12/05/cdc-hepatitis-b-vaccination-acip-panel-overturns-30-year-policy/",
+        "title": "RFK Jr.’s vaccine panel is laying the groundwork for more scrutiny of childhood shots",
+        "summary": "RFK Jr.'s vaccine panel is examining the entire childhood vaccine schedule, which could lead to changes in vaccination policies.",
+        "hyperlink": "https://www.statnews.com/2025/12/05/cdc-acip-panel-entire-childhood-vaccine-schedule-under-scrutiny/",
         "date": "05-12-2025"
     },
     {
-        "title": "CDC Vaccine Panel Senator Calls ACIP Totally Discredited",
-        "summary": "A senator has called the CDC's vaccine panel 'totally discredited' over concerns about vaccine recommendations.",
-        "hyperlink": "https://www.statnews.com/2025/12/04/cdc-vaccine-panel-senator-calls-acip-totally-discredited/",
-        "date": "04-12-2025"
-    },
-    {
-        "title": "HPV Vaccine Single Shot Cervical Cancer Prevention",
-        "summary": "A single shot of the HPV vaccine has been shown to be effective in preventing cervical cancer.",
-        "hyperlink": "https://www.statnews.com/2025/12/04/hpv-vaccine-single-shot-cervical-cancer-prevention/",
-        "date": "04-12-2025"
-    },
-    {
-        "title": "Where’s our CRISPR miracle?",
-        "summary": "Where’s our CRISPR miracle?",
-        "hyperlink": "https://www.statnews.com/2025/12/03/crispr-pura-syndrome-rare-diseases/",
+        "title": "Primary care doctors switching to Mass General, Brigham and Women's",
+        "summary": "A number of primary care doctors are switching to Mass General and Brigham and Women's",
+        "hyperlink": "https://www.statnews.com/2025/12/03/primary-care-doctors-switching-mass-general-brigham-beth-israel/",
         "date": "03-12-2025"
     },
     {
-        "title": "Improving Patient Communication and Transparency in the ED",
-        "summary": "Improving Patient Communication and Transparency in the ED",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/12/improving-patient-communication-and-transparency-ed",
-        "date": "01-12-2025"
-    },
-    {
-        "title": "Create A Modern Workplace for Healthcare",
-        "summary": "Create A Modern Workplace for Healthcare",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/12/create-modern-workplace-healthcare",
-        "date": "01-12-2025"
-    },
-    {
-        "title": "Why Healthcare Organizations Need an IRE for Epic",
-        "summary": "Why Healthcare Organizations Need an IRE for Epic",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/12/why-healthcare-organizations-need-ire-epic",
-        "date": "01-12-2025"
-    },
-    {
         "title": "Q&A: What Is the Relationship Between AI and Clinical Informatics?",
-        "summary": "Q&A on the relationship between AI and clinical informatics.",
+        "summary": "Q&A: What Is the Relationship Between AI and Clinical Informatics?",
         "hyperlink": "https://healthtechmagazine.net/article/2025/12/qa-what-relationship-between-ai-and-clinical-informatics",
         "date": "01-12-2025"
     },
     {
-        "title": "Wi-Fi 7 in Healthcare: What IT Leaders Need To Know",
-        "summary": "Wi-Fi 7 in Healthcare: What IT Leaders Need To Know",
+        "title": "Wi-Fi 7 in Healthcare: Next-Generation Wireless Network Benefits",
+        "summary": "Wi-Fi 7 in Healthcare: Next-Generation Wireless Network Benefits",
         "hyperlink": "https://healthtechmagazine.net/article/2025/12/wifi-7-in-healthcare-perfcon",
         "date": "01-12-2025"
     },
     {
         "title": "Data Clean Rooms Support Healthcare Security and Innovation",
-        "summary": "Secure environments for using and sharing data make sense for healthcare organizations looking to augment cybersecurity as well as research — provided they’re set up properly.",
+        "summary": "Data Clean Rooms Support Healthcare Security and Innovation",
         "hyperlink": "https://healthtechmagazine.net/article/2025/12/data-clean-rooms-support-healthcare-perfcon",
         "date": "01-12-2025"
     },
     {
         "title": "Reaping the Rewards of Migrating EHRs to the Cloud",
-        "summary": "By successfully migrating electronic health care workflows to the cloud, healthcare organizations can leverage cutting-edge services and technologies.",
+        "summary": "Reaping the Rewards of Migrating EHRs to the Cloud",
         "hyperlink": "https://healthtechmagazine.net/article/2025/12/reaping-rewards-migrating-ehrs-cloud",
         "date": "01-12-2025"
     },
     {
-        "title": "Why beagles are the No. 1 dog for medical research",
-        "summary": "Why beagles are the No. 1 dog for medical research.",
-        "hyperlink": "https://www.statnews.com/2025/11/26/lab-dog-beagles-animal-research-medicine-science-interview/",
-        "date": "26-11-2025"
+        "title": "How and Why to Improve IT Service Management in Healthcare",
+        "summary": "How and Why to Improve IT Service Management in Healthcare",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/12/how-and-why-improve-it-service-management-healthcare",
+        "date": "01-12-2025"
     },
     {
-        "title": "Tech-enabled caregiving can help dementia patients stay at home — perhaps for too long",
-        "summary": "Tech-enabled caregiving can help dementia patients stay at home, but perhaps for too long.",
-        "hyperlink": "https://www.statnews.com/2025/11/24/dementia-caregiving-technology-assistance/",
-        "date": "24-11-2025"
+        "title": "A New Era of Visualization in Operating Rooms Requires Expanded Roles",
+        "summary": "A New Era of Visualization in Operating Rooms Requires Expanded Roles",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/12/new-era-visualization-operating-rooms-requires-expanded-roles",
+        "date": "01-12-2025"
     },
     {
-        "title": "To keep babies healthy, a New Orleans case manager delivers stability in the face of federal uncertainty",
-        "summary": "A New Orleans case manager delivers stability to keep babies healthy in the face of federal uncertainty.",
-        "hyperlink": "https://www.statnews.com/2025/11/24/healthy-start-infant-mortality-prevention-program-one-caseworker-story/",
-        "date": "24-11-2025"
+        "title": "What Health Systems Need To Know About Power and Cooling in the Age of AI",
+        "summary": "What Health Systems Need To Know About Power and Cooling in the Age of AI",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/12/what-health-systems-need-know-about-power-and-cooling-age-ai",
+        "date": "01-12-2025"
     },
     {
-        "title": "How RFK Jr., America’s celebrity health secretary, is steamrolling science",
-        "summary": "RFK Jr. is steamrolling science as America's celebrity health secretary.",
-        "hyperlink": "https://www.statnews.com/2025/11/18/rfk-jr-profile-hhs-secretary-delivers-on-trump-maha-priorities/",
-        "date": "18-11-2025"
+        "title": "Rural Healthcare Navigates Uncertainty Amid Budgetary Concerns",
+        "summary": "Rural Healthcare Navigates Uncertainty Amid Budgetary Concerns",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/12/rural-healthcare-navigates-uncertainty-amid-budgetary-concerns",
+        "date": "01-12-2025"
+    },
+    {
+        "title": "Medicare Advantage rules change, $13 billion windfall for insurers",
+        "summary": "A change in Medicare Advantage rules could result in a $13 billion windfall for insurers",
+        "hyperlink": "https://www.statnews.com/2025/11/28/medicare-advantage-rules-change-13-billion-windfall-insurers/",
+        "date": "28-11-2025"
     },
     {
         "title": "What Kennedy’s saturated fat guidelines would mean for American health",
-        "summary": "Kennedy's saturated fat guidelines could have significant implications for American health.",
+        "summary": "New dietary guidelines proposed by Kennedy's administration could lead to changes in the way Americans eat, with a focus on saturated fats.",
         "hyperlink": "https://www.statnews.com/2025/11/12/is-saturated-fat-bad-new-dietary-guidelines-maha-vs-science/",
         "date": "12-11-2025"
     },
     {
-        "title": "How two top FDA officials are quietly upending vaccine regulations",
-        "summary": "Two top FDA officials are quietly upending vaccine regulations.",
-        "hyperlink": "https://www.statnews.com/2025/11/12/fda-vaccine-policy-controlled-by-vinay-prasad-tracy-beth-hoeg/",
-        "date": "12-11-2025"
-    },
-    {
-        "title": "Trump renews a Republican battle cry: Repeal Obamacare",
-        "summary": "Trump renews a Republican battle cry: Repeal Obamacare",
-        "hyperlink": "https://www.statnews.com/2025/11/09/trump-renews-a-republican-battle-cry-repeal-obamacare/",
-        "date": "09-11-2025"
-    },
-    {
-        "title": "UnitedHealthcare drops remote monitoring coverage in defiance of Medicare policies",
-        "summary": "UnitedHealthcare drops remote monitoring coverage in defiance of Medicare policies",
-        "hyperlink": "https://www.statnews.com/2025/11/07/united-healthcare-remote-patient-monitoring-medicare-advantage/",
-        "date": "07-11-2025"
-    },
-    {
         "title": "James Watson, dead at 97, was a scientific legend and a pariah among his peers",
-        "summary": "James Watson, a scientific legend, has passed away at 97.",
+        "summary": "James Watson, the co-discoverer of the structure of DNA, has died at the age of 97, leaving behind a legacy of scientific achievement and controversy.",
         "hyperlink": "https://www.statnews.com/2025/11/07/james-watson-remembrance-from-dna-pioneer-to-pariah/",
         "date": "07-11-2025"
     },
     {
-        "title": "CHIME25: Data Governance and Interoperability Are Critical for AI Preparedness",
-        "summary": "Healthcare organizations must prioritize data governance and interoperability to ensure AI preparedness and improve patient care.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/11/chime25-data-governance-and-interoperability-are-critical-ai-preparedness",
-        "date": "01-11-2025"
-    },
-    {
-        "title": "Health Systems Make Remote Work an Integral Part of Operations",
-        "summary": "Health systems are adopting remote work arrangements to improve flexibility, reduce costs and enhance patient care.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/11/health-systems-make-remote-work-integral-part-operations",
-        "date": "01-11-2025"
-    },
-    {
-        "title": "How Healthcare Organizations Are Simplifying Patient Check-Ins",
-        "summary": "Healthcare organizations are leveraging technology to streamline patient check-ins, reducing wait times and improving the overall patient experience.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/11/how-healthcare-organizations-are-simplifying-patient-check-ins",
-        "date": "01-11-2025"
-    },
-    {
-        "title": "Finding the Centerpiece of the Smarter Patient Room",
-        "summary": "The smarter patient room is a holistic environment that integrates technology, design and clinical workflows to improve patient care and experience.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/11/finding-centerpiece-smarter-patient-room",
-        "date": "01-11-2025"
-    },
-    {
-        "title": "Minimum Viable Hospital: Protect Patient Care and Build Cyber Resilience",
-        "summary": "Healthcare organizations must prioritize clinical care resiliency to ensure patient safety and trust.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/11/minimum-viable-hospital-protect-patient-care-and-build-cyber-resilience",
-        "date": "01-11-2025"
-    },
-    {
         "title": "CHIME25: How Healthcare IT Leaders Can Drive Human-Centered AI Adoption",
-        "summary": "CHIME25 on how healthcare IT leaders can drive human-centered AI adoption.",
+        "summary": "Healthcare IT leaders can drive human-centered AI adoption.",
         "hyperlink": "https://healthtechmagazine.net/article/2025/11/chime25-how-healthcare-it-leaders-can-drive-human-centered-ai-adoption",
         "date": "01-11-2025"
     },
     {
-        "title": "Microsoft Copilot+ PC Gives Healthcare Staff Seamless Access to AI Tools",
-        "summary": "Microsoft Copilot+ PC gives healthcare staff seamless access to AI tools.",
+        "title": "Microsoft Copilot+ PC: AI-Powered Tools for Healthcare Productivity",
+        "summary": "Microsoft Copilot+ PC is providing AI-powered tools for healthcare productivity.",
         "hyperlink": "https://healthtechmagazine.net/article/2025/11/microsoft-copilot-pc-gives-healthcare-staff-seamless-access-ai-tools",
         "date": "01-11-2025"
     },
     {
         "title": "Tips for Healthcare Organizations on Getting Started With Google’s Gemini Enterprise",
-        "summary": "Tips for healthcare organizations on getting started with Google’s Gemini Enterprise.",
+        "summary": "Tips for getting started with Google's Gemini Enterprise.",
         "hyperlink": "https://healthtechmagazine.net/article/2025/11/tips-healthcare-organizations-getting-started-googles-gemini-enterprise",
         "date": "01-11-2025"
     },
     {
+        "title": "LeadingAge 2025: How Senior Care Organizations Are Evolving With AI",
+        "summary": "Senior care organizations are evolving with AI.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/11/leadingage-2025-how-senior-care-organizations-are-evolving-ai",
+        "date": "01-11-2025"
+    },
+    {
+        "title": "CHIME25: Healthcare IT Leaders Rethink Device Security, Governance and Risk Management",
+        "summary": "Healthcare IT leaders are rethinking device security, governance, and risk management.",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/11/chime25-healthcare-it-leaders-rethink-device-security-governance-and-risk-management",
+        "date": "01-11-2025"
+    },
+    {
+        "title": "Finding the ‘Centerpiece’ for a Smarter Patient Room",
+        "summary": "Finding the ‘Centerpiece’ for a Smarter Patient Room",
+        "hyperlink": "https://healthtechmagazine.net/article/2025/11/finding-centerpiece-smarter-patient-room",
+        "date": "01-11-2025"
+    },
+    {
         "title": "LeadingAge 2025: Making Connected Senior Living a Reality",
-        "summary": "LeadingAge 2025 is making connected senior living a reality.",
+        "summary": "Making Connected Senior Living a Reality",
         "hyperlink": "https://healthtechmagazine.net/article/2025/11/leadingage-2025-making-connected-senior-living-reality",
         "date": "01-11-2025"
     },
     {
-        "title": "Health Systems Need a Reliable Network To Deliver Quality Care",
-        "summary": "Health systems need a reliable network to deliver quality care.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/health-systems-need-reliable-network-deliver-quality-care",
-        "date": "01-10-2025"
+        "title": "Telehealth companies shift from providing patient access to selling drugs",
+        "summary": "Telehealth companies are shifting their focus from providing patient access to selling drugs",
+        "hyperlink": "https://www.statnews.com/2025/10/06/telehealth-companies-shift-from-providing-patient-access-to-selling-drugs/",
+        "date": "06-10-2025"
     },
     {
-        "title": "IHS’s PATH EHR Rollout Aims to Modernize Healthcare for Native Americans",
-        "summary": "IHS’s PATH EHR Rollout aims to modernize healthcare for Native Americans.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/ihss-path-ehr-rollout-aims-modernize-healthcare-native-americans",
-        "date": "01-10-2025"
+        "title": "Clinical Trial Management Systems: How to Manage Billing Compliance and EHR Integration",
+        "summary": "Clinical Trial Management Systems: How to Manage Billing Compliance and EHR Integration",
+        "hyperlink": "https://healthtechmagazine.net/article/2022/07/how-ctms-help-ehr-integration-billing-compliance-perfcon",
+        "date": "01-07-2022"
     },
     {
-        "title": "A Strategic Approach to Modern Work in Healthcare",
-        "summary": "These health IT influencers are change-makers, innovators and compassionate leaders who use technology to make a difference in provider experiences and patient outcomes. Healthcare organizations are looking for ways to improve delivery without creating clinician burnout.",
-        "hyperlink": "https://healthtechmagazine.net/article/2025/10/strategic-approach-modern-work-healthcare",
-        "date": "01-10-2025"
+        "title": "Georgia Tech Releases Machine Learning Algorithm to Further Cancer Drug Research",
+        "summary": "Georgia Tech Releases Machine Learning Algorithm to Further Cancer Drug Research",
+        "hyperlink": "https://healthtechmagazine.net/article/2017/11/georgia-tech-releases-machine-learning-software-further-cancer-drug-research",
+        "date": "01-11-2017"
     }
 ]
