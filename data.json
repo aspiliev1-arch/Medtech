@@ -1,278 +1,320 @@
 [
   {
-    "title": "JPM 2026: Top stories from day 4, including Regeneron and FDA IPOs",
-    "summary": "The conference featured several major announcements and developments",
-    "hyperlink": "https://www.statnews.com/2026/01/15/jpm-2026-day-4-top-stories-regeneron-fda-ipos-jnj/",
-    "date": "15-01-2026"
+    "title": "Health insurance execs blame high costs on hospitals, doctors, and pharma",
+    "summary": "Health insurance executives are blaming high costs on hospitals, doctors, and pharmaceutical companies, highlighting the complex nature of the healthcare industry.",
+    "hyperlink": "https://www.statnews.com/2026/01/22/health-insurance-execs-blame-high-costs-hospitals-doctors-pharma/",
+    "date": "22-01-2026"
   },
   {
-    "title": "New vaccine schedule largely ignored by major healthcare providers",
-    "summary": "The new schedule has not been widely adopted by healthcare providers",
-    "hyperlink": "https://www.statnews.com/2026/01/15/new-vaccine-schedule-largely-ignored-major-healthcare-providers/",
-    "date": "15-01-2026"
+    "title": "Guinea-Bissau says plans for controversial U.S.-funded vaccine study need further review",
+    "summary": "Guinea-Bissau has announced that plans for a controversial US-funded vaccine study need further review, citing concerns about the safety and efficacy of the vaccine. Guinea-Bissau has announced that plans for a controversial U.S.-funded vaccine study need further review.",
+    "hyperlink": "https://www.statnews.com/2026/01/22/guinea-bissau-hepatitis-b-vaccine-trial/",
+    "date": "22-01-2026"
   },
   {
-    "title": "America's trust in science survey results released by Pew Research",
-    "summary": "The survey found that trust in science has increased among Americans",
-    "hyperlink": "https://www.statnews.com/2026/01/15/america-trust-in-science-survey-results-pew-research/",
-    "date": "15-01-2026"
+    "title": "STAT Plus: Alabama hospital system would gain monopoly with proposed $450 million deal",
+    "summary": "A proposed $450 million deal would give an Alabama hospital system a monopoly over healthcare services in the state, sparking concerns about the impact on patients and the healthcare market. An Alabama hospital system would gain a monopoly with a proposed $450 million deal, sparking antitrust concerns.",
+    "hyperlink": "https://www.statnews.com/2026/01/22/huntsville-hospital-merger-antitrust-concerns-alabama/",
+    "date": "22-01-2026"
   },
   {
-    "title": "Regeneron's George Yancopoulos speaks at JPM biotech conference",
-    "summary": "Yancopoulos discussed the company's latest developments and plans",
-    "hyperlink": "https://www.statnews.com/2026/01/15/regeneron-george-yancopoulos-jpm-biotech/",
-    "date": "15-01-2026"
+    "title": "STAT Plus: The number of new drug shortages in U.S. hits lowest level in 20 years, but myriad problems remain",
+    "summary": "The number of new drug shortages in the US has hit its lowest level in 20 years, but problems with the supply chain and manufacturing processes remain, according to a new report. The number of new drug shortages in the U.S. has hit its lowest level in 20 years, but many problems still remain in the pharmaceutical industry.",
+    "hyperlink": "https://www.statnews.com/pharmalot/2026/01/22/medicines-pharma-biotech-shortages-hospitals-injectables/",
+    "date": "22-01-2026"
   },
   {
-    "title": "Trump's great healthcare plan faces potential stumbling blocks",
-    "summary": "The plan has been met with skepticism by healthcare experts",
-    "hyperlink": "https://www.statnews.com/2026/01/15/trump-great-healthcare-plan-potential-stumbling-blocks/",
-    "date": "15-01-2026"
+    "title": "A measles outbreak and hospitals’ financial troubles",
+    "summary": "A measles outbreak has highlighted the financial troubles faced by hospitals, which are struggling to cope with the costs of treating patients with the disease. A measles outbreak and hospitals' financial troubles are the topics of discussion in the latest episode of The Readout LOUD podcast.",
+    "hyperlink": "https://www.statnews.com/2026/01/22/readout-loud-podcast-measles-outbreak-cdc-hospitals-jpm-oz/",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Trump administration halts use of human fetal tissue in NIH research",
+    "summary": "The Trump administration has halted the use of human fetal tissue in research conducted by the National Institutes of Health (NIH).",
+    "hyperlink": "https://www.statnews.com/2026/01/22/trump-administration-halts-use-human-fetal-tissue-nih-research/",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Over 40,000 doctors sign up for India's online AI in health training",
+    "summary": "Over 40,000 doctors have signed up for India's online AI health training.",
+    "hyperlink": "https://www.healthcareitnews.com/news/asia/over-40000-doctors-sign-indias-online-ai-health-training",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Digitally streamlining digestive care pathway in Singapore",
+    "summary": "A hospital in Singapore is digitally streamlining its digestive care pathway.",
+    "hyperlink": "https://www.healthcareitnews.com/news/asia/digitally-streamlining-digestive-care-pathway-singapore",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Malaysian state to roll out AI fall monitoring devices",
+    "summary": "A Malaysian state is set to roll out AI fall monitoring devices to improve healthcare for the elderly.",
+    "hyperlink": "https://www.healthcareitnews.com/news/asia/malaysian-state-roll-out-ai-fall-monitoring-devices",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Indonesia, China to launch digital health lab",
+    "summary": "Indonesia, China to launch digital health lab",
+    "hyperlink": "https://www.healthcareitnews.com/news/asia/indonesia-china-launch-digital-health-lab",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Roundup: Greenway aims to industrialize agentic AI; New Amazon One assistant",
+    "summary": "Greenway aims to industrialize agentic AI; New Amazon One assistant",
+    "hyperlink": "https://www.healthcareitnews.com/news/roundup-greenway-aims-industrialize-agentic-ai-new-amazon-one-assistant",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Could 2026 bring permanent telemedicine policy? One physician thinks so",
+    "summary": "Virtual care is a viable model for the long haul, says Dr. Chris Gallagher of Access TeleCare. Two of his physician colleagues add their 2026 predictions on telehealth's role in stroke care and behavioral healthcare.",
+    "hyperlink": "https://www.healthcareitnews.com/news/could-2026-bring-permanent-telemedicine-policy-one-physician-thinks-so",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Qure.ai scores Gates grant for AI lung ultrasound and more briefs",
+    "summary": "Digital gynaecology clinic Pinky Promise in India has raised $1 million in pre-seed funding.",
+    "hyperlink": "https://www.mobihealthnews.com/news/asia/qureai-scores-multimillion-dollar-gates-grant-ai-lung-ultrasound-and-more-briefs",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Q&A: Inside a 3D-printed, patient-specific spine surgery platform",
+    "summary": "",
+    "hyperlink": "https://www.mobihealthnews.com/news/qa-inside-3d-printed-patient-specific-spine-surgery-platform",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "Global Q&A: Insitro acquires CombinAble.AI, marking first Israeli exit for AI pharma startup",
+    "summary": "AION Labs CEO sat down with MobiHealthNews outside the JPM Healthcare Conference to discuss the acquisition he says represents a milestone for Israel's biotech ecosystem.",
+    "hyperlink": "https://www.mobihealthnews.com/news/qa-insitro-acquires-combinableai-marking-first-israeli-exit-ai-pharma-startup",
+    "date": "22-01-2026"
+  },
+  {
+    "title": "FDA clears AI tool to detect multiple conditions from CT scans",
+    "summary": "The Food and Drug Administration (FDA) has cleared an AI tool to detect multiple conditions from CT scans, a move that could improve diagnosis and treatment of diseases.",
+    "hyperlink": "https://www.statnews.com/2026/01/21/fda-clears-aidoc-tool-detect-multiple-conditions-from-ct-scan/",
+    "date": "21-01-2026"
+  },
+  {
+    "title": "A Goldilocks approach to centralization of high-risk pathogen research",
+    "summary": "Researchers are advocating for a 'Goldilocks approach' to the centralization of high-risk pathogen research.",
+    "hyperlink": "https://www.statnews.com/2026/01/22/high-risk-pathogen-research-centralization-concerns/",
+    "date": "21-01-2026"
+  },
+  {
+    "title": "I ask my patients what they’re grateful for. Recently, three of them cried",
+    "summary": "A doctor shares their experience of asking patients what they're grateful for, and how it led to some unexpected reactions.",
+    "hyperlink": "https://www.statnews.com/2026/01/22/doctor-gratitude-question-made-patients-cry-lesson-learned/",
+    "date": "21-01-2026"
+  },
+  {
+    "title": "U.S. makes exit from the WHO complete",
+    "summary": "The U.S. has made its exit from the World Health Organization complete.",
+    "hyperlink": "https://www.statnews.com/2026/01/22/usa-divorce-world-health-organization-puts-america-at-risk/",
+    "date": "21-01-2026"
+  },
+  {
+    "title": "As FDA raises bar in rare diseases, pivotal moment nears for RegenxBio",
+    "summary": "The FDA is raising the bar for rare diseases, and a pivotal moment is nearing for RegenxBio.",
+    "hyperlink": "https://www.statnews.com/2026/01/22/biotech-rare-diseases-regenxbio-cytokinetics/",
+    "date": "21-01-2026"
+  },
+  {
+    "title": "Mayo Clinic on rethinking brain cancer care with digital transformation",
+    "summary": "The Mayo Clinic is rethinking brain cancer care with digital transformation.",
+    "hyperlink": "https://www.healthcareitnews.com/news/mayo-clinic-rethinking-brain-cancer-care-digital-transformation",
+    "date": "21-01-2026"
+  },
+  {
+    "title": "OpenEvidence scores $250M, doubles valuation to $12B",
+    "summary": "",
+    "hyperlink": "https://www.mobihealthnews.com/news/openevidence-scores-250m-doubles-valuation-12b",
+    "date": "21-01-2026"
+  },
+  {
+    "title": "Gates Foundation, OpenAI launch AI healthcare initiative in Africa",
+    "summary": "",
+    "hyperlink": "https://www.mobihealthnews.com/news/gates-foundation-openai-launch-ai-healthcare-initiative-africa",
+    "date": "21-01-2026"
+  },
+  {
+    "title": "CDC loses measles elimination status, a 'cost of doing business'",
+    "summary": "The Centers for Disease Control and Prevention (CDC) has lost its measles elimination status, a setback for the agency's efforts to control the spread of the disease.",
+    "hyperlink": "https://www.statnews.com/2026/01/20/cdc-measles-briefing-lost-elimination-status-cost-of-doing-business/",
+    "date": "20-01-2026"
+  },
+  {
+    "title": "Is ‘shared decision-making’ being hijacked by U.S. health officials to sow doubt about vaccines?",
+    "summary": "Is ‘shared decision-making’ being hijacked by U.S. health officials",
+    "hyperlink": "https://www.statnews.com/2026/01/20/shared-decision-making-vaccine-guidance-twists-meaning-of-term/",
+    "date": "20-01-2026"
+  },
+  {
+    "title": "Choosing the right ROI methodology for the revenue cycle",
+    "summary": "Choosing the right ROI methodology for the revenue cycle",
+    "hyperlink": "https://www.healthcareitnews.com/news/choosing-right-roi-methodology-revenue-cycle",
+    "date": "20-01-2026"
+  },
+  {
+    "title": "ARPA-H funds digital twin tech for healthcare cybersecurity",
+    "summary": "ARPA-H has funded digital twin technology to improve healthcare cybersecurity.",
+    "hyperlink": "https://www.healthcareitnews.com/news/arpa-h-funds-digital-twin-tech-healthcare-cybersecurity",
+    "date": "20-01-2026"
+  },
+  {
+    "title": "Deploying AI to improve UAE clinician and patient experiences",
+    "summary": "Deploying AI to improve UAE clinician and patient experiences",
+    "hyperlink": "https://www.healthcareitnews.com/video/emea/deploying-ai-improve-uae-clinician-and-patient-experiences",
+    "date": "20-01-2026"
+  },
+  {
+    "title": "2026 spending bill proposes 2-year telehealth and 5-year HAH waiver extensions",
+    "summary": "2026 spending bill proposes 2-year telehealth and 5-year HAH waiver extensions",
+    "hyperlink": "https://www.healthcareitnews.com/news/2026-house-spending-bill-proposes-2-year-telehealth-and-5-year-hospital-home-waiver-extensions",
+    "date": "20-01-2026"
+  },
+  {
+    "title": "Deploying AI for cyber defense and to redefine care",
+    "summary": "Eric Jimenez, Artesia General Hospital CIO, says the hospital first deployed AI to protect its network after a cyber incident. It expanded to ambient listening and is now seeking to use AI for clinical applications.",
+    "hyperlink": "https://www.mobihealthnews.com/video/deploying-ai-cyber-defense-and-redefine-care",
+    "date": "20-01-2026"
+  },
+  {
+    "title": "Q&A: Jake Leach on expanding Dexcom CGM access, wearables and AI",
+    "summary": "New CEO of Dexcom, Jake Leach, joined MobiHealthNews at the JPM Healthcare Conference to discuss his leadership priorities, CGM access and the role of wearables in preventive care.",
+    "hyperlink": "https://www.mobihealthnews.com/news/qa-jake-leach-expanding-dexcom-cgm-access-wearables-and-ai",
+    "date": "20-01-2026"
+  },
+  {
+    "title": "Q&A: Glen Tullman discusses tech adoption as millions lose coverage, Part 2",
+    "summary": "The CEO of Transcarent sat down with MobiHealthNews outside the JPM Healthcare Conference to discuss the state of digital health and how his company is working to improve access to care.",
+    "hyperlink": "https://www.mobihealthnews.com/news/qa-glen-tullman-discusses-tech-adoption-millions-lose-coverage-part-2",
+    "date": "20-01-2026"
+  },
+  {
+    "title": "Bariatric surgery beats GLP-1s for type 2 diabetes across income levels, study says",
+    "summary": "Bariatric surgery beats GLP-1s for type 2 diabetes",
+    "hyperlink": "https://www.statnews.com/2026/01/19/diabetes-study-bariatric-surgery-better-than-glp-1s/",
+    "date": "19-01-2026"
+  },
+  {
+    "title": "Q&A: Owkin CEO on building an AI scientist and pharma’s short-term thinking",
+    "summary": "Outside the JPM Healthcare Conference, Thomas Clozel, cofounder and CEO of Owkin, sat down with MobiHealthNews to discuss how the company is using AI to find causality in disease.",
+    "hyperlink": "https://www.mobihealthnews.com/news/qa-owkin-ceo-building-ai-scientist-and-pharmas-short-term-thinking",
+    "date": "16-01-2026"
+  },
+  {
+    "title": "HIMSSCast: Tips for migrating medical devices to the cloud",
+    "summary": "Amy Tucker of Advocate Health's Sanger Heart & Vascular Institute explains what it takes to move to a scalable platform that improves clinical administration and patient care.",
+    "hyperlink": "https://www.mobihealthnews.com/podcast/himsscast-tips-migrating-medical-devices-cloud",
+    "date": "16-01-2026"
   },
   {
     "title": "Enrollment in biomedical degree programs rose last fall despite funding turmoil, new data show",
-    "summary": "Enrollment in biomedical degree programs rises despite funding turmoil",
+    "summary": "Enrollment in biomedical degree programs rose",
     "hyperlink": "https://www.statnews.com/2026/01/15/biomedical-student-enrollment-rises-despite-research-turmoil/",
     "date": "15-01-2026"
   },
   {
-    "title": "STAT Plus: Novo Nordisk Foundation gives $850M to nonprofit to help commercialize research in Europe",
-    "summary": "Novo Nordisk Foundation gives $850M to nonprofit",
-    "hyperlink": "https://www.statnews.com/2026/01/15/novo-nordisk-foundation-bioinnovation-institute/",
+    "title": "Hospitals and doctors are ignoring RFK Jr.’s new vaccine schedule and relying on pediatricians’ guidance instead",
+    "summary": "Hospitals and doctors are ignoring RFK Jr.’s new vaccine schedule",
+    "hyperlink": "https://www.statnews.com/2026/01/15/new-vaccine-schedule-largely-ignored-major-healthcare-providers/",
     "date": "15-01-2026"
   },
   {
-    "title": "My grandfather created the hepatitis B vaccine. Would he recognize public health in the U.S. today?",
-    "summary": "The inventor of the hepatitis B vaccine reflects on public health in the US",
-    "hyperlink": "https://www.statnews.com/2026/01/15/hepatitis-b-vaccine-inventor-lessons-learned-baruch-samuel-blumberg/",
-    "date": "15-01-2026"
-  },
-  {
-    "title": "STAT Plus: Former Emergent BioSolutions CEO sued for insider trading, company reaches $900K settlement in N.Y.",
-    "summary": "Former CEO sued for insider trading, company reaches settlement",
-    "hyperlink": "https://www.statnews.com/2026/01/15/covid-insider-trading-stock-emergent-astrazeneca/",
-    "date": "15-01-2026"
-  },
-  {
-    "title": "ChatGPT for Healthcare, Claude AI pose governance challenges",
-    "summary": "Experts advise healthcare organizations to ask: 'Who will be accountable for decisions influenced by artificial intelligence – the clinician, department, vendor or hospital? And what will be needed to defend AI-influenced decisions?'",
-    "hyperlink": "https://www.healthcareitnews.com/news/chatgpt-healthcare-claude-ai-pose-governance-challenges",
-    "date": "15-01-2026"
-  },
-  {
-    "title": "Finding the optimal epilepsy drug using AI in Korea",
-    "summary": "Finding the optimal epilepsy drug using AI in Korea",
-    "hyperlink": "https://www.mobihealthnews.com/news/asia/finding-optimal-epilepsy-drug-using-ai-korea",
-    "date": "15-01-2026"
-  },
-  {
-    "title": "JPM: NVIDIA and Eli Lilly announce co-innovation AI lab",
-    "summary": "NVIDIA and Eli Lilly announce co-innovation AI lab",
-    "hyperlink": "https://www.mobihealthnews.com/news/jpm-nvidia-and-eli-lilly-announce-co-innovation-ai-lab",
-    "date": "15-01-2026"
-  },
-  {
-    "title": "Global Q&A: Glen Tullman discusses tech adoption as millions lose coverage, Part 1",
-    "summary": "The CEO of Transcarent sat down with MobiHealthNews outside the JPM Healthcare Conference to discuss AI's place in healthcare and its use in expanding access.",
-    "hyperlink": "https://www.mobihealthnews.com/news/qa-glen-tullman-discusses-tech-adoption-millions-lose-coverage-part-1",
-    "date": "15-01-2026"
-  },
-  {
-    "title": "Childhood vaccine policy data reporting rollback by CMS",
-    "summary": "The rollback has been met with criticism from healthcare experts",
-    "hyperlink": "https://www.statnews.com/2026/01/14/childhood-vaccine-policy-data-reporting-rollback-cms/",
+    "title": "Medicare to automatically cover medical devices deemed breakthrough by FDA",
+    "summary": "Medicare will automatically cover medical devices deemed breakthrough by the Food and Drug Administration (FDA), a move aimed at increasing access to innovative treatments.",
+    "hyperlink": "https://www.statnews.com/2026/01/14/medicare-automatic-coverage-medical-devices-fda-deems-breakthrough/",
     "date": "14-01-2026"
   },
   {
     "title": "Emoji have entered the chat. Is that a good thing for electronic health records?",
-    "summary": "The article discusses the use of emojis in electronic health records.",
+    "summary": "Emoji have entered the chat",
     "hyperlink": "https://www.statnews.com/2026/01/14/emoji-use-growing-in-medical-records-experts-have-questions/",
     "date": "14-01-2026"
   },
   {
-    "title": "Avian flu H5N1: Egg prices, birds, virus, USDA vaccination",
-    "summary": "The article discusses the impact of avian flu H5N1 on egg prices and the efforts of the USDA to vaccinate birds against the virus.",
-    "hyperlink": "https://www.statnews.com/2026/01/14/avian-flu-h5n1-egg-prices-birds-virus-usda-vaccination/",
-    "date": "14-01-2026"
-  },
-  {
-    "title": "Care access and operational efficiency get an AI assist",
-    "summary": "Dr. Baligh Yehia, Jefferson Health's president, says the health system will use AI to streamline scheduling, tackle revenue cycle challenges, close care gaps and give clinicians back 10 million patient hours over the next three years.",
-    "hyperlink": "https://www.mobihealthnews.com/video/care-access-and-operational-efficiency-get-ai-assist",
-    "date": "14-01-2026"
-  },
-  {
-    "title": "JPM: Abridge, Availity integrate conversational AI into prior authorization workflows",
-    "summary": "Abridge, Availity integrate conversational AI into prior authorization workflows",
-    "hyperlink": "https://www.mobihealthnews.com/news/jpm-abridge-availity-integrate-conversational-ai-prior-authorization-workflows",
-    "date": "14-01-2026"
-  },
-  {
-    "title": "JPM: Healthcare experts discuss AI's impact on healthcare at BCG event",
-    "summary": "Healthcare experts discuss AI's impact on healthcare at BCG event",
-    "hyperlink": "https://www.mobihealthnews.com/news/jpm-healthcare-experts-discuss-ais-impact-healthcare-bcg-event",
-    "date": "14-01-2026"
-  },
-  {
-    "title": "HHS dismisses Veronica McNally from advisory commission on childhood vaccinations",
-    "summary": "The dismissal has been met with criticism from healthcare experts",
-    "hyperlink": "https://www.statnews.com/2026/01/13/hhs-dismisses-veronica-mcnally-advisory-commission-on-childhood-vaccinations/",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "Epic Health lawsuit over patient records and health data interoperability",
-    "summary": "The lawsuit alleges that Epic Health has engaged in anti-competitive practices",
-    "hyperlink": "https://www.statnews.com/2026/01/13/epic-health-gorilla-lawsuit-patient-records-health-data-interoperability/",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "At JPM 2026, Mehmet Oz and top Trump health officials explain their thinking to hospital leaders",
-    "summary": "The article discusses the JPM 2026 conference where Mehmet Oz and top Trump health officials explained their thinking to hospital leaders.",
-    "hyperlink": "https://www.statnews.com/2026/01/13/jpm-2026-cms-officials-face-off-hospital-insurance-execs/",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "More people are surviving cancer than ever before, according to new report",
-    "summary": "The article discusses a new report that shows more people are surviving cancer than ever before.",
-    "hyperlink": "https://www.statnews.com/2026/01/13/why-more-people-survive-cancer-new-report/",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "Kennedy adds two OB-GYNs to vaccine advisory panel amid review of shots for pregnant women",
-    "summary": "The article reports that Kennedy has added two OB-GYNs to the vaccine advisory panel.",
-    "hyperlink": "https://www.statnews.com/2026/01/13/new-acip-members-adam-urato-kimberly-biss-review-vaccines-during-pregnancy/",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "I’m a designer. The new food pyramid is outdated and confusing",
-    "summary": "The article discusses the designer's opinion on the new food pyramid, calling it outdated and confusing.",
-    "hyperlink": "https://www.statnews.com/2026/01/13/new-food-pyramid-guidelines-design-critique/",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "46% of U.S. counties don’t have a cardiologist. ARPA-H’s new agentic AI program could bring them specialized care",
-    "summary": "The article discusses how ARPA-H's new agentic AI program could help bring specialized care to counties without cardiologists.",
-    "hyperlink": "https://www.statnews.com/2026/01/13/arpa-h-advancing-clinical-agentic-ai-use-heart-disease/",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "Chinatown Service Center succeeds with custom-made HEDIS tool",
-    "summary": "The center has seen improvements in patient outcomes and staff efficiency since implementing the tool. The Chinatown Service Center has successfully implemented a custom-made HEDIS tool to improve patient care and outcomes.",
-    "hyperlink": "https://www.healthcareitnews.com/news/chinatown-service-center-succeeds-custom-made-hedis-tool",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "CareDx, 10x Genomics partner to decode transplant rejection at cellular resolution",
-    "summary": "The partners are launching ImmuneScape, a multiomics program using spatial and single-cell sequencing to study immune drivers of transplant rejection and patient response variability.",
-    "hyperlink": "https://www.mobihealthnews.com/news/caredx-10x-genomics-partner-decode-transplant-rejection-cellular-resolution",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "HIMSSCast: AI search in EHRs improves clinical trial metrics",
-    "summary": "By searching and cross-referencing all electronic health record data, large language models are helping to provide leading-edge oncology care to more patients while freeing up nurses' time, says Dr. Aaron Gerds at the Cleveland Clinic’s Cancer Institute.",
-    "hyperlink": "https://www.mobihealthnews.com/podcast/himsscast-ai-search-ehrs-improves-clinical-trial-metrics",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "Rethinking 'human in the loop' as AI scales across healthcare",
-    "summary": "Julia Zarb, principal and founder of Blue x Blue, discusses her upcoming HIMSS26 talk, exploring 'human in the loop' AI practices and workflows that support human decision-making.",
-    "hyperlink": "https://www.mobihealthnews.com/news/rethinking-human-loop-ai-scales-across-healthcare",
-    "date": "13-01-2026"
-  },
-  {
-    "title": "UnitedHealth's Medicare Advantage coding profit strategy under scrutiny",
-    "summary": "The company's strategy has been criticized by lawmakers and healthcare experts",
+    "title": "UnitedHealth has turned Medicare Advantage coding into ‘profit-centered strategy,’ Senate report finds",
+    "summary": "Senate report finds UnitedHealth's Medicare Advantage coding strategy is profit-centered",
     "hyperlink": "https://www.statnews.com/2026/01/12/unitedhealth-medicare-advantage-coding-profit-strategy-grassley-senate-report/",
     "date": "12-01-2026"
   },
   {
-    "title": "Government approves $60 billion of enhanced Medicaid funding for hospitals, other providers",
-    "summary": "Medicaid approves state-directed payments to Texas before Trump cuts",
-    "hyperlink": "https://www.statnews.com/2026/01/12/medicaid-approves-state-directed-payments-texas-before-trump-cuts/",
-    "date": "12-01-2026"
+    "title": "As more patients order lab tests online, doctors don’t know what to do with the results",
+    "summary": "As more patients order lab tests online",
+    "hyperlink": "https://www.statnews.com/2026/01/09/patients-ordering-lab-tests-screenings-online-frustrate-doctors/",
+    "date": "09-01-2026"
   },
   {
-    "title": "Judge orders HHS to restore funding for children’s health programs as lawsuit continues",
-    "summary": "The article reports that a judge has ordered HHS to restore funding for children's health programs.",
-    "hyperlink": "https://www.statnews.com/2026/01/12/judge-orders-hhs-restore-funding-american-academy-of-pediatrics/",
-    "date": "12-01-2026"
-  },
-  {
-    "title": "AI in healthcare hype ending in APAC?",
-    "summary": "Clinician innovators across the region see the next phase of healthcare AI focusing on trust and responsible adoption after a year of rapid experimentation.",
-    "hyperlink": "https://www.mobihealthnews.com/news/asia/ai-healthcare-hype-ending-apac",
-    "date": "12-01-2026"
-  },
-  {
-    "title": "Where is autoimmune care in AI preventive care?",
-    "summary": "Private rheumatologist Dr Anandita Santosa in Singapore notes how current AI in healthcare priorities practically leave autoimmune and rheumatic diseases behind and shares what can be done to build a more comprehensive AI-driven preventive care ecosystem.",
-    "hyperlink": "https://www.mobihealthnews.com/news/asia/where-autoimmune-care-ai-preventive-care",
-    "date": "12-01-2026"
-  },
-  {
-    "title": "NIH leaders resign in protest, citing interference and censorship",
-    "summary": "Four leaders have resigned from the NIH, citing interference and censorship",
-    "hyperlink": "https://www.statnews.com/2026/01/10/nih-resign-protest-four-leaders-cite-interference-censorship/",
-    "date": "10-01-2026"
-  },
-  {
-    "title": "House passes ACA subsidy extension as bipartisan negotiations heat up in Senate",
-    "summary": "The article reports that the House has passed an ACA subsidy extension.",
-    "hyperlink": "https://www.statnews.com/2026/01/08/aca-subsidy-vote-house-extends-health-insurance-premiums-aid/",
+    "title": "Women are celebrating at-home cervical cancer screening, but might it lead them to get fewer checkups?",
+    "summary": "Women are celebrating at-home cervical cancer screening",
+    "hyperlink": "https://www.statnews.com/2026/01/08/hpv-home-testing-cervical-cancer-guidelines/",
     "date": "08-01-2026"
   },
   {
-    "title": "STAT Plus: 3 issues to watch in biopharma in 2026",
-    "summary": "The article discusses the three issues to watch in biopharma in 2026.",
-    "hyperlink": "https://www.statnews.com/pharmalot/2026/01/05/biopharma-2026-issues-to-watch-obesity-pills-patent-reform-340b-drugs/",
-    "date": "05-01-2026"
+    "title": "How saturated fats lost, and won, on new food pyramid",
+    "summary": "How saturated fats lost, and won, on new food pyramid",
+    "hyperlink": "https://www.statnews.com/2026/01/08/saturated-fats-controversial-role-in-new-dietary-guidelines/",
+    "date": "08-01-2026"
   },
   {
-    "title": "STAT Plus: Who will pay for AI in health care? 3 trends to watch in 2026",
-    "summary": "The article discusses the three trends to watch in AI in health care in 2026, including who will pay for it.",
-    "hyperlink": "https://www.statnews.com/2026/01/02/health-tech-trends-2026-who-pays-for-artificial-intelligence/",
-    "date": "02-01-2026"
-  },
-  {
-    "title": "Genetic variant appears to protect some people against certain blood cancers",
-    "summary": "The article discusses a genetic variant that appears to protect some people against certain blood cancers.",
-    "hyperlink": "https://www.statnews.com/2026/01/01/blood-cancer-protective-genetic-variant-found-in-study/",
-    "date": "01-01-2026"
+    "title": "Why flu seems to be everywhere — even if ‘super flu’ is not a thing",
+    "summary": "Why flu seems to be everywhere",
+    "hyperlink": "https://www.statnews.com/2026/01/06/flu-season-2026-subclade-k-explained-by-influenza-experts/",
+    "date": "06-01-2026"
   },
   {
     "title": "5 Questions About Security Debt for Healthcare Organizations",
-    "summary": "5 questions about security debt for healthcare organizations",
+    "summary": "",
     "hyperlink": "https://healthtechmagazine.net/article/2026/01/5-questions-about-security-debt-healthcare-organizations",
     "date": "01-01-2026"
   },
   {
     "title": "What Healthcare Organizations Should Know About Advanced Persistent Threats",
-    "summary": "What healthcare organizations should know about advanced persistent threats",
+    "summary": "",
     "hyperlink": "https://healthtechmagazine.net/article/2026/01/what-healthcare-organizations-should-know-about-advanced-persistent-threats",
     "date": "01-01-2026"
   },
   {
     "title": "5 Questions to Ask About Liquid Cooling Technologies",
-    "summary": "5 questions to ask about liquid cooling technologies",
+    "summary": "",
     "hyperlink": "https://healthtechmagazine.net/article/2026/01/5-questions-ask-about-liquid-cooling-technologies",
     "date": "01-01-2026"
   },
   {
     "title": "Build a Security Posture That Helps Health Systems Bounce Back",
-    "summary": "Build a security posture that helps health systems bounce back",
+    "summary": "",
     "hyperlink": "https://healthtechmagazine.net/article/2026/01/build-security-posture-helps-health-systems-bounce-back",
     "date": "01-01-2026"
   },
   {
     "title": "How Health Systems Can Address Security Tool Sprawl",
-    "summary": "It may be time to take stock of all the security tools your organization relies on to reduce the sprawl.",
+    "summary": "",
     "hyperlink": "https://healthtechmagazine.net/article/2026/01/how-health-systems-can-address-security-tool-sprawl",
     "date": "01-01-2026"
   },
   {
     "title": "The Growing Role of AI Agents in Healthcare",
-    "summary": "Agentic AI is moving beyond automation to actively manage clinical complexity, streamline patient journeys and expand access to specialty care.",
+    "summary": "AI agents are transforming the healthcare industry by improving patient outcomes and streamlining clinical workflows. The Growing Role of AI Agents in Healthcare",
     "hyperlink": "https://healthtechmagazine.net/article/2026/01/growing-role-ai-agents-healthcare",
+    "date": "01-01-2026"
+  },
+  {
+    "title": "How Healthcare Organizations Can Navigate Security Changes Linked to HIPAA Updates",
+    "summary": "",
+    "hyperlink": "https://healthtechmagazine.net/article/2026/01/how-healthcare-organizations-can-navigate-security-changes-linked-hipaa-updates",
+    "date": "01-01-2026"
+  },
+  {
+    "title": "Providers Evaluate Security as Updated HIPAA Compliance Looms",
+    "summary": "",
+    "hyperlink": "https://healthtechmagazine.net/article/2026/01/providers-evaluate-security-updated-hipaa-compliance-looms",
+    "date": "01-01-2026"
+  },
+  {
+    "title": "California Adds Guardrails to AI-Powered Medical Chats",
+    "summary": "California’s SB 243 and AB 489 require guardrails for conversational artificial intelligence: continuous disclosure, self-harm interventions and prohibitions on misleading medical authority. California Adds Guardrails to AI-Powered Medical Chats",
+    "hyperlink": "https://healthtechmagazine.net/article/2026/01/california-adds-guardrails-ai-powered-medical-chats",
     "date": "01-01-2026"
   }
 ]
