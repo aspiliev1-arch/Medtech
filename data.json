@@ -1,327 +1,429 @@
 [
   {
-    "title": "Global Q&A: Artera's new CTO on bringing Amazon expertise to AI health tech strategy",
+    "title": "Global Jimini Health raises $17M to expand AI behavioral health platform",
+    "summary": "The funds will be used to expand access to its AI therapist assistant Sage that provides 24/7 clinically supervised mental health support to patients between therapy sessions.",
+    "hyperlink": "https://www.mobihealthnews.com/news/jimini-health-raises-17m-expand-ai-behavioral-health-platform",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "VA expands Mynd Immersive VR therapies to 45 medical centers nationwide",
     "summary": "",
-    "hyperlink": "https://www.mobihealthnews.com/news/qa-arteras-new-cto-bringing-amazon-expertise-ai-health-tech-strategy",
-    "date": "2026-03-26"
+    "hyperlink": "https://www.mobihealthnews.com/news/va-expands-mynd-immersive-vr-therapies-45-medical-centers-nationwide",
+    "date": "2026-04-02"
   },
   {
-    "title": "Heidi launches a mic for AI scribe – why?",
+    "title": "Global HHS reverses ASTP reorg, reinstates ONC as singular office",
     "summary": "",
-    "hyperlink": "https://www.mobihealthnews.com/news/anz/heidi-launches-mic-ai-scribe-why",
-    "date": "2026-03-26"
+    "hyperlink": "https://www.healthcareitnews.com/news/hhs-reverses-astp-reorg-reinstates-onc-singular-office",
+    "date": "2026-04-02"
   },
   {
-    "title": "Global Success Stories & ROI North Mississippi Health saves $2.7M with leadership management platform",
-    "summary": "The rural health system has seen a significant reduction in employee turnover with the technology – an impressive feat, given national workforce challenges.",
-    "hyperlink": "https://www.healthcareitnews.com/news/north-mississippi-health-saves-27m-leadership-management-platform",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Deploying AI without good governance creates difficulties, CIO says",
-    "summary": "CIO warns that deploying AI without proper governance leads to operational challenges and short‑term enthusiasm without sustainable value.",
-    "hyperlink": "https://www.healthcareitnews.com/news/deploying-ai-without-good-governance-creates-difficulties-cio-says",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Telepsychiatry may still be out of reach in low-access areas",
-    "summary": "Telepsychiatry faces barriers in low‑access regions, limiting its potential to expand mental health services.",
-    "hyperlink": "https://www.healthcareitnews.com/news/telepsychiatry-may-still-be-out-reach-low-access-areas",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "National committee to steer AI, virtual care safety in Australia",
-    "summary": "The new committee under the Australian Digital Health Agency will advise the government on safe rollout of AI, telehealth, and data sharing.",
-    "hyperlink": "https://www.healthcareitnews.com/news/anz/national-committee-steer-ai-virtual-care-safety-australia",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "AI speeds up MRI scans by a quarter at SingHealth",
-    "summary": "A newly established AI‑assisted MRI centre has opened 18,000 annual slots to meet rising demand across Singapore.",
-    "hyperlink": "https://www.healthcareitnews.com/news/asia/ai-speeds-mri-scans-quarter-singhealth",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "STAT Plus: FDA approves Rocket gene therapy for rare immune disorder",
+    "title": "Q&A: How to make 'interoperability' more than just a buzzword",
     "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/26/rocket-pharma-kresladi-lad-1-fda-approval/",
-    "date": "2026-03-26"
+    "hyperlink": "https://www.healthcareitnews.com/news/qa-how-make-interoperability-more-just-buzzword",
+    "date": "2026-04-02"
   },
   {
-    "title": "STAT Plus: HHS convenes health care execs, motivational speaker on panel to modernize health care",
+    "title": "Mount Sinai to integrate OpenEvidence AI enterprise-wide",
     "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/26/rfk-jr-hhs-dr-oz-cms-announce-members-healthcare-advisory-committee/",
-    "date": "2026-03-26"
+    "hyperlink": "https://www.healthcareitnews.com/news/mount-sinai-integrate-openevidence-ai-enterprise-wide",
+    "date": "2026-04-02"
   },
   {
-    "title": "Eli Lilly’s deal man, Allogene’s off-the-shelf CAR-T, and Merck’s Terns buy",
+    "title": "Healthcare orgs 'moving beyond the AI hype cycle,' HIMSS26 attendees agree",
     "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/26/eli-lilly-allogene-merck-terns-readout-loud-podcast/",
-    "date": "2026-03-26"
+    "hyperlink": "https://www.healthcareitnews.com/news/healthcare-orgs-moving-beyond-ai-hype-cycle-himss26-attendees-agree",
+    "date": "2026-04-02"
   },
   {
-    "title": "Allogene’s off-the-shelf CAR-T is nearing an early but pivotal study readout",
+    "title": "In the Buckeye State, collaboration drives healthcare AI innovation",
     "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment-study/",
-    "date": "2026-03-26"
+    "hyperlink": "https://www.healthcareitnews.com/video/buckeye-state-collaboration-drives-healthcare-ai-innovation",
+    "date": "2026-04-02"
   },
   {
-    "title": "The perimenopause movement sells women the lie that they are ruled by their hormones",
+    "title": "Samsung Medical Center sets new bar in smart hospital transformation with AI-ready systems",
     "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/26/perimenopause-symptoms-evidence-supplements/",
-    "date": "2026-03-26"
+    "hyperlink": "https://www.healthcareitnews.com/news/asia/samsung-medical-center-sets-new-bar-smart-hospital-transformation-ai-ready-systems",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Korean hospitals outpace global peers in digital maturity: study",
+    "summary": "",
+    "hyperlink": "https://www.healthcareitnews.com/news/asia/korean-hospitals-outpace-global-peers-digital-maturity-pilot-study",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "STAT Plus: Medicare Advantage plans win extra $18.6 billion as feds cut star ratings measures",
+    "summary": "STAT Plus: Medicare Advantage plans win extra $18.6 billion as feds cut star ratings measures",
+    "hyperlink": "https://www.statnews.com/2026/04/02/medicare-advantage-star-ratings-changes-18-billion-windfall-health-insurers/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "EPA to put microplastics on study list of contaminants in drinking water",
+    "summary": "EPA to put microplastics on study list of contaminants in drinking water",
+    "hyperlink": "https://www.statnews.com/2026/04/02/microplastics-in-water-epa-contaminant-list/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "STAT Plus: Proposed ‘preclinical obesity’ diagnosis ignites global debate among experts",
+    "summary": "STAT Plus: Proposed ‘preclinical obesity’ diagnosis ignites global debate among experts",
+    "hyperlink": "https://www.statnews.com/2026/04/02/bmi-new-obesity-definition-endocrine-society-debate/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Medical misinformation wins when patients can’t see their doctors",
+    "summary": "Medical misinformation wins when patients can’t see their doctors",
+    "hyperlink": "https://www.statnews.com/2026/04/02/medical-misinformation-doctor-access-shortage-electronic-charts-disinformation/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "STAT Plus: ‘Takeover Tuesday’ saves biotech’s quarter",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/02/biotech-takeovers-cytokinetics-biogen/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "STAT Plus: Cardiology’s finally prioritizing prevention — but what will it look like?",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/02/cardiology-conference-acc-prevention-industry-maha/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Biotech investors’ plea to Trump, and a busy M&A week",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/02/readout-loud-podcast-biotech-investors-fda-trump-eli-lilly-psychedelics/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "STAT Plus: FDA’s evolving view of what makes a ‘breakthrough’ device",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/02/fda-ai-breakthrough-medical-device-stat-health-tech/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "STAT Plus: How health care could gum up Trump’s reconciliation push",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/02/health-care-cuts-congress-reconciliation-dhs-funding-dc-diagnosis/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "STAT Plus: Lilly’s obesity pill enters the oral GLP-1 game, Novo responds",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/02/biotech-news-foundayo-is-here-o-novo-responds/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "STAT Plus: Pharmalittle: We’re reading about Trump tariff plans, FDA’s OK for a Lilly obesity pill, and more",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/pharmalot/2026/04/02/trump-tariff-plans-lilly-obesity-pill-layoffs/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "STAT reporter goes up against radiologists to spot deepfake X-rays",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/02/ai-deepfake-x-ray-detection-status-report-alex-hogan/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Noom acquires compounding pharmacy to expand beyond weight loss",
+    "summary": "",
+    "hyperlink": "https://www.mobihealthnews.com/news/noom-acquires-compounding-pharmacy-expand-beyond-weight-loss",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "Artera, Atlantic Health deploy AI agents for colonoscopy patient outreach",
+    "summary": "The health system is using AI agents to automate multilingual patient outreach before procedures to answer and support colonoscopy-focused care.",
+    "hyperlink": "https://www.mobihealthnews.com/news/artera-atlantic-health-deploy-ai-agents-colonoscopy-patient-outreach",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "The Connected Care Continuum: Enhancing Patient Care Across Settings",
+    "summary": "As care continues to transition from the inpatient setting, organizations must ensure data is available and actionable no matter where patients receive care — including at home.",
+    "hyperlink": "https://healthtechmagazine.net/article/2026/04/connected-care-continuum-perfcon",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "Private NZ cardio centre halts procedures after hack",
+    "summary": "",
+    "hyperlink": "https://www.healthcareitnews.com/news/anz/private-nz-cardio-centre-halts-procedures-after-hack",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "HNL Lab's digital pathology platform enables faster results and more",
+    "summary": "",
+    "hyperlink": "https://www.healthcareitnews.com/news/hnl-labs-digital-pathology-platform-enables-faster-results-and-more",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+    "summary": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+    "hyperlink": "https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "STAT Plus: Trump administration prepares 100% tariffs on some imported drugs",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/01/trump-section-232-tariffs-imported-brand-drugs/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "STAT Plus: Makary marks one year at FDA with focus on achievements in speech to staff",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/01/fda-commissioner-makary-one-year-anniversary-speech-to-staff/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "STAT Plus: Large AI scribe study finds modest time savings, inconsistent use",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/01/ai-ambient-scribes-modest-time-savings-clinical-documentation/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "STAT Plus: Government watchdog urges FDA to finalize guidance for advisory committee conflicts of interest",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/pharmalot/2026/04/01/government-watchdog-urges-fda-finalize-guidance-committee-conflicts/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "STAT Plus: Insilico Medicine CEO on how best to use AI in drug development",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/01/insilico-medicine-ceo-biotech-drug-development-ai-prognosis/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "Medicare is restricting care for 1 million Americans based on a faulty assumption. Congress must intervene",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/01/ostomy-supplies-competitive-bidding-program-cms/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "STAT Plus: Novo’s subscription model raises questions about pharma-telehealth tie-ups",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/01/biotech-news-novo-nordisk-subscription-model-raises-quesstions/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "STAT Plus: Pharmalittle: We’re reading about FDA view on peptide compounding, Iran war hurting trial recruitment, and more",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/pharmalot/2026/04/01/fda-compounding-peptides-iran-trial-recruitment/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "Medical marijuana should not be recommended for PTSD, anxiety, or depression",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/01/state-medical-marijuana-license-ptsd-anxiety-depression-pain/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "STAT Plus: The biotech scorecard for the second quarter: 23 stock-moving events to watch",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/01/biotech-scorecard-second-quarter/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "STAT Plus: Can a psychedelic ‘coach’ make ketamine therapy even more effective?",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/04/01/ketamine-therapy-psychedlic-coach-increase-effectiveness-depression/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "WHOOP raises $575M, hits $10.1B valuation",
+    "summary": "The company will use the funds to expand its presence globally and enhance its platform.",
+    "hyperlink": "https://www.mobihealthnews.com/news/whoop-raises-575m-hits-101b-valuation",
+    "date": "2026-03-31"
+  },
+  {
+    "title": "America needs more clinics of last resort for patients who can’t get answers",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/31/undiagnosed-diseases-program-the-elusive-body-excerpt/",
+    "date": "2026-03-31"
+  },
+  {
+    "title": "STAT Plus: Biogen to acquire immunology biotech Apellis for $5.6 billion",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/31/biogen-acquisition-apellis-immunology/",
+    "date": "2026-03-31"
+  },
+  {
+    "title": "STAT Plus: Over-the-top psychedelic promos could undermine the field’s drug development efforts",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/31/psychedelic-biotech-promotion-scrutinized-helus-atai-influencer-marketing/",
+    "date": "2026-03-31"
+  },
+  {
+    "title": "STAT Plus: Pharmalittle: We’re reading about pharma delaying launches in Europe, Lilly and Biogen deals, and more",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/pharmalot/2026/03/31/pharma-delays-european-launches-lilly-biogen-deals-gilead/",
+    "date": "2026-03-31"
+  },
+  {
+    "title": "STAT Plus: Eli Lilly to buy Centessa Pharmaceuticals, maker of a narcolepsy drug, in $6.3B deal",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/31/eli-lilly-centessa-acquire-narcolepsy/",
+    "date": "2026-03-31"
+  },
+  {
+    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ kids",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/31/supreme-court-ruling-colorado-ban-conversion-therapy-lgbtq-kids/",
+    "date": "2026-03-31"
+  },
+  {
+    "title": "STAT Plus: HHS changes the U.S. health IT office’s name, and its purview",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/31/hhs-reorganizes-health-it-regulation-office-astp-onc/",
+    "date": "2026-03-31"
+  },
+  {
+    "title": "STAT Plus: Jimini Health raises funding for AI chatbot targeting complex mental health care",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/31/jimini-health-raises-funding-ai-chatbot-sage-mental-health/",
+    "date": "2026-03-31"
+  },
+  {
+    "title": "STAT Plus: Why this Stanford psychiatrist thinks diet can influence serious mental health disorders",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/30/metabolic-psychiatry-studies-diet-role-schizophrenia-bipolar-disorder/",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "STAT Plus: Doctors Without Borders calls Gilead ‘unconscionable’ for refusing to sell HIV prevention drug to the organization",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/30/doctors-without-borders-calls-gilead-unconsionable-refuse-sell-hiv-drug/",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "Lead still raises risk of heart disease, years after exposure, study warns",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/30/lead-exposure-cardiovascular-risk-factor-jama-study/",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "7 big challenges for the next CDC director",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/30/cdc-director-nominee-faces-problems-beyond-senate-confirmation/",
+    "date": "2026-03-30"
+  },
+  {
+    "title": "STAT Plus: Trump administration says home care fraud is ‘rampant.’ What do the data show?",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/27/medicaid-hcbs-home-care-fraud-claims-lack-evidence/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "NIH restrictions on foreign research partnerships significantly impacted 1 in 4 U.S. scientists",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/27/nih-funding-national-researcher-survey-foreign-subaward-ban-impact/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "STAT Plus: Amid focus on food, FDA leader briefs lawmakers on priorities",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/27/fda-briefs-senators-food-safety-infant-formula-ultraprocessed-foods/",
+    "date": "2026-03-27"
+  },
+  {
+    "title": "STAT Plus: ‘We’re on the inside now’: Meet the man building a political empire behind RFK Jr.",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/27/tony-lyons-profile-rfk-jr-maha/",
+    "date": "2026-03-27"
   },
   {
     "title": "Health influencers talk social media and mental health",
-    "summary": "No summary available",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/26/health-influencers-talk-social-media-addiction-mental-health/",
     "date": "2026-03-26"
   },
   {
-    "title": "STAT Plus: Allogene’s off-the-shelf CAR-T is nearing an early but pivotal study readout",
+    "title": "STAT Plus: Can you spot a deepfake X-ray? Neither can your radiologist",
     "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "$50 billion fund for hospitals could actually lead to cuts",
-    "summary": "",
-    "hyperlink": "https://www.npr.org/2026/03/26/nx-s1-5760925/rural-health-transformation-fund-hospitals-montana",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Vitality acquires Ramp Health to merge AI behavioral health and workplace safety",
-    "summary": "The deal will combine digital engagement tools and on-site clinical services to help employers and health plans better manage risk and support employee health.",
-    "hyperlink": "https://www.mobihealthnews.com/news/vitality-acquires-ramp-health-merge-ai-behavioral-health-and-workplace-safety",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "California considers seal of approval for foods that are not ultra-processed",
-    "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/25/california-ultraprocessed-food-labeling-bill/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "STAT Plus: Bhattacharya addresses CDC director role, works to bolster staff morale in first all-hands meeting",
-    "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/25/cdc-new-director-nomination-imminent-jay-bhattacharya-tells-staff/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "Emergency departments are not equipped to help patients with dementia",
-    "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/25/emergency-department-patients-dementia/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "STAT Plus: FDA approves Denali Therapeutics drug for Hunter syndrome",
-    "summary": "",
-    "hyperlink": "https://www.statnews.com/2026/03/25/denali-therapeutics-hunter-syndrome-rare-disease/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "Qualified Health raises $125 million, as it helps more health systems build and manage AI tools",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/25/qualified-health-raises-125-million-help-hospitals-manage-ai/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "White House holds off on CDC pick as search for permanent chief continues",
-    "summary": "",
-    "hyperlink": "https://www.washingtonpost.com/health/2026/03/25/cdc-nomination-delayed-jay-bhattacharya/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "Two States Sue Cord Blood Bank Over False Advertisements",
-    "summary": "",
-    "hyperlink": "https://www.nytimes.com/2026/03/25/health/cord-blood-registry-false-advertisements.html",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "Viz.ai, Alnylam Pharmaceuticals partner for cardiac amyloidosis detection and more digital health ne",
-    "summary": "Ellipsis Health partners with PromptWell to boost enrollment in patient care programs, while CaryHealth teams up with HealthDyne to enhance medication management.",
-    "hyperlink": "https://www.mobihealthnews.com/news/vizai-alnylam-pharmaceuticals-partner-cardiac-amyloidosis-detection-and-more-digital-health",
+    "hyperlink": "https://www.statnews.com/2026/03/24/radiologists-cant-detect-deepfake-xrays/",
     "date": "2026-03-24"
   },
   {
-    "title": "Stakeholders react to White House national AI policy framework",
-    "summary": "The Trump Administration's artificial intelligence proposals call on Congress and federal agencies to develop risk-based approaches to health AI standards while streamlining innovation. The list of tasks for lawmakers to tackle is extensive.",
-    "hyperlink": "https://www.mobihealthnews.com/news/stakeholders-react-white-house-national-ai-policy-framework",
-    "date": "2026-03-24"
-  },
-  {
-    "title": "STAT Plus: FTC strikes proposed deal with CVS over charges its PBM manipulated insulin prices, impeded access",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/pharmalot/2026/03/24/ftc-proposed-deal-cvs-pbm-manipulated-insulin-prices/",
-    "date": "2026-03-24"
-  },
-  {
-    "title": "STAT Plus: Drug company penalties for paying kickbacks to doctors failed to dent bottom lines, analysis finds",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/pharmalot/2026/03/24/pharma-doctor-kickback-penalties-dwarfed-by-sales-revenue/",
-    "date": "2026-03-24"
-  },
-  {
-    "title": "STAT Plus: FDA slams Soon‑Shiong and ImmunityBio for making ‘false and misleading’ claims about a drug",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/pharmalot/2026/03/24/fda-slams-soon-shiong-immunitybio-false-misleading-claims/",
-    "date": "2026-03-24"
-  },
-  {
-    "title": "Federal vaccine adviser departs ACIP",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/24/federal-vaccine-adviser-departs-acip/",
-    "date": "2026-03-24"
-  },
-  {
-    "title": "STAT Plus: The potential loophole in Trump’s plan to get other countries to pay more for drugs",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/24/trump-mfn-drug-pricing-gop-strategy-raise-prices-overseas/",
-    "date": "2026-03-24"
-  },
-  {
-    "title": "What growing up in an end‑times church taught a science communicator about dispelling misinformation",
-    "summary": "No summary available",
+    "title": "What growing up in an end-times church taught a science communicator about dispelling misinformation",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/24/paul-martin-jensen-science-communicator-radical-nonjudgment/",
     "date": "2026-03-24"
   },
   {
     "title": "Tracking healthcare data breaches",
-    "summary": "A data breach at a dermatology management company exposed the information of more than 3 million people.",
+    "summary": "",
     "hyperlink": "https://www.healthcaredive.com/news/tracking-healthcare-data-breaches-cybersecurity-hacking-hospitals/696184/",
     "date": "2026-03-24"
   },
   {
-    "title": "STAT Plus: Insmed drug benefits patients with rare, bacterial lung disease, study shows",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/23/insmed-mac-lung-infection-arikayce-results/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "STAT Plus: Pfizer’s Lyme vaccine shows efficacy, but misses key statistical hurdle",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/23/lyme-disease-vaccine-study-results-efficacy/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "STAT Plus: Apogee Therapeutics data show long‑acting eczema drug induced relief with less frequent injections",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/23/zumilokibart-apogee-eczema-clinical-trials-results/",
-    "date": "2026-03-23"
-  },
-  {
     "title": "Her son needed a fecal transplant for a fearsome C. diff infection. Getting one required a tortuous journey",
-    "summary": "No summary available",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/23/c-diff-fda-drug-approval-access-paradox-fecal-transplants/",
     "date": "2026-03-23"
   },
   {
-    "title": "STAT Plus: This bill could make CVS choose between its stores and its pharmacy benefit manager",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/23/bill-pits-pharmacies-against-pharmacy-benefit-managers-cvs/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Epic says it has uncovered rot in patient record sharing. Will HHS act?",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/23/epic-systems-lawsuit-fraud-in-health-information-exchanges/",
-    "date": "2026-03-23"
-  },
-  {
-    "title": "Doctronic raises $40 million as race to apply AI in clinical care heats up",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/",
-    "date": "2026-03-23"
-  },
-  {
     "title": "NIH grant terminations affected women scientists more than men, study finds",
-    "summary": "No summary available",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/23/nih-cuts-who-lost-funding-women-blacks-young-researchers/",
     "date": "2026-03-23"
   },
   {
-    "title": "Tobacco could get a boost from the farm bill. How does that square with MAHA?",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/20/maha-movement-dismay-farm-bill-boosts-tobacco-pesticides/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "STAT Plus: Inside the delicate, high‑stakes search for a new CDC director",
-    "summary": "No summary available",
+    "title": "STAT Plus: Inside the delicate, high-stakes search for a new CDC director",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/20/new-cdc-director-chris-klomp-leads-search-inside-look/",
     "date": "2026-03-20"
   },
   {
-    "title": "A family’s giving to the Broad Institute’s research tops $1 billion",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/20/broad-institute-mit-harvard-stanley-family-foundation/",
-    "date": "2026-03-20"
-  },
-  {
-    "title": "National survey of NIH‑funded researchers shows precarious state of U.S. science — ‘This is like the Titanic’",
-    "summary": "No summary available",
+    "title": "National survey of NIH-funded researchers shows precarious state of U.S. science — ‘This is like the Titanic’",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/19/nih-funding-national-researcher-survey-finds-cutbacks-disruptions/",
     "date": "2026-03-19"
   },
   {
     "title": "The indirect — and sometimes surprising — benefits of vaccines",
-    "summary": "No summary available",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/19/vaccine-success-widespread-hidden-benefits-make-skepticism-possible/",
     "date": "2026-03-19"
   },
   {
-    "title": "More than 150,000 uncounted Covid‑19 deaths occurred early in the pandemic, a study finds",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/18/study-finds-150000-uncounted-covid-19-deaths-early-pandemic/",
+    "title": "I was a surgeon. The hardest part of leaving medicine was believing that I could",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/18/leaving-medicine-physician-alternative-careers/",
     "date": "2026-03-18"
   },
   {
+    "title": "STAT Plus: How a Texas couple is getting rich off out-of-network medical bills",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/18/no-surprises-act-loophole-profits-scott-laroque-mpowerhealth-alla-laroque-halomd/",
+    "date": "2026-03-18"
+  },
+  {
+    "title": "STAT Plus: For decades, they’ve set the record straight in biology. Next up: science’s reproducibility crisis",
+    "summary": "",
+    "hyperlink": "https://www.statnews.com/2026/03/17/beacon-casp-coalition-tackle-science-reproducibility-crisis/",
+    "date": "2026-03-17"
+  },
+  {
     "title": "STAT Plus: New technologies promise to transform organ transplantation. But when?",
-    "summary": "No summary available",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/16/organ-transplant-perfusion-technology-standard-of-care/",
     "date": "2026-03-16"
   },
   {
-    "title": "STAT would cover ‘The Fugitive’ if its pharma scandal were real",
-    "summary": "No summary available",
+    "title": "How STAT would cover ‘The Fugitive’ if its pharma scandal were real",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/13/fugitive-movie-pharma-scandal-explored-status-report-alex-hogan/",
     "date": "2026-03-13"
   },
   {
-    "title": "Leapfrog Group’s legal defeat underscores challenges of rating hospital quality",
-    "summary": "No summary available",
+    "title": "STAT Plus: Leapfrog Group’s legal defeat underscores challenges of rating hospital quality",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/13/leapfrog-group-hospital-quality-ratings-lawsuit/",
     "date": "2026-03-13"
   },
   {
-    "title": "After fight over cancer clinicians, Dana‑Farber and Brigham are playing nice again",
-    "summary": "No summary available",
+    "title": "STAT Plus: After fight over cancer clinicians, Dana-Farber and Brigham are playing nice again",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/03/10/dana-farber-brigham-hospital-breakup-cancer-clinicians/",
     "date": "2026-03-10"
-  },
-  {
-    "title": "What’s so religious about opposing vaccines?",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/06/religious-exemption-vaccines-amish-vaccination-hesitancy-examined/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "How the ‘holy grail’ weight loss pill became a reality, and what comes next",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/06/glp-1-weight-loss-pill-development-status-report-alex-hogan/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "STAT Plus: A new mystery emerges about Epstein’s involvement in Harvard genetics study",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/04/jeffrey-epstein-new-mystery-harvard-genetics-project-george-church/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "STAT Plus: UnitedHealth promised transparency. Instead, it’s cutting back key disclosures",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/03/04/unitedhealth-limits-subsidiary-disclosure-sec-reporting-shift/",
-    "date": "2026-03-04"
   },
   {
     "title": "OpenAI, HealthBench, Claude, and HIPAA Compliance: What Healthcare IT Needs to Know",
@@ -330,9 +432,15 @@
     "date": "2026-03-01"
   },
   {
-    "title": "Healthcare Cyber Resilience: A Comprehensive Security and Recovery Guide",
+    "title": "HIMSS26: Clarifying Governance for Ambient Clinical Documentation Tools",
     "summary": "",
-    "hyperlink": "https://healthtechmagazine.net/article/2026/03/healthcare-cyber-resilience-guide-perfcon",
+    "hyperlink": "https://healthtechmagazine.net/article/2026/03/himss26-clarifying-governance-ambient-clinical-documentation-tools",
+    "date": "2026-03-01"
+  },
+  {
+    "title": "HIMSS26: Strengthen the Muscle of AI Strategy With Clinical Insight",
+    "summary": "",
+    "hyperlink": "https://healthtechmagazine.net/article/2026/03/himss26-strengthen-muscle-ai-strategy-clinical-insight",
     "date": "2026-03-01"
   },
   {
@@ -345,12 +453,6 @@
     "title": "Cloud-Based EHR Systems: Achieving Security and Migration Success",
     "summary": "",
     "hyperlink": "https://healthtechmagazine.net/article/2026/03/cloud-based-ehr-systems-perfcon",
-    "date": "2026-03-01"
-  },
-  {
-    "title": "Eaton Bolsters Hospital Defenses as Healthcare Cybersecurity Act Arrives",
-    "summary": "",
-    "hyperlink": "https://healthtechmagazine.net/article/2026/03/eaton-bolsters-hospital-defenses-healthcare-cybersecurity-act-arrives",
     "date": "2026-03-01"
   },
   {
@@ -372,9 +474,9 @@
     "date": "2026-03-01"
   },
   {
-    "title": "HIMSS26: Clarifying Governance for Ambient Clinical Documentation Tools",
+    "title": "Eaton Bolsters Hospital Defenses as Healthcare Cybersecurity Act Arrives",
     "summary": "",
-    "hyperlink": "https://healthtechmagazine.net/article/2026/03/himss26-clarifying-governance-ambient-clinical-documentation-tools",
+    "hyperlink": "https://healthtechmagazine.net/article/2026/03/eaton-bolsters-hospital-defenses-healthcare-cybersecurity-act-arrives",
     "date": "2026-03-01"
   },
   {
@@ -390,20 +492,14 @@
     "date": "2026-03-01"
   },
   {
-    "title": "Breakup between Brigham and Dana‑Farber is getting messier fast",
-    "summary": "No summary available",
+    "title": "STAT Plus: Breakup between Brigham and Dana-Farber is getting messier fast",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/02/16/breakup-between-brigham-and-dana-farber-is-getting-messier-fast/",
     "date": "2026-02-16"
   },
   {
-    "title": "Medicare Advantage growth dwindles for a second straight year",
-    "summary": "No summary available",
-    "hyperlink": "https://www.statnews.com/2026/02/16/medicare-advantage-membership-growth-2026-unitedhealth-humana-aetna/",
-    "date": "2026-02-16"
-  },
-  {
-    "title": "Federal government turns to fresher data to rein up Medicare Advantage upcoding",
-    "summary": "No summary available",
+    "title": "STAT Plus: Federal government turns to fresher data to rein up Medicare Advantage upcoding",
+    "summary": "",
     "hyperlink": "https://www.statnews.com/2026/02/09/medicare-advantage-new-cms-risk-scores-target-insurer-upcoding/",
     "date": "2026-02-09"
   },
@@ -420,22 +516,196 @@
     "date": "2026-02-01"
   },
   {
-    "title": "ViVE 2026: Change Management Is Key in Clinical Adoption of AI",
+    "title": "STAT Plus: UnitedHealth has turned Medicare Advantage coding into ‘profit-centered strategy,’ Senate report finds",
     "summary": "",
-    "hyperlink": "https://healthtechmagazine.net/article/2026/02/vive-2026-change-management-key-clinical-adoption-ai",
-    "date": "2026-02-01"
-  },
-  {
-    "title": "Q&A: Nemours Children’s Health Expands Pediatric Care at Home",
-    "summary": "",
-    "hyperlink": "https://healthtechmagazine.net/article/2026/02/qa-nemours-childrens-health-expands-pediatric-care-home",
-    "date": "2026-02-01"
-  },
-  {
-    "title": "UnitedHealth has turned Medicare Advantage coding into ‘profit‑centered strategy,’ Senate report finds",
-    "summary": "STAT Plus article discussing how UnitedHealth transformed Medicare Advantage coding into a profit‑centered strategy, based on a Senate report.",
     "hyperlink": "https://www.statnews.com/2026/01/12/unitedhealth-medicare-advantage-coding-profit-strategy-grassley-senate-report/",
     "date": "2026-01-12"
+  },
+  {
+    "title": "CMS tackles big policy changes with diminished workforce",
+    "summary": "The agency is embarking on major initiatives — including helping states implement Medicaid work requirements — with fewer workers in the wake of the federal government’s restructuring, experts say.",
+    "hyperlink": "https://www.healthcaredive.com/news/cms-tackles-big-policy-changes-with-diminished-workforce/815937/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "One year after HHS layoffs, a department in disarray",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/one-year-after-hhs-layoffs-a-department-in-disarray/815906/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "AI scribe adoption linked to modest reductions in EHR, documentation time: study",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/ai-artificial-intelligence-scribes-reductions-ehr-documentation-time-jama/816400/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "CHS closes sale of Alabama hospital",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/chs-closes-sale-of-alabama-hospital/816449/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Elevance sidesteps Medicare Advantage sanctions for now",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/elevance-sidesteps-medicare-advantage-sanctions-cms/816324/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Over 130 hospitals sue HHS over DSH payments",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/over-130-hospitals-sue-hhs-disproportionate-share-payments/816304/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Bipartisan lawmakers urge CMS to crack down on Medicare Advantage overpayments",
+    "summary": "Senators praised a recent CMS proposal aimed at reducing payments in MA, but urged the agency to work with Congress and go further.",
+    "hyperlink": "https://www.healthcaredive.com/news/bipartisan-senators-cms-crack-down-medicare-advantage-overpayments-upcoding/816336/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "From burnout to breakthrough: How healthcare organizations are finally reducing administrative burden",
+    "summary": "What’s quietly cutting burnout across healthcare? A behind-the-scenes shift that’s giving clinicians their time back.",
+    "hyperlink": "https://www.healthcaredive.com/spons/from-burnout-to-breakthrough-how-healthcare-organizations-are-finally-redu/815505/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Elevance fills slew of mid-level leadership positions",
+    "summary": "The company has been overhauling its executive bench as it attempts to bolster flagging insurance profits and capitalize on growth in Carelon, including through six new appointments on Tuesday.",
+    "hyperlink": "https://www.healthcaredive.com/news/elevance-mid-level-executive-appointments-carelon-health-benefits/816192/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "HHS reverses Biden-era tech reorganization, returns ONC name",
+    "summary": "The Trump administration said the revamp, which reverses the HHS’ 2024 restructuring of its technology functions, will better coordinate AI, data and cybersecurity policy across the department.",
+    "hyperlink": "https://www.healthcaredive.com/news/hhs-reverses-biden-technology-reorganization-onc/816221/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Lilly’s AI commitment expands through deal with Insilico",
+    "summary": "Eli Lilly is expanding its commitment to artificial intelligence-driven drug development, signing a deal with Hong Kong-based Insilico to develop and commercialize experimental drugs in preclinical development.",
+    "hyperlink": "https://www.healthcaredive.com/news/eli-lilly-insilico-ai-medicine-drug-discovery/816206/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "ACA premium spike funnels more consumers into high-deductible plans: CMS",
+    "summary": "Average premiums for ACA plans increased 58% this year after more generous financial assistance expired, while enrollment in low-premium, high-deductible bronze plans jumped, according to new federal data.",
+    "hyperlink": "https://www.healthcaredive.com/news/aca-premiums-enrollment-bronze-plans-2026-cms-data/816067/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Tech nonprofit sues CMS over Medicare AI prior authorization pilot",
+    "summary": "The Electronic Frontier Foundation is seeking more information on the government’s agreements with participating vendors, along with records related to any evaluations on accuracy, bias or hallucinations in their technology.",
+    "hyperlink": "https://www.healthcaredive.com/news/electronic-frontier-foundation-sues-cms-medicare-ai-prior-authorization-wiser/816087/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Duke Health names familiar face as new CEO",
+    "summary": "David Zaas will return to Duke Health as chief executive in May. Zaas served in various leadership roles at the health system for almost two decades.",
+    "hyperlink": "https://www.healthcaredive.com/news/duke-health-names-familiar-face-new-ceo-david-zaas/816066/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Restoring balance to the No Surprises Act",
+    "summary": "In response to an opinion piece from the American Hospital Association, Dr. Catherine Gaffigan, president of health solutions at Elevance, defends the company’s new facility administrative policy.",
+    "hyperlink": "https://www.healthcaredive.com/news/restoring-balance-no-surprises-act-elevance-catherine-gaffigan/816062/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Justice Department sues NewYork-Presbyterian in second hospital antitrust case this year",
+    "summary": "Federal regulators accused the health system of using its market power to force insurers into “all-or-nothing” contracts. The Justice Department filed a similar lawsuit against OhioHealth in February.",
+    "hyperlink": "https://www.healthcaredive.com/news/justice-department-sues-newyork-presbyterian-in-second-hospital-antitrust-c/815891/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Stryker restores most manufacturing after cyberattack",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/stryker-restores-most-manufacturing-after-cyberattack/815975/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "10M could lose Medicaid due to work requirements, more frequent eligibility checks: study",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/10-million-lose-medicaid-work-requirements-eligibility-checks-urban-institute-robert-wood-johnson/815886/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "House Democrats accuse CMS official of misleading Congress under oath",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/house-democrats-accuse-cms-kimberly-brandt-mislead-under-oath/815813/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "CVS, FTC reach proposed settlement in insulin pricing case",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/cvs-caremark-ftc-proposed-settlement-insulin-lawsuit/815581/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "1 in 3 adults use AI for health information: poll",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/one-in-three-adults-use-artificial-intelligence-health-information-kff/815722/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Keep care accessible and affordable for patients",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/keep-care-accessible-affordable-patients-american-hospital-association-rick-pollack-elevance/815811/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Cigna Healthcare names new chief medical officer",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/cigna-healthcare-chief-medical-officer-stanley-crittenden/815674/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Faith-based investor coalition sues UnitedHealth to force disclosure of M&A impacts",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/shareholders-sue-unitedhealth-acquisition-strategy-impact-proxy/815561/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Labcorp closes purchase of New York pathology reference lab assets",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/labcorp-closes-acquisition-new-york-pathology-reference-lab-assets/815644/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "CommonSpirit, Humana reach new nationwide Medicare Advantage contract",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/commonspirit-humana-reach-nationwide-medicare-advantage-contract/815453/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "Cencora to buy EyeSouth’s retina business for $1.1B",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/cencora-buy-eyesouth-retina-business-1-billion-specialty/815518/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "FTC creates healthcare task force",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/ftc-healthcare-task-force/815389/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "CMS sets standards for electronic transfer of claims documentation",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/cms-finalizes-standards-electronic-claims-documentation-transfers/815414/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "1 in 10 ACA enrollees dropped coverage after subsidy lapse: poll",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/healthcare-costs-increase-affordable-care-act-marketplace-subsidies-expire-kff/815338/",
+    "date": "2026-01-01"
+  },
+  {
+    "title": "CISA urges organizations to harden endpoint security following Stryker attack",
+    "summary": "",
+    "hyperlink": "https://www.healthcaredive.com/news/cisa-organizations-harden-endpoint-security-stryker-attack/815327/",
+    "date": "2026-01-01"
   },
   {
     "title": "30 Healthcare IT Influencers Worth a Follow in 2025",
@@ -448,185 +718,5 @@
     "summary": "",
     "hyperlink": "https://healthtechmagazine.net/article/2025/04/mergers-and-acquisitions-overview-notable-healthcare-ma-activity-2025",
     "date": "2025-04-01"
-  },
-  {
-    "title": "House Democrats accuse CMS official of misleading Congress under oath",
-    "summary": "CMS Deputy Administrator Kimberly Brandt told Congress last week that the CMS couldn’t meet with Minnesota before cutting off Medicaid funding because of litigation. Democrats say her testimony made no sense.",
-    "hyperlink": "https://www.healthcaredive.com/news/house-democrats-accuse-cms-kimberly-brandt-mislead-under-oath/815813/",
-    "date": ""
-  },
-  {
-    "title": "CVS, FTC reach proposed settlement in insulin pricing case",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/cvs-caremark-ftc-proposed-settlement-insulin-lawsuit/815581/",
-    "date": ""
-  },
-  {
-    "title": "1 in 3 adults use AI for health information: poll",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/one-in-three-adults-use-artificial-intelligence-health-information-kff/815722/",
-    "date": ""
-  },
-  {
-    "title": "Keep care accessible and affordable for patients",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/keep-care-accessible-affordable-patients-american-hospital-association-rick-pollack-elevance/815811/",
-    "date": ""
-  },
-  {
-    "title": "Cigna Healthcare names new chief medical officer",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/cigna-healthcare-chief-medical-officer-stanley-crittenden/815674/",
-    "date": ""
-  },
-  {
-    "title": "Faith-based investor coalition sues UnitedHealth to force disclosure of M&A impacts",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/shareholders-sue-unitedhealth-acquisition-strategy-impact-proxy/815561/",
-    "date": ""
-  },
-  {
-    "title": "Labcorp closes purchase of New York pathology reference lab assets",
-    "summary": "The deal, which will see Labcorp run 12 patient service centers, is part of the company’s ongoing efforts to expand through acquisitions.",
-    "hyperlink": "https://www.healthcaredive.com/news/labcorp-closes-acquisition-new-york-pathology-reference-lab-assets/815644/",
-    "date": ""
-  },
-  {
-    "title": "CommonSpirit, Humana reach new nationwide Medicare Advantage contract",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/commonspirit-humana-reach-nationwide-medicare-advantage-contract/815453/",
-    "date": ""
-  },
-  {
-    "title": "Cencora to buy EyeSouth’s retina business for $1.1B",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/cencora-buy-eyesouth-retina-business-1-billion-specialty/815518/",
-    "date": ""
-  },
-  {
-    "title": "FTC creates healthcare task force",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/ftc-healthcare-task-force/815389/",
-    "date": ""
-  },
-  {
-    "title": "CMS sets standards for electronic transfer of claims documentation",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/cms-finalizes-standards-electronic-claims-documentation-transfers/815414/",
-    "date": ""
-  },
-  {
-    "title": "1 in 10 ACA enrollees dropped coverage after subsidy lapse: poll",
-    "summary": "More than half of respondents said their healthcare expenses are “a lot higher” this year, according to the KFF survey. One in 10 reported dropping coverage and becoming uninsured.",
-    "hyperlink": "https://www.healthcaredive.com/news/healthcare-costs-increase-affordable-care-act-marketplace-subsidies-expire-kff/815338/",
-    "date": ""
-  },
-  {
-    "title": "CISA urges organizations to harden endpoint security following Stryker attack",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/cisa-organizations-harden-endpoint-security-stryker-attack/815327/",
-    "date": ""
-  },
-  {
-    "title": "Providence considering sale of health plan",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/providence-exploring-health-plan-sale/815280/",
-    "date": ""
-  },
-  {
-    "title": "Hospitals’ financial performance off to a shaky start in 2026: report",
-    "summary": "Rising bad debt and expenses challenged hospitals in January — and those pressures aren’t likely to abate, according to consultancy Kaufman Hall.",
-    "hyperlink": "https://www.healthcaredive.com/news/hospital-financial-perforance-shaky-start-bad-debt-rising-expenses-kaufman-hall/815259/",
-    "date": ""
-  },
-  {
-    "title": "Provider consolidation slammed in latest House affordability hearing",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/provider-consolidation-slammed-house-affordability-hearing/815121/",
-    "date": ""
-  },
-  {
-    "title": "MedArrive acquires tech assets from shuttered Inbound Health",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/medarrive-acquires-inbound-health-assets-home-care/815207/",
-    "date": ""
-  },
-  {
-    "title": "Alignment Healthcare’s idiosyncratic take on Medicare Advantage",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/alignment-healthcare-john-kao-medicare-advantage/814907/",
-    "date": ""
-  },
-  {
-    "title": "Baxter CFO Joel Grade steps down",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/baxter-cfo-joel-grade-steps-down/815181/",
-    "date": ""
-  },
-  {
-    "title": "Sutter, Allina Health to form $26B nonprofit system",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/sutter-allina-health-form-26-billion-nonprofit-system/815028/",
-    "date": ""
-  },
-  {
-    "title": "Physicians still concerned about AI accuracy amid rapid adoption: survey",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/physician-ai-adoption-doximity-accuracy-reliability/814960/",
-    "date": ""
-  },
-  {
-    "title": "Stryker begins restoring ordering, shipping systems after cyberattack",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/stryker-begins-restoring-ordering-shipping-systems-after-cyberattack/815070/",
-    "date": ""
-  },
-  {
-    "title": "Balancing AI innovation and risk: 5 takeaways from HIMSS26",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/himss-2026-takeaways-ai-innovation-agents-cybersecurity-governance-interoperability/814812/",
-    "date": ""
-  },
-  {
-    "title": "Cencora CFO announces retirement",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/cencora-cfo-retirement-james-cleary/814933/",
-    "date": ""
-  },
-  {
-    "title": "Federal court blocks RFK Jr.’s moves to upend US vaccine policy",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/rfk-acip-childhood-vaccine-policy-court-blocked/814916/",
-    "date": ""
-  },
-  {
-    "title": "GuardDog Telehealth admits to improper record sharing in Epic court case",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/guarddog-telehealth-admits-improper-record-sharing-epic-court-case/814715/",
-    "date": ""
-  },
-  {
-    "title": "CMS wants seniors to use AI for care navigation",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/cms-artifical-intelligence-ai-fraud-mehmet-oz-himss/814650/",
-    "date": ""
-  },
-  {
-    "title": "Vanderbilt Health CEO to retire at the end of the year",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/vanderbilt-health-ceo-to-retire-at-the-end-of-the-year/814653/",
-    "date": ""
-  },
-  {
-    "title": "Genetic tests come under scrutiny in Trump administration’s fraud crackdown",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/genetic-tests-come-under-scrutiny-in-trump-administrations-fraud-crackdown/814680/",
-    "date": ""
-  },
-  {
-    "title": "Microsoft launches dedicated health AI chatbot",
-    "summary": "",
-    "hyperlink": "https://www.healthcaredive.com/news/microsoft-copilot-health-chatbot/814514/",
-    "date": ""
   }
 ]
