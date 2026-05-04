@@ -1,210 +1,650 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Medical News Viewer</title>
+
   <style>
     :root {
+      color-scheme: light dark;
       --bg: #ffffff;
-      --text: #000000;
-      --meta: #444444;
-      --link: #0056cc;
-      --border: #dddddd;
+      --surface: #f8f9fb;
+      --text: #111111;
+      --muted: #5f6368;
+      --link: #0b57d0;
+      --border: #d9dce1;
+      --chip: #eef3fd;
+      --shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
     }
 
     [data-theme="dark"] {
       --bg: #121212;
-      --text: #f0f0f0;
-      --meta: #bbbbbb;
-      --link: #66aaff;
-      --border: #333333;
+      --surface: #1b1c1f;
+      --text: #f1f3f4;
+      --muted: #b0b7c3;
+      --link: #8ab4f8;
+      --border: #31343a;
+      --chip: #232833;
+      --shadow: none;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Arial, sans-serif;
     }
 
     body {
-      font-family: Arial, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      margin: 0;
+      line-height: 1.5;
+    }
+
+    .app {
+      max-width: 980px;
+      margin: 0 auto;
       padding: 20px;
-      transition: background 0.3s ease, color 0.3s ease;
     }
 
     .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: var(--bg);
+      padding-bottom: 14px;
+      margin-bottom: 18px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .topbar-header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 20px;
+      gap: 12px;
       flex-wrap: wrap;
+      margin-bottom: 12px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.4rem;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .search-wrap {
+      display: flex;
+      gap: 8px;
+      align-items: center;
     }
 
     input[type="search"] {
       width: 100%;
-      max-width: 500px;
-      padding: 10px;
-      margin-top: 10px;
+      min-width: 0;
+      padding: 11px 12px;
       font-size: 16px;
       border: 1px solid var(--border);
-      background: var(--bg);
+      border-radius: 10px;
+      background: var(--surface);
       color: var(--text);
+      outline: none;
+    }
+
+    input[type="search"]:focus {
+      border-color: var(--link);
     }
 
     .toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      white-space: nowrap;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .topic-filter-bar {
+      margin-top: 12px;
       display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .topic-filter-label {
+      font-size: 13px;
+      color: var(--muted);
+      margin-right: 2px;
+    }
+
+    .topic-option {
+      display: inline-flex;
       align-items: center;
       gap: 6px;
+      padding: 6px 10px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: var(--surface);
+      font-size: 13px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .topic-option input {
+      margin: 0;
+      cursor: pointer;
+    }
+
+    .stats {
+      margin-top: 10px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .news-list {
+      display: grid;
+      gap: 12px;
     }
 
     .record {
-      padding: 16px 0;
-      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px 16px;
+      box-shadow: var(--shadow);
+    }
+
+    .title {
+      margin: 0 0 6px;
+      font-size: 17px;
+      line-height: 1.35;
     }
 
     .title a {
-      font-weight: bold;
-      font-size: 16px;
       color: var(--link);
       text-decoration: none;
     }
 
-    .title a:hover {
+    .title a:hover,
+    .title a:focus {
       text-decoration: underline;
     }
 
     .summary {
-      margin-top: 4px;
       font-size: 14px;
+      margin: 0 0 8px;
     }
 
     .meta {
-      margin-top: 6px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
       font-size: 13px;
-      color: var(--meta);
+      color: var(--muted);
     }
 
-    .date {
-      color: var(--meta);
-      font-style: italic;
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: var(--chip);
+      border: 1px solid var(--border);
+    }
+
+    .empty,
+    .error {
+      padding: 18px;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      background: var(--surface);
+      color: var(--muted);
+    }
+
+    @media (max-width: 700px) {
+      .app {
+        padding: 12px;
+      }
+
+      .topbar {
+        position: static;
+        padding-bottom: 10px;
+        margin-bottom: 12px;
+      }
+
+      h1 {
+        font-size: 1.15rem;
+      }
+
+      .controls {
+        grid-template-columns: 1fr;
+        gap: 8px;
+      }
+
+      .topic-filter-bar {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overflow-y: hidden;
+        gap: 8px;
+        padding-bottom: 6px;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .topic-filter-label,
+      .topic-option {
+        flex: 0 0 auto;
+        white-space: nowrap;
+      }
+
+      .record {
+        padding: 12px;
+      }
+
+      .title {
+        font-size: 16px;
+      }
     }
   </style>
 </head>
-<body>
 
-  <div class="topbar">
-    <h2>Medical News Viewer</h2>
-    <div class="toggle">
-      <label for="themeToggle">Dark mode</label>
-      <input type="checkbox" id="themeToggle">
+<body>
+  <div class="app">
+    <div class="topbar">
+      <div class="topbar-header">
+        <h1>Medical News Viewer</h1>
+
+        <label class="toggle" for="themeToggle">
+          <span>Dark mode</span>
+          <input type="checkbox" id="themeToggle" />
+        </label>
+      </div>
+
+      <div class="controls">
+        <div class="search-wrap">
+          <input
+            type="search"
+            id="filterInput"
+            placeholder="Filter by title, summary, topic, source, or link..."
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+      </div>
+
+      <div id="topicFilters" class="topic-filter-bar" aria-label="Topic filters"></div>
+      <div id="stats" class="stats">Loading…</div>
     </div>
-    <input type="search" id="filterInput" placeholder="Filter by title, summary, or link..." />
+
+    <main id="news-container" class="news-list" aria-live="polite"></main>
   </div>
 
-  <div id="news-container">Loading…</div>
-
   <script>
-    const jsonFile = "./data.json";
-    let fullData = [];
+    const JSON_FILE = "./data.json";
 
-    const formatDate = (raw) => {
-      if (!raw) return "";
-      try {
-        const parts = raw.replace(/[^0-9\-]/g, "").split("-");
-        if (parts.length === 3) {
-          const [d, m, y] = parts;
-          const date = new Date(`${y}-${m}-${d}`);
-          return date.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" });
-        }
-        return raw;
-      } catch {
-        return raw;
-      }
+    const state = {
+      items: [],
+      filtered: [],
+      filterTimer: null,
+      activeTopic: "",
+      topics: [],
     };
 
-    const render = (items) => {
-      const container = document.getElementById("news-container");
-      container.innerHTML = "";
+    const els = {
+      container: document.getElementById("news-container"),
+      filterInput: document.getElementById("filterInput"),
+      themeToggle: document.getElementById("themeToggle"),
+      stats: document.getElementById("stats"),
+      topicFilters: document.getElementById("topicFilters"),
+    };
 
-      items.forEach(item => {
-        const div = document.createElement("div");
-        div.className = "record";
+    const dateFormatter = new Intl.DateTimeFormat("en-GB", {
+      day: "2-digit",
+      month: "short",
+      year: "numeric",
+      timeZone: "UTC",
+    });
 
-        const titleDiv = document.createElement("div");
-        titleDiv.className = "title";
+    function parseDate(raw) {
+      if (!raw) return null;
 
-        if (item.hyperlink && item.title) {
+      const s = String(raw).trim();
+      const clean = s.replace(/[^\d-]/g, "");
+      const parts = clean.split("-");
+
+      if (parts.length !== 3) return null;
+
+      let y, m, d;
+
+      if (parts[0].length === 4) {
+        [y, m, d] = parts;
+      } else {
+        [d, m, y] = parts;
+      }
+
+      const yy = Number(y);
+      const mm = Number(m);
+      const dd = Number(d);
+
+      if (!yy || mm < 1 || mm > 12 || dd < 1 || dd > 31) return null;
+
+      const timestamp = Date.UTC(yy, mm - 1, dd);
+      return Number.isNaN(timestamp) ? null : timestamp;
+    }
+
+    function formatDate(raw) {
+      const ts = parseDate(raw);
+      return ts === null ? "" : dateFormatter.format(new Date(ts));
+    }
+
+    function getHostname(url) {
+      if (!url) return "No link";
+      try {
+        return new URL(url, window.location.href).hostname.replace(/^www\./, "");
+      } catch {
+        return "Invalid link";
+      }
+    }
+
+    function getArticlesFromPayload(data) {
+      if (Array.isArray(data)) return data;
+
+      if (Array.isArray(data?.topic_groups)) {
+        return data.topic_groups.flatMap((group) =>
+          (group.articles || []).map((article) => ({
+            ...article,
+            topic: article.topic || group.topic || "",
+          }))
+        );
+      }
+
+      if (Array.isArray(data?.validated_articles)) return data.validated_articles;
+      if (Array.isArray(data?.unique_articles)) return data.unique_articles;
+      if (Array.isArray(data?.articles)) return data.articles;
+
+      return [];
+    }
+
+    function normalizeItem(item) {
+      const title = String(item.title || "").trim() || "(Untitled)";
+      const summary =
+        String(item.summary || item.summary_4_sentences || "").trim() || "(No summary)";
+      const hyperlink = String(item.hyperlink || item.url || "").trim();
+      const dateRaw = String(item.date || item.published_at || "").trim();
+      const topic = String(item.topic || "").trim();
+      const source = String(item.source || "").trim();
+      const duplicateCount =
+        typeof item.duplicate_count === "number" ? item.duplicate_count : null;
+
+      const host = getHostname(hyperlink);
+      const formattedDate = formatDate(dateRaw);
+      const timestamp = parseDate(dateRaw) ?? 0;
+
+      return {
+        title,
+        summary,
+        hyperlink,
+        dateRaw,
+        formattedDate,
+        timestamp,
+        topic,
+        source,
+        duplicateCount,
+        host,
+        searchText: [
+          title,
+          summary,
+          hyperlink,
+          dateRaw,
+          formattedDate,
+          topic,
+          source,
+          host,
+        ]
+          .join(" ")
+          .toLowerCase(),
+      };
+    }
+
+    function updateStats(shown, total) {
+      const topicPart = state.activeTopic ? ` | Topic: ${state.activeTopic}` : "";
+      els.stats.textContent = `${shown} of ${total} article${total === 1 ? "" : "s"}${topicPart}`;
+    }
+
+    function makeMetaRow(item) {
+      const meta = document.createElement("div");
+      meta.className = "meta";
+
+      const parts = [];
+
+      if (item.topic) {
+        const chip = document.createElement("span");
+        chip.className = "chip";
+        chip.textContent = item.topic;
+        parts.push(chip);
+      }
+
+      if (item.source) {
+        const source = document.createElement("span");
+        source.textContent = item.source;
+        parts.push(source);
+      }
+
+      if (item.host) {
+        const host = document.createElement("span");
+        host.textContent = item.host;
+        parts.push(host);
+      }
+
+      if (item.formattedDate) {
+        const date = document.createElement("span");
+        date.textContent = item.formattedDate;
+        parts.push(date);
+      }
+
+      if (item.duplicateCount !== null) {
+        const dup = document.createElement("span");
+        dup.textContent = `Duplicate Count: ${item.duplicateCount}`;
+        parts.push(dup);
+      }
+
+      parts.forEach((node, index) => {
+        if (index > 0) {
+          const sep = document.createElement("span");
+          sep.textContent = "|";
+          meta.appendChild(sep);
+        }
+        meta.appendChild(node);
+      });
+
+      return meta;
+    }
+
+    function render(items) {
+      els.container.textContent = "";
+
+      if (!items.length) {
+        const empty = document.createElement("div");
+        empty.className = "empty";
+        empty.textContent = "No matching articles found.";
+        els.container.appendChild(empty);
+        updateStats(0, state.items.length);
+        return;
+      }
+
+      const fragment = document.createDocumentFragment();
+
+      for (const item of items) {
+        const article = document.createElement("article");
+        article.className = "record";
+
+        const title = document.createElement("h2");
+        title.className = "title";
+
+        if (item.hyperlink && item.host !== "Invalid link") {
           const link = document.createElement("a");
           link.href = item.hyperlink;
           link.textContent = item.title;
           link.target = "_blank";
           link.rel = "noopener noreferrer";
-          titleDiv.appendChild(link);
+          title.appendChild(link);
         } else {
-          titleDiv.textContent = item.title || "(Untitled)";
+          title.textContent = item.title;
         }
 
-        const summary = document.createElement("div");
+        const summary = document.createElement("p");
         summary.className = "summary";
-        summary.textContent = item.summary || "(No summary)";
+        summary.textContent = item.summary;
 
-        const meta = document.createElement("div");
-        meta.className = "meta";
+        article.appendChild(title);
+        article.appendChild(summary);
+        article.appendChild(makeMetaRow(item));
 
-        const host = item.hyperlink ? new URL(item.hyperlink).hostname : "No link";
-        const dup = typeof item.duplicate_count === "number" ? `Duplicate Count: ${item.duplicate_count}` : "";
-        const date = item.date ? `<span class="date">${formatDate(item.date)}</span>` : "";
+        fragment.appendChild(article);
+      }
 
-        meta.innerHTML = [host, date, dup].filter(Boolean).join(" &nbsp;|&nbsp; ");
+      els.container.appendChild(fragment);
+      updateStats(items.length, state.items.length);
+    }
 
-        div.appendChild(titleDiv);
-        div.appendChild(summary);
-        div.appendChild(meta);
+    function renderTopicFilters() {
+      els.topicFilters.textContent = "";
 
-        container.appendChild(div);
+      const label = document.createElement("span");
+      label.className = "topic-filter-label";
+      label.textContent = "Theme:";
+      els.topicFilters.appendChild(label);
+
+      const options = ["", ...state.topics];
+
+      for (const topic of options) {
+        const wrapper = document.createElement("label");
+        wrapper.className = "topic-option";
+
+        const input = document.createElement("input");
+        input.type = "checkbox";
+        input.name = "topic-filter";
+        input.value = topic;
+        input.checked = topic === state.activeTopic;
+
+        input.addEventListener("change", () => {
+          setActiveTopic(topic, input.checked);
+        });
+
+        const text = document.createElement("span");
+        text.textContent = topic || "All topics";
+
+        wrapper.appendChild(input);
+        wrapper.appendChild(text);
+        els.topicFilters.appendChild(wrapper);
+      }
+    }
+
+    function syncTopicCheckboxes() {
+      const inputs = els.topicFilters.querySelectorAll('input[name="topic-filter"]');
+      inputs.forEach((input) => {
+        input.checked = input.value === state.activeTopic;
       });
-    };
+    }
 
-    const filter = () => {
-      const q = document.getElementById("filterInput").value.toLowerCase().trim();
-      if (!q) return render(fullData);
+    function setActiveTopic(topic, checked) {
+      if (!checked) {
+        state.activeTopic = "";
+      } else {
+        state.activeTopic = topic;
+      }
 
-      const filtered = fullData.filter(item => {
-        const haystack = [item.title, item.summary, item.hyperlink, item.date]
-          .join(" ")
-          .toLowerCase();
-        return haystack.includes(q);
+      syncTopicCheckboxes();
+      applyFilter();
+    }
+
+    function applyFilter() {
+      const q = els.filterInput.value.trim().toLowerCase();
+
+      state.filtered = state.items.filter((item) => {
+        const matchesText = !q || item.searchText.includes(q);
+        const matchesTopic = !state.activeTopic || item.topic === state.activeTopic;
+        return matchesText && matchesTopic;
       });
 
-      render(filtered);
-    };
+      render(state.filtered);
+    }
 
-    document.getElementById("themeToggle").addEventListener("change", (e) => {
-      document.documentElement.setAttribute("data-theme", e.target.checked ? "dark" : "light");
-    });
+    function scheduleFilter() {
+      clearTimeout(state.filterTimer);
+      state.filterTimer = setTimeout(applyFilter, 120);
+    }
 
-    document.getElementById("filterInput").addEventListener("input", filter);
+    function applyTheme(theme) {
+      document.documentElement.setAttribute("data-theme", theme);
+      els.themeToggle.checked = theme === "dark";
+      localStorage.setItem("medical-news-theme", theme);
+    }
 
-    fetch(jsonFile)
-      .then(r => r.json())
-      .then(data => {
-        if (Array.isArray(data)) {
-          fullData = data;
-        } else if (data.validated_articles) {
-          fullData = data.validated_articles;
-        } else if (data.unique_articles) {
-          fullData = data.unique_articles;
-        } else if (data.articles) {
-          fullData = data.articles;
-        } else {
-          throw new Error("Unrecognized JSON structure");
+    function initTheme() {
+      const saved = localStorage.getItem("medical-news-theme");
+      const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      applyTheme(saved || (systemPrefersDark ? "dark" : "light"));
+    }
+
+    async function init() {
+      initTheme();
+
+      els.themeToggle.addEventListener("change", (e) => {
+        applyTheme(e.target.checked ? "dark" : "light");
+      });
+
+      els.filterInput.addEventListener("input", scheduleFilter);
+
+      els.filterInput.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+          els.filterInput.value = "";
+          applyFilter();
+        }
+      });
+
+      try {
+        const response = await fetch(JSON_FILE, { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
         }
 
-        render(fullData);
-      })
-      .catch(err => {
-        document.getElementById("news-container").textContent = "Error loading JSON.";
-        console.error(err);
-      });
-  </script>
+        const data = await response.json();
+        const rawArticles = getArticlesFromPayload(data);
 
+        if (!rawArticles.length) {
+          throw new Error("No articles found in JSON");
+        }
+
+        state.items = rawArticles
+          .map(normalizeItem)
+          .sort((a, b) => b.timestamp - a.timestamp || a.title.localeCompare(b.title));
+
+        state.topics = [...new Set(state.items.map((item) => item.topic).filter(Boolean))].sort(
+          (a, b) => a.localeCompare(b)
+        );
+
+        state.activeTopic = "";
+        renderTopicFilters();
+        applyFilter();
+      } catch (err) {
+        console.error(err);
+        els.stats.textContent = "0 of 0 articles";
+        els.container.innerHTML = '<div class="error">Error loading JSON.</div>';
+      }
+    }
+
+    init();
+  </script>
 </body>
 </html>
