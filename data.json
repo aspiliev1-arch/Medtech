@@ -1,1 +1,1015 @@
-{"digest_type":"biweekly_medtech_news","digest_date":"2026-10-20","date_range":{"start":"2026-10-06","end":"2026-10-20"},"source_batch_label":"medtech_news_biweekly_digest","topic_groups":[{"topic":"Clinical AI and Digital Care","articles":[{"title":"Singapore AI detects early psychosis in youth","url":"https://www.mobihealthnews.com/news/asia/singapore-ai-detects-early-psychosis-youth","url_valid":true,"source":"MobiHealthNews","published_at":"2026-10-20","summary_4_sentences":"Researchers in Singapore developed an AI framework to detect early psychosis risk in young people. The system analyzed emotional patterns in brief, spontaneous speech samples. According to the report, it identified up to 93% of at-risk youths. The work points to a potential screening tool for earlier mental health intervention.","keywords":["AI","mental health","psychosis"]},{"title":"Use of clinical AI for treatment planning spikes, MGB study shows","url":"https://www.healthcareitnews.com/news/use-clinical-ai-treatment-planning-spikes-mgb-study-shows","url_valid":true,"source":"Healthcare IT News","published_at":"2026-10-19","summary_4_sentences":"A Mass General Brigham study found rising clinician use of AI for treatment planning. Harvard researchers analyzed provider query data from OpenEvidence. The findings suggest clinicians are using AI more for treatment and management decisions than for diagnosis. The report adds evidence that clinical AI is moving into everyday care workflows.","keywords":["clinical AI","treatment planning","Mass General Brigham"]},{"title":"St Vincent's Australia convenes first national AI Clinical Council","url":"https://www.healthcareitnews.com/news/anz/st-vincents-australia-convenes-first-national-ai-clinical-council","url_valid":true,"source":"Healthcare IT News","published_at":"2026-10-19","summary_4_sentences":"St Vincent's Australia has formed a national AI Clinical Council. The council will guide evaluation and adoption of AI across hospitals, aged care facilities, and home-based services. The move signals a more formal governance structure for clinical AI deployment. It also reflects growing health system interest in coordinated oversight of AI tools.","keywords":["AI governance","health systems","Australia"]},{"title":"Sydney Children's Hospitals Network preserves ICU data for future AI","url":"https://www.healthcareitnews.com/news/anz/sydney-childrens-hospitals-network-preserves-icu-data-future-ai","url_valid":true,"source":"Healthcare IT News","published_at":"2026-10-18","summary_4_sentences":"Sydney Children's Hospitals Network is preserving longitudinal ICU data for future use. The records are intended to support research, clinical improvement, and later AI decision support. The effort focuses on building a durable data foundation before broader AI deployment. It highlights the importance of high-quality critical care datasets in pediatric medicine.","keywords":["ICU data","pediatrics","AI research"]},{"title":"Houston Methodist tackles ambient AI in surgery","url":"https://www.healthcareitnews.com/news/houston-methodist-tackles-ambient-ai-surgery","url_valid":true,"source":"Healthcare IT News","published_at":"2026-10-16","summary_4_sentences":"Houston Methodist is exploring ambient and agentic AI in the operating room. The article previews a discussion by Dr. Evan Collins on implementation in surgical settings. It suggests hospitals are testing AI beyond documentation and into procedural workflows. The focus is on practical deployment challenges in surgery.","keywords":["ambient AI","surgery","hospital innovation"]},{"title":"Medical data crunch poses challenges to ambient AI and clinical agents","url":"https://www.healthcareitnews.com/news/medical-data-crunch-poses-challenges-ambient-ai-and-clinical-agents","url_valid":true,"source":"Healthcare IT News","published_at":"2026-10-16","summary_4_sentences":"Healthcare organizations face data limitations as they prepare ambient AI and clinical agents for care delivery. The report says systems need realistic conversation data, expert review, and evaluation across specialties and patient populations. These requirements point to a substantial preparation burden before safe scaling. The article frames data quality as a central bottleneck for clinical AI.","keywords":["ambient AI","clinical agents","data quality"]},{"title":"Look past AI point solutions, a hospital CIO says","url":"https://www.healthcareitnews.com/video/asia/look-past-ai-point-solutions-hospital-cio-says","url_valid":true,"source":"Healthcare IT News","published_at":"2026-10-16","summary_4_sentences":"A hospital CIO argues that health systems should look beyond isolated AI point solutions. The article says Sir HN Reliance Foundation Hospital focused on AI platforms that save staff more time for patient care. The message emphasizes workflow impact over novelty. It reflects a broader push for enterprise AI strategies in hospitals.","keywords":["AI strategy","hospital CIO","workflow"]},{"title":"Focus investment on AI governance","url":"https://www.mobihealthnews.com/video/asia/focus-investment-ai-governance","url_valid":true,"source":"MobiHealthNews","published_at":"2026-10-16","summary_4_sentences":"A hospital technology leader in India says AI governance deserves focused investment. The article stresses that safeguards and governance are necessary to move AI programs forward. It presents governance as a practical enabler rather than a compliance afterthought. The piece aligns with growing concern about responsible AI adoption in healthcare.","keywords":["AI governance","health IT","India"]},{"title":"AMA releases governance framework for agentic AI in healthcare","url":"https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"The American Medical Association released a governance framework for agentic AI in healthcare. The article says industry groups are issuing guidance while federal regulation remains limited. The framework appears aimed at helping organizations manage emerging autonomous AI tools. It adds to the policy and operational debate over how much independence clinical AI should have.","keywords":["agentic AI","AMA","governance"]},{"title":"Utah approves slew of health AI pilots for drug management, women's health","url":"https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Utah approved three new healthcare AI pilots focused on drug management and women's health. The article says the expanded program could eventually allow AI to provide care plans and medications without human review. That makes the initiative notable for its scope and controversy. It illustrates how states are becoming testing grounds for more autonomous medical AI.","keywords":["health AI","state pilots","Utah"]},{"title":"Teladoc unveils remote monitoring, ambient AI features","url":"https://www.healthcaredive.com/news/teladoc-unveils-remote-monitoring-ambient-ai-features/832328/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Teladoc introduced remote monitoring and ambient AI features for its hospital virtual care platform. The additions include AI scribing and camera-based vitals monitoring. The company is positioning these tools as part of its recovery from financial setbacks. The launch shows continued competition to add AI-enabled capabilities to virtual care platforms.","keywords":["Teladoc","remote monitoring","ambient AI"]},{"title":"A health insurance agency's journey from pilot to full-time voice AI agent","url":"https://www.healthcaredive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832382/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"eHealth moved from a pilot to a full-time voice AI agent to handle member calls. The article says high call volume during Medicare open enrollment helped drive the shift. It presents voice AI as an operational tool for payer-side customer service. The story highlights a practical, nonclinical use case for AI in health insurance.","keywords":["voice AI","health insurance","customer service"]},{"title":"Suki raises $90M in Series E round to create AI agents","url":"https://www.healthcaredive.com/news/suki-raises-90m-in-series-e-round-to-create-ai-agents/832862/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Suki raised $90 million in a Series E financing round. The company says it will use the capital to develop AI agents and deepen ties with its health technology partners. The funding underscores investor interest in workflow-oriented healthcare AI companies. It also suggests continued momentum for agent-based tools in provider settings.","keywords":["funding","AI agents","Suki"]},{"title":"Why this startup is taking its AI to predict breast cancer risk directly to patients","url":"https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/","url_valid":true,"source":"STAT","published_at":"2026-10-08","summary_4_sentences":"A startup is taking its breast cancer risk prediction AI directly to patients. The title suggests a strategy that bypasses a purely provider-facing rollout. That approach raises questions about access, engagement, and oversight for consumer-facing medical AI. The article centers on how commercialization choices can shape adoption of predictive tools.","keywords":["breast cancer","predictive AI","patient-facing"]}],"topic":"Clinical AI and Digital Care"},{"topic":"Biotech, Pharma, and Medtech Deals","articles":[{"title":"XRlabs raises $8.4M for AI surgical platform","url":"https://www.mobihealthnews.com/news/xrlabs-raises-84m-ai-surgical-platform","url_valid":true,"source":"MobiHealthNews","published_at":"2026-10-19","summary_4_sentences":"XRlabs raised $8.4 million for its AI surgical platform. The company says its AI copilot combines surgical video and patient imaging using equipment hospitals already have. The pitch suggests a lower-friction path to adoption in operating rooms. The financing reflects continued investor interest in AI tools for procedural care.","keywords":["funding","surgical AI","XRlabs"]},{"title":"Stryker plans $400M investment in CMR Surgical, secures acquisition option","url":"https://www.healthcareitnews.com/news/stryker-plans-400m-investment-cmr-surgical-secures-acquisition-option","url_valid":true,"source":"Healthcare IT News","published_at":"2026-10-19","summary_4_sentences":"Stryker plans a $400 million investment in CMR Surgical. The deal also gives Stryker an option to acquire the company. The move signals strategic interest in robotic or minimally invasive surgical technology. It could reshape competitive positioning in the surgical device market.","keywords":["Stryker","CMR Surgical","investment"]},{"title":"Zocdoc acquires Sohar Health for insurance verification","url":"https://www.mobihealthnews.com/news/zocdoc-acquires-sohar-health-insurance-verification","url_valid":true,"source":"MobiHealthNews","published_at":"2026-10-15","summary_4_sentences":"Zocdoc acquired Sohar Health to add insurance verification capabilities. The article says it is Zocdoc's first acquisition in nearly 20 years. The deal suggests the company wants to strengthen infrastructure behind appointment booking and patient access. It also reflects ongoing consolidation around administrative automation in digital health.","keywords":["acquisition","Zocdoc","insurance verification"]},{"title":"Allswell raises $7M to provide medical home for LGBTQ+ youth","url":"https://www.mobihealthnews.com/news/allswell-raises-7m-provide-medical-home-lgbtq-youth","url_valid":true,"source":"MobiHealthNews","published_at":"2026-10-15","summary_4_sentences":"Allswell raised $7 million to expand care for LGBTQ+ youth. The company plans to broaden its geographic reach, build clinical training, and move toward psychiatric medication management. The funding supports a model centered on a medical home for a specific underserved population. It highlights investor backing for targeted, identity-aware care delivery models.","keywords":["funding","LGBTQ+ youth","care delivery"]},{"title":"Humana enters $2.8B primary care joint venture with BlackRock","url":"https://www.healthcaredive.com/news/humana-enters-28b-primary-care-joint-venture-with-blackrock/832872/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Humana entered a $2.8 billion primary care joint venture with BlackRock. BlackRock will take a majority stake in nearly 150 senior primary care clinics owned by CenterWell. The transaction ties payer strategy more closely to care delivery infrastructure. It is a major deal in Medicare-focused primary care.","keywords":["Humana","BlackRock","primary care"]},{"title":"China moves to restrict foreign biotech acquisitions","url":"https://www.statnews.com/2026/10/19/biotech-news-china-moves-to-restrict-foreign-biotech-acquisitons/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"China is moving to restrict foreign biotech acquisitions. The policy shift could affect cross-border dealmaking and access to Chinese biotech assets. It also signals a more protective stance toward domestic life sciences capabilities. The article points to geopolitical pressure shaping biotech M&A.","keywords":["China","biotech M&A","policy"]}],"topic":"Biotech, Pharma, and Medtech Deals"},{"topic":"Drug Development and Clinical Research","articles":[{"title":"STAT Plus: Gilead's IBD drug eliminated symptoms for patients, mid-stage study finds","url":"https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"Gilead reported encouraging mid-stage results for an inflammatory bowel disease drug. The title says the therapy eliminated symptoms for patients in the study. That suggests a potentially important efficacy signal at the Phase 2 stage. The article focuses on a notable clinical development in gastrointestinal drug research.","keywords":["Gilead","IBD","Phase 2"]},{"title":"STAT Plus: RevMed's pancreatic cancer drug nears European approval","url":"https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/","url_valid":true,"source":"STAT","published_at":"2026-10-16","summary_4_sentences":"RevMed's pancreatic cancer drug is nearing European approval. The article points to a regulatory milestone for a therapy in a difficult-to-treat cancer. A near-term approval decision could be significant for both patients and the company. The story centers on late-stage progress in oncology drug development.","keywords":["pancreatic cancer","Europe","drug approval"]},{"title":"Merck and Moderna have 'lot of exploring to do' after initial cancer vaccine success","url":"https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/","url_valid":true,"source":"STAT","published_at":"2026-10-15","summary_4_sentences":"Merck and Moderna are still exploring next steps after early success with an mRNA cancer vaccine. The article suggests the initial results were promising but not definitive for broader strategy. It likely examines how the companies plan to build on the combination with Keytruda. The piece reflects continued interest in personalized cancer vaccine development.","keywords":["mRNA vaccine","cancer","Merck Moderna"]},{"title":"After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope -- and a path forward","url":"https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/","url_valid":true,"source":"STAT","published_at":"2026-10-15","summary_4_sentences":"This article tells a patient-centered story about an mRNA cancer vaccine after a melanoma diagnosis. It frames the therapy as both a source of hope and a possible treatment path. The piece complements broader reporting on cancer vaccine development by showing the human side of the technology. It underscores how experimental oncology advances are being experienced by patients.","keywords":["melanoma","mRNA vaccine","patient story"]},{"title":"Compass Pathways CEO: Psychedelics company will 'go slow before we go fast'","url":"https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/","url_valid":true,"source":"STAT","published_at":"2026-10-14","summary_4_sentences":"Compass Pathways says it plans to move cautiously in psychedelics development. The CEO's comments suggest a deliberate strategy rather than rapid expansion. That stance may reflect regulatory, clinical, and commercial uncertainty in the field. The article captures how one prominent company is positioning itself in mental health therapeutics.","keywords":["psychedelics","Compass Pathways","strategy"]},{"title":"STAT Plus: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug","url":"https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/","url_valid":true,"source":"STAT","published_at":"2026-10-13","summary_4_sentences":"Concerns are growing about safety issues tied to a Neurocrine Biosciences rare disease drug. The article indicates that the therapy is facing scrutiny beyond efficacy alone. Safety questions can materially affect uptake, regulation, and investor sentiment. The report highlights the fragility of momentum in rare disease drug launches.","keywords":["Neurocrine","rare disease","drug safety"]},{"title":"STAT Plus: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease","url":"https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/","url_valid":true,"source":"STAT","published_at":"2026-10-08","summary_4_sentences":"Argenx reported a late-stage study failure for an autoimmune disease drug. The article describes the setback as unusual, suggesting expectations had been stronger. Late-stage failures can alter pipeline strategy and market outlook quickly. The story focuses on the clinical and business implications of a disappointing trial result.","keywords":["Argenx","autoimmune disease","trial failure"]},{"title":"STAT Plus: In Duchenne muscular dystrophy, a promising therapy is available to a fortunate few","url":"https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/","url_valid":true,"source":"STAT","published_at":"2026-10-07","summary_4_sentences":"A promising Duchenne muscular dystrophy therapy is reaching only a limited number of patients. The article suggests access is constrained despite scientific progress. That tension is common in rare disease treatment, where eligibility and availability can be narrow. The piece examines the gap between therapeutic promise and real-world reach.","keywords":["Duchenne","rare disease","access"]}],"topic":"Drug Development and Clinical Research"},{"topic":"Healthcare Policy, Regulation, and Legal","articles":[{"title":"Trump orders creation of NIH division, task force on women's health","url":"https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"President Trump ordered the creation of an NIH division and task force focused on women's health. The action appears to elevate women's health within the federal research agenda. It signals a structural policy move rather than a single grant or program announcement. The article centers on how the executive order could reshape priorities at NIH.","keywords":["NIH","women's health","executive order"]},{"title":"STAT Plus: How the No Surprises Act's nonprofit arbitrators are operating like 'mini gods' and getting rich doing it","url":"https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"STAT investigated the nonprofit arbitrators handling disputes under the No Surprises Act. The article argues these entities have amassed unusual power and profits in the arbitration system. It raises questions about oversight, incentives, and fairness in surprise billing enforcement. The report adds scrutiny to a core mechanism of the law.","keywords":["No Surprises Act","arbitration","billing"]},{"title":"Measles is back -- and becoming a midterm liability for Republicans","url":"https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"Measles resurgence is becoming a political issue in the midterm cycle. The article links vaccine hesitancy and outbreak concerns to Republican electoral risk. It frames infectious disease not only as a public health matter but also as a campaign liability. The story reflects the growing political consequences of vaccination debates.","keywords":["measles","vaccines","politics"]},{"title":"Two former Republican lawmakers say the GOP's vaccine position is a liability","url":"https://www.statnews.com/2026/10/19/health-news-two-former-republican-congressmen-against-gop-vaccine-liability/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"Two former Republican lawmakers argue the party's vaccine stance is politically damaging. The article suggests internal criticism is emerging from within conservative ranks. It reinforces the idea that vaccine policy has become a broader electoral issue. The piece focuses on political fallout rather than a new public health program.","keywords":["vaccines","GOP","political risk"]},{"title":"Trump administration advances plan for peptide drugs favored by RFK Jr.","url":"https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/","url_valid":true,"source":"STAT","published_at":"2026-10-15","summary_4_sentences":"The Trump administration is advancing a plan related to peptide drugs favored by Robert F. Kennedy Jr. The article points to a policy push that could affect how such products are handled or promoted. It suggests the issue sits at the intersection of regulation, politics, and alternative treatment interest. The story highlights how administration priorities are shaping drug policy debates.","keywords":["peptides","RFK Jr.","drug policy"]},{"title":"The Trump administration is doubling down on health care fraud investigations","url":"https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/","url_valid":true,"source":"STAT","published_at":"2026-10-15","summary_4_sentences":"The Trump administration is intensifying healthcare fraud investigations. The article points to a DOJ policy that rewards self-disclosure. That approach could change compliance behavior across providers and companies. The piece signals a tougher enforcement environment in healthcare.","keywords":["fraud enforcement","DOJ","compliance"]},{"title":"Former FDA officials blast DOGE as 'one of the biggest disasters in American history'","url":"https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/","url_valid":true,"source":"STAT","published_at":"2026-10-14","summary_4_sentences":"Former FDA officials sharply criticized DOGE and its effects on the agency workforce. The article frames the criticism as unusually severe and historically significant. It suggests concern about recruitment, support, and institutional stability at FDA. The story reflects broader anxiety about federal health agency capacity.","keywords":["FDA","workforce","DOGE"]},{"title":"STAT Plus: Lobbyists and trade groups fight to shape how states regulate medical AI","url":"https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/","url_valid":true,"source":"STAT","published_at":"2026-10-14","summary_4_sentences":"Lobbyists and trade groups are trying to influence how states regulate medical AI. The article suggests the absence of clear federal rules has shifted the battleground to state policy. It likely examines competing interests around autonomous or clinical AI oversight. The piece shows regulation becoming a key front in healthcare AI adoption.","keywords":["medical AI","state regulation","lobbying"]},{"title":"STAT Plus: Hospitals sue - again - to halt Trump administration's 340B rebate pilot","url":"https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/","url_valid":true,"source":"STAT","published_at":"2026-10-09","summary_4_sentences":"Hospitals are again suing to stop the Trump administration's 340B rebate pilot. The repeat litigation suggests the policy remains highly contested. The dispute centers on how drug discounts for safety-net providers should be administered. The article highlights ongoing legal instability around the 340B program.","keywords":["340B","hospitals","lawsuit"]},{"title":"FDA says its safety review of abortion pill will continue into next year","url":"https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/","url_valid":true,"source":"STAT","published_at":"2026-10-08","summary_4_sentences":"FDA said its safety review of the abortion pill will continue into next year. The announcement extends uncertainty around a politically charged medication. It indicates the agency is not yet ready to close out its assessment. The article underscores how abortion policy and drug regulation remain tightly linked.","keywords":["FDA","abortion pill","safety review"]},{"title":"CMS proposes rule to clean up MA provider directories, shine light on PBMs","url":"https://www.healthcaredive.com/news/cms-proposes-rule-clean-up-ma-provider-directories-pbms/833325/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"CMS proposed a rule aimed at improving Medicare Advantage provider directories and increasing transparency around PBMs. The article says the changes would implement provisions from a February government funding package. Most of the reforms would take effect in 2028. The proposal signals continued federal attention to plan accuracy and drug benefit oversight.","keywords":["CMS","Medicare Advantage","PBMs"]},{"title":"Drugmakers seek to intervene in lawsuit challenging 340B pilot","url":"https://www.healthcaredive.com/news/drugmakers-seek-to-intervene-in-lawsuit-challenging-340b-pilot/833354/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Drugmakers are seeking to intervene in litigation over the 340B pilot. Their move shows manufacturers want a direct role in defending or shaping the outcome of the case. The dispute adds another layer to the already contentious 340B policy fight. The article highlights how many stakeholders are now engaged in the legal battle.","keywords":["340B","drugmakers","litigation"]},{"title":"Trade association sues Trump administration over ACA broker, agent freeze","url":"https://www.healthcaredive.com/news/hhs-cms-aca-broker-freeze-lawsuit-nabip/833209/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"A trade association sued the Trump administration over a freeze affecting ACA brokers and agents. The case suggests the policy could disrupt enrollment support in the exchanges. It also reflects broader conflict over administration actions affecting ACA operations. The article focuses on the legal challenge and its market implications.","keywords":["ACA","brokers","lawsuit"]},{"title":"Trump administration boots 189,000 deceased, duplicate enrollees off ACA subsidies","url":"https://www.healthcaredive.com/news/trump-administration-boots-189000-deceased-duplicate-enrollees-off-aca-su/833037/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"The Trump administration removed 189,000 deceased or duplicate enrollees from ACA subsidies. The article frames the move as part of a broader crackdown on fraud, waste, and abuse in federal programs. It suggests tighter scrutiny of exchange enrollment records. The action could have operational and political implications for the ACA marketplace.","keywords":["ACA subsidies","fraud prevention","enrollment"]},{"title":"FDA 'reset' continues with new plan for reviewing rare disease drugs","url":"https://www.healthcaredive.com/news/fda-rare-disease-framework-initiative-drug-development/833119/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"FDA's ongoing reset includes a new plan for reviewing rare disease drugs. The article says the revamped framework may reduce uncertainty for investors assessing approval chances. That suggests the agency is trying to make expectations clearer in a difficult area of development. The initiative could influence both biotech strategy and patient advocacy discussions.","keywords":["FDA","rare disease","regulatory framework"]},{"title":"Centene joins insurers waiving prior authorizations for top providers","url":"https://www.healthcaredive.com/news/centene-joins-insurers-waiving-prior-authorizations-for-top-providers/832975/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Centene joined insurers offering prior authorization waivers for top providers. The article describes the move as part of a gold card trend driven by state and federal reform pressure. It suggests payers are selectively easing utilization management for high-performing clinicians. The change reflects mounting dissatisfaction with prior authorization burdens.","keywords":["Centene","prior authorization","gold card"]},{"title":"Alignment sues CMS over 2027 Medicare Advantage star ratings crash","url":"https://www.healthcaredive.com/news/alignment-lawsuit-2027-medicare-advantage-star-ratings-cms/832774/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Alignment is suing CMS over a sharp drop in its 2027 Medicare Advantage star ratings. The article says the lawsuit follows earlier signals from the company that it would pursue all available remedies. Star ratings directly affect bonuses and competitive positioning in MA. The case shows how high-stakes quality scoring has become for insurers.","keywords":["Alignment","CMS","star ratings"]},{"title":"New bill would overhaul the No Surprises Act's arbitration process","url":"https://www.healthcaredive.com/news/new-bill-would-overhaul-no-surprises-acts-arbitration-process-frank-pallone/832713/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"A new bill would overhaul the No Surprises Act's arbitration process. The article says the legislation from Rep. Frank Pallone would eliminate the current arbitration system entirely. That marks a significant escalation in congressional interest in revising the law. The proposal responds to growing criticism of how dispute resolution is functioning.","keywords":["No Surprises Act","Congress","arbitration reform"]},{"title":"HHS launches new plan to strengthen vaccine injury research, reporting","url":"https://www.healthcaredive.com/news/hhs-vaccine-injury-reporting-research-rfk/832595/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"HHS launched a new plan to strengthen vaccine injury research and reporting. The article says the initiative includes a new NIH clinic, an updated monitoring system, and reimbursements for doctors who report suspected side effects. It is associated with Robert F. Kennedy Jr. and is likely to draw strong reactions. The move could reshape how vaccine safety concerns are documented and debated.","keywords":["HHS","vaccine safety","reporting"]},{"title":"Medicare penalizes more hospitals for readmissions","url":"https://www.healthcaredive.com/news/hospital-readmission-reduction-program-penalties-rise-2027-cms/832473/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"More hospitals are being penalized by Medicare for readmissions this fiscal year. The article says about 80% of hospitals saw payment reductions, up from 78% the year before. That continues a trend of broad exposure to the readmissions program. The data suggest persistent challenges in reducing avoidable returns to care.","keywords":["Medicare","readmissions","hospital payments"]},{"title":"Texas attorney general investigates UnitedHealth over care denials","url":"https://www.healthcaredive.com/news/texas-ken-paxton-unitedhealth-investigation-care-denials/832221/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Texas Attorney General Ken Paxton is investigating UnitedHealth over care denials. The probe cites alarming reports and possible violations of state consumer protection laws. The investigation adds legal pressure to a major national insurer. It also reflects rising scrutiny of utilization management and denial practices.","keywords":["UnitedHealth","care denials","Texas"]},{"title":"FTC escalates price transparency crackdown with warning letters to hospitals","url":"https://www.healthcaredive.com/news/ftc-escalates-price-transparency-crackdown-with-warning-letters-to-hospital/832247/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"The FTC sent warning letters to two dozen hospital systems over price transparency disclosures. Regulators said incomplete or misleading information could violate federal consumer protection laws. The action broadens enforcement pressure beyond CMS compliance alone. It signals a tougher stance on hospital pricing transparency.","keywords":["FTC","price transparency","hospitals"]},{"title":"Humana soars, Alignment plummets in 2027 Medicare Advantage star ratings","url":"https://www.healthcaredive.com/news/medicare-advantage-stars-2027-winners-losers/832582/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Healthcare Dive analyzed 2027 Medicare Advantage star ratings and found major winners and losers. Humana improved while Alignment fell sharply, and overall scores slipped as expected. The article provides market context for how carriers performed. Star ratings remain a crucial lever for bonuses, enrollment, and investor sentiment.","keywords":["Medicare Advantage","star ratings","Humana"]}],"topic":"Healthcare Policy, Regulation, and Legal"},{"topic":"Health System Operations and Care Delivery","articles":[{"title":"Carda Health, American College of Lifestyle Medicine partner for virtual rehab","url":"https://www.mobihealthnews.com/news/carda-health-american-college-lifestyle-medicine-partner-virtual-rehab","url_valid":true,"source":"MobiHealthNews","published_at":"2026-10-19","summary_4_sentences":"Carda Health and the American College of Lifestyle Medicine formed a partnership around virtual rehabilitation. The collaboration aims to expand access to at-home cardiac and pulmonary rehab. The partners also plan to explore joint research and educational initiatives. The deal reflects continued growth in home-based specialty care models.","keywords":["virtual rehab","cardiac care","partnership"]},{"title":"Patient experience is not a score - it's a leadership strategy","url":"https://www.healthcareitnews.com/news/patient-experience-not-score-its-leadership-strategy","url_valid":true,"source":"Healthcare IT News","published_at":"2026-10-19","summary_4_sentences":"This article argues that patient experience should be treated as a leadership strategy rather than a score alone. The framing suggests organizational culture and management decisions are central to experience improvement. It likely emphasizes sustained operational commitment over narrow metrics. The piece places patient experience within broader health system strategy.","keywords":["patient experience","leadership","care strategy"]},{"title":"Rush, Endeavor to merge into Illinois powerhouse","url":"https://www.healthcaredive.com/news/rush-endeavor-to-merge-illinois-hospital-powerhouse/833089/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Rush and Endeavor plan to merge into a larger Illinois health system. The article says the combination could strengthen their position in a fragmented and competitive Chicagoland market if regulators approve. The deal would create a regional powerhouse with greater scale. It reflects ongoing consolidation among hospital systems.","keywords":["hospital merger","Illinois","Rush"]},{"title":"MultiCare, Samaritan combination to close in November","url":"https://www.healthcaredive.com/news/multicare-samaritan-combination-close-november/832973/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"MultiCare and Samaritan said their nonprofit combination will close on Nov. 1. The systems have already secured approval from state regulators. The announcement moves the transaction from proposal to execution. It is another example of provider consolidation aimed at scale and stability.","keywords":["hospital merger","MultiCare","Samaritan"]},{"title":"Outpatient shift accelerates as hospital margins rebound","url":"https://www.healthcaredive.com/news/outpatient-shift-accelerates-hospital-margins-rebound-strata/832490/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"The shift toward outpatient care is accelerating even as hospital margins improve. The article says patient demand and payer pressure are pushing procedures out of inpatient settings. That suggests site-of-care change is becoming structural rather than temporary. The trend has implications for hospital strategy, staffing, and capital planning.","keywords":["outpatient care","hospital margins","site of care"]},{"title":"Highmark Health taps Karen Hanlon as CEO","url":"https://www.healthcaredive.com/news/highmark-health-karen-hanlon-ceo/832350/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Highmark Health named Karen Hanlon as CEO. The article says she will be the organization's first woman chief executive after nearly three decades with the company. The appointment signals continuity with internal leadership development. It is a notable executive transition for a major integrated health organization.","keywords":["Highmark","CEO","leadership"]},{"title":"How consumer tech company Whoop is building for Medicare patients","url":"https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/","url_valid":true,"source":"STAT","published_at":"2026-10-14","summary_4_sentences":"Whoop is adapting its consumer technology approach for Medicare patients. The article suggests the company is exploring how wearables or related tools can fit older populations and population health needs. That marks a shift from a fitness-oriented brand toward healthcare use cases. The story highlights convergence between consumer tech and senior care.","keywords":["Whoop","Medicare","wearables"]}],"topic":"Health System Operations and Care Delivery"},{"topic":"Cybersecurity and Infrastructure","articles":[{"title":"Chinese government-affiliated cyber threat actors target edge devices","url":"https://www.healthcareitnews.com/news/chinese-government-affiliated-cyber-threat-actors-target-edge-devices","url_valid":true,"source":"Healthcare IT News","published_at":"2026-10-16","summary_4_sentences":"Chinese government-affiliated threat actors are targeting edge devices, according to the report. The article emphasizes monitoring secure edge infrastructure and patching known exposures. It warns healthcare organizations to take preventive steps against vulnerability scanning and exploitation. The piece underscores persistent geopolitical cyber risk for health systems.","keywords":["cybersecurity","edge devices","threat actors"]},{"title":"Health-ISAC, Microsoft and partners take down popular phishing kit services","url":"https://www.healthcaredive.com/news/phishing-marketplace-takedown-microsoft-health-isac/833215/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Health-ISAC, Microsoft, and partners helped take down widely used phishing kit services. The action targets infrastructure that supports credential theft and cybercrime. For healthcare organizations, the takedown may reduce exposure to common phishing campaigns, at least temporarily. The story shows cross-sector collaboration in cyber defense.","keywords":["phishing","Microsoft","Health-ISAC"]},{"title":"Healthcare organizations are underprepared for quantum computing threats","url":"https://www.healthcaredive.com/news/healthcare-organizations-are-underprepared-for-quantum-computing-threats/832516/","url_valid":true,"source":"Healthcare Dive","published_at":"2026-10-20","summary_4_sentences":"Healthcare organizations are not adequately prepared for future quantum computing threats, according to the article. Experts warn that practical quantum systems could break current encryption protecting patient data. The piece urges leaders to begin planning now rather than waiting for the technology to mature. It frames quantum readiness as a long-term security issue with immediate planning needs.","keywords":["quantum computing","encryption","healthcare security"]}],"topic":"Cybersecurity and Infrastructure"},{"topic":"Public Health and Society","articles":[{"title":"Forty percent of high school students report binge eating in new CDC survey","url":"https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/","url_valid":true,"source":"STAT","published_at":"2026-10-15","summary_4_sentences":"A new CDC survey found that 40% of high school students report binge eating. The figure is presented as alarmingly high. The finding points to a substantial adolescent health concern that may be underrecognized. The article highlights the scale of eating-related distress among teens.","keywords":["CDC","adolescents","binge eating"]},{"title":"The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how","url":"https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/","url_valid":true,"source":"STAT","published_at":"2026-10-09","summary_4_sentences":"A researcher used Reddit data to study how abortion access changed after Roe fell. The article suggests natural language processing helped capture lived experiences and barriers. It highlights how digital traces can illuminate policy effects in near real time. The story connects reproductive health research with novel data methods.","keywords":["abortion access","Reddit","NLP"]},{"title":"A mother-daughter quest to find fellow members of an ultra-rare genetic community","url":"https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/","url_valid":true,"source":"STAT","published_at":"2026-10-08","summary_4_sentences":"This article follows a mother and daughter searching for others with an ultra-rare genetic condition. The story centers on community-building in the context of extreme rarity. It likely explores how families, researchers, and patients connect when formal networks are limited. The piece brings a human lens to rare disease discovery and support.","keywords":["rare disease","genetics","patient community"]},{"title":"2026 Nobel Prize in chemistry awarded for 'mirror image' molecule research, with impact on pharmacology","url":"https://www.statnews.com/2026/10/07/nobel-prize-chemistry-henri-kagan-kenso-soai-2026-winner/","url_valid":true,"source":"STAT","published_at":"2026-10-07","summary_4_sentences":"The 2026 Nobel Prize in chemistry recognized research on mirror-image molecules. The article notes the work has implications for pharmacology. That connection underscores how fundamental chemistry can shape drug behavior and development. The award highlights the scientific foundations behind modern therapeutics.","keywords":["Nobel Prize","chemistry","pharmacology"]}],"topic":"Public Health and Society"},{"topic":"Other Medical and Science News","articles":[{"title":"HIMSSCast: Male birth control pill, implant aim to prevent pregnancy","url":"https://www.mobihealthnews.com/news/himsscast-male-birth-control-pill-implant-aim-prevent-pregnancy","url_valid":true,"source":"MobiHealthNews","published_at":"2026-10-16","summary_4_sentences":"This HIMSSCast episode discusses a male birth control pill and implant under development by NEXT Life Sciences. The interview features the company's founder and executive chairman. The conversation centers on two contraceptive products, Plan A and PausePill. The piece highlights ongoing efforts to expand contraceptive options beyond women-focused methods.","keywords":["contraception","male birth control","NEXT Life Sciences"]},{"title":"I was a Theranos whistleblower. In 'You Can See Everything,' Elizabeth Holmes is still lying","url":"https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"A Theranos whistleblower offers a critical review tied to Elizabeth Holmes and the documentary \"You Can See Everything.\" The article argues Holmes is still misrepresenting events. It brings an insider perspective to the continuing public narrative around Theranos. The piece is more commentary-driven than a standard business or policy report.","keywords":["Theranos","Elizabeth Holmes","whistleblower"]},{"title":"My mother killed herself. I wish assisted suicide had been an option","url":"https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"This is a personal essay about suicide, family loss, and assisted dying. The title indicates the author wishes medical aid in dying had been available in the context discussed. The article likely engages with Canada's debate over mental illness and assisted death. It is framed as an opinion or perspective piece grounded in lived experience.","keywords":["assisted dying","mental illness","opinion"]},{"title":"STAT Plus: Does Isomorphic Labs have what it takes to revolutionize drugmaking?","url":"https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"This article examines whether Isomorphic Labs can transform drugmaking. The title suggests a close look at the company's capabilities and ambitions. It likely explores the intersection of advanced computation and pharmaceutical R&D. The piece is framed as an assessment of a high-profile drug discovery effort.","keywords":["Isomorphic Labs","drug discovery","AI"]},{"title":"STAT Plus: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show","url":"https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/","url_valid":true,"source":"STAT","published_at":"2026-10-19","summary_4_sentences":"A top immunology association is divided over a California ballot measure that would fund the field. The article says emails reveal internal disagreement over the $8.4 billion proposal. That suggests tension over how large public research funding initiatives should be structured or supported. The story sits at the intersection of science advocacy and state politics.","keywords":["immunology","California ballot measure","research funding"]},{"title":"STAT Plus: Cambridge scientist David Sabatini speaks out after courtroom victory: 'The hardest years of my life'","url":"https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/","url_valid":true,"source":"STAT","published_at":"2026-10-18","summary_4_sentences":"David Sabatini spoke publicly after a courtroom victory. The article focuses on his account of the years surrounding the case. It serves as a follow-up to the legal outcome rather than the verdict itself. The piece centers on the personal aftermath of a high-profile scientific controversy.","keywords":["David Sabatini","court case","science community"]},{"title":"I thought I knew why patients stopped taking their medicine. I was wrong","url":"https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/","url_valid":true,"source":"STAT","published_at":"2026-10-16","summary_4_sentences":"This article reflects on why patients stop taking prescribed medicines. The title suggests the author revised earlier assumptions about medication nonadherence. It likely emphasizes patient identity, lived experience, or factors beyond side effects alone. The piece offers a perspective on adherence through a more human-centered lens.","keywords":["medication adherence","patient behavior","perspective"]},{"title":"Is Milton Friedman to blame for America's health care woes?","url":"https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/","url_valid":true,"source":"STAT","published_at":"2026-10-16","summary_4_sentences":"This article explores whether Milton Friedman's ideas contributed to U.S. healthcare problems. The framing suggests a debate over neoliberalism and health policy. It likely presents competing views rather than a single empirical finding. The piece situates current healthcare challenges within a broader ideological history.","keywords":["health policy","neoliberalism","debate"]},{"title":"STAT Plus: In DOGE's aftermath, federal health workers bristle at new performance reviews","url":"https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/","url_valid":true,"source":"STAT","published_at":"2026-10-16","summary_4_sentences":"Federal health workers are uneasy about new performance reviews after DOGE-related disruption. The article suggests morale and trust remain strained. It focuses on workforce sentiment inside health agencies rather than a new external policy. The story adds to broader reporting on federal health workforce instability.","keywords":["federal workforce","performance reviews","health agencies"]},{"title":"Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China","url":"https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/","url_valid":true,"source":"STAT","published_at":"2026-10-15","summary_4_sentences":"Rep. Jake Auchincloss argues the U.S. should strengthen domestic biotech rather than focus mainly on targeting China. The article presents a strategic policy view on competitiveness. It suggests industrial support may be more effective than protectionist measures alone. The piece contributes to the debate over biotech and national strategy.","keywords":["biotech policy","China","competitiveness"]},{"title":"As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university","url":"https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/","url_valid":true,"source":"STAT","published_at":"2026-10-14","summary_4_sentences":"U.S. science leaders are defending the role of universities as the White House shifts attention toward AI and technology. The article suggests concern about how research priorities and funding structures may change. It frames universities as central institutions in the scientific ecosystem. The story highlights tension between academic science and evolving national innovation strategy.","keywords":["universities","science policy","research funding"]},{"title":"Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69","url":"https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/","url_valid":true,"source":"STAT","published_at":"2026-10-13","summary_4_sentences":"STAT reported the death of journalist Helen Branswell at age 69. The obituary notes her acclaimed work on infectious diseases and public health. It recognizes her influence on health journalism and scientific communication. The piece is a memorial rather than a standard news development.","keywords":["obituary","journalism","public health"]},{"title":"STAT Plus: Will MAHA survive the midterms?","url":"https://www.statnews.com/2026/10/09/maha-movement-rfk-jr-campaign-trail-midterm-elections/","url_valid":true,"source":"STAT","published_at":"2026-10-09","summary_4_sentences":"This article asks whether the MAHA movement will survive the midterms. The framing suggests a political assessment of a health-adjacent movement tied to the election cycle. It likely examines momentum, leadership, and voter response. The piece is primarily political analysis rather than a discrete policy announcement.","keywords":["MAHA","midterms","politics"]},{"title":"STAT Plus: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role","url":"https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/","url_valid":true,"source":"STAT","published_at":"2026-10-09","summary_4_sentences":"A biotech leader known for lab leak advocacy is no longer being considered for a top infectious disease role. The article points to a personnel decision with implications for federal health leadership. It also reflects how scientific controversy can intersect with appointments. The story focuses on who will not fill an influential public health position.","keywords":["appointment","infectious disease","leadership"]},{"title":"STAT Plus: Can you live longer for $5,500? Longevity clinics are the buzzy new trend at nonprofit hospitals","url":"https://www.statnews.com/2026/10/06/hospitals-longevity-clinics-healthy-aging-wellness-trend/","url_valid":true,"source":"STAT","published_at":"2026-10-06","summary_4_sentences":"Nonprofit hospitals are embracing longevity clinics as a new wellness trend. The title highlights a price point of $5,500, suggesting these services may target affluent consumers. The article likely examines commercialization of healthy aging within hospital settings. It raises questions about mission, access, and the medicalization of longevity.","keywords":["longevity clinics","nonprofit hospitals","wellness"]}],"topic":"Other Medical and Science News"}],"excluded_items":[{"title":"STAT Plus: The umpires getting rich off surprise medical bills, and MLB job lock","url":"https://www.statnews.com/2026/10/19/no-surprises-act-arbitrators-getting-rich-jake-bauers-health-insurance/","reason":"duplicate"},{"title":"STAT Plus: Pharmalittle: We're reading about Roche investments in Germany, a Gilead bowel disease drug, and more","url":"https://www.statnews.com/pharmalot/2026/10/19/roche-investments-in-germany-gilead-bowel-disease-drug/","reason":"duplicate"},{"title":"STAT Plus: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded","url":"https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/","reason":"duplicate"},{"title":"STAT Plus: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini's downfall","url":"https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/","reason":"duplicate"},{"title":"STAT Plus: Up and down the ladder: The latest comings and goings","url":"https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/","reason":"insufficient_information"},{"title":"STAT Plus: Pharmalittle: We're reading about an HHS peptide push, Trump's pharma stock holdings, and more","url":"https://www.statnews.com/pharmalot/2026/10/16/hhs-peptide-push-trump-pharma-stock-holdings/","reason":"duplicate"},{"title":"STAT Plus: On Wall Street, there's trouble stirring for biotech","url":"https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/","reason":"insufficient_information"},{"title":"STAT Plus: Pharmalittle: We're reading about former FDA head calling DOGE a 'disaster,' an AstraZeneca AI deal, and more","url":"https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/","reason":"duplicate"},{"title":"STAT Plus: Trump administration delays new rule that could restrict imported medicines from Canada and overseas","url":"https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/","reason":"insufficient_information"},{"title":"STAT Plus: Pharmalittle: We're reading about Sanofi settling an EU antitrust probe, 'pharma bro' Shkreli, and more","url":"https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/","reason":"insufficient_information"},{"title":"STAT Plus: BlackRock to buy majority stake in Humana's CenterWell clinics for $2.8 billion","url":"https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/","reason":"duplicate"},{"title":"STAT Plus: Up and down the ladder: The latest comings and goings","url":"https://www.statnews.com/pharmalot/2026/10/09/up-and-down-ladder-latest-comings-and-goings-jobs/","reason":"insufficient_information"},{"title":"STAT Plus: Medicare Advantage star ratings trigger new bonuses, and uncertainty","url":"https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/","reason":"duplicate"},{"title":"STAT Plus: Biotech companies are struggling to navigate Trump's new tariffs","url":"https://www.statnews.com/2026/10/08/trump-tariffs-section-232-imported-prescription-drugs-challenge-biotech-companies/","reason":"insufficient_information"},{"title":"Hospital and pharmaceutical prices are smothering America's businesses","url":"https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/","reason":"too_old"},{"title":"STAT Plus: UnitedHealth investor lawsuit moves forward on allegations it 'manufactured earnings' to hide declining profits","url":"https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/","reason":"too_old"},{"title":"Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress","url":"https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/","reason":"too_old"},{"title":"STAT Plus: Leaders of Mass General, Dana-Farber among hospital execs who got big raises in 2024","url":"https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/","reason":"too_old"},{"title":"STAT Plus: Mass General Brigham, nurses called to talk at State House amid biggest nursing strike in Mass.","url":"https://www.statnews.com/2026/07/08/brigham-and-womens-hospital-boston-nurses-strike-largest-massachusetts-history/","reason":"too_old"},{"title":"Judge temporarily blocks subpoenas in criminal probe of transgender care at New York hospitals","url":"https://www.statnews.com/2026/06/24/judge-blocks-subpoena-probe-transgender-care-new-york-hospitals/","reason":"too_old"},{"title":"UnitedHealth eyes Medicare Advantage opportunities, bolstered by Q3 profit growth","url":"https://www.healthcaredive.com/news/unitedhealth-q3-2026-profits-soar-medicare-advantage-strategy/832827/","reason":"too_old"},{"title":"30 Healthcare IT Influencers Worth a Follow in 2025","url":"https://healthtechmagazine.net/article/2025/06/30-healthcare-it-influencers-worth-follow-2025","reason":"too_old"},{"title":"Restoring Clinician Access Is a Key Element of Cyber Recovery","url":"https://healthtechmagazine.net/article/2026/10/restoring-clinician-access-key-element-cyber-recovery","reason":"too_old"},{"title":"Why Tabletop Exercises Expose More Than Technical Weaknesses for Healthcare IT Teams","url":"https://healthtechmagazine.net/article/2026/10/why-tabletop-exercises-expose-more-technical-weaknesses-healthcare-it-teams","reason":"too_old"},{"title":"Review: PDC Certis B4 Direct Thermal Label Printer Supports Clear Patient Identification","url":"https://healthtechmagazine.net/article/2026/10/review-pdc-certis-b4-direct-thermal-label-printer-supports-clear-patient-identification","reason":"too_old"},{"title":"Review: RSA ID Plus Gives Healthcare Identity Security a Stronger Pulse","url":"https://healthtechmagazine.net/article/2026/10/review-rsa-id-plus-gives-healthcare-identity-security-stronger-pulse","reason":"too_old"},{"title":"Your Security Stack Is Working. Are Your Security Operations?","url":"https://healthtechmagazine.net/article/2026/10/your-security-stack-working-are-your-security-operations","reason":"too_old"},{"title":"How a Healthcare IT Endpoint Refresh Improves Cost and Asset Management","url":"https://healthtechmagazine.net/article/2026/10/how-healthcare-it-endpoint-refresh-improves-cost-and-asset-management","reason":"too_old"},{"title":"Healthcare IT Leaders Seek a New North Star in the Age of AI","url":"https://healthtechmagazine.net/article/2026/10/healthcare-it-leaders-seek-new-north-star-age-ai","reason":"too_old"},{"title":"Why Virtual Care Is Becoming an Integral Part of Nursing Education","url":"https://healthtechmagazine.net/article/2026/10/why-virtual-care-becoming-integral-part-nursing-education","reason":"too_old"},{"title":"Healthcare Organizations Must Brave the New World of Cyberthreats With AI","url":"https://healthtechmagazine.net/article/2026/09/healthcare-organizations-must-brave-new-world-cyberthreats-ai","reason":"too_old"},{"title":"Instead of Models and GPUs, Focus on the Right Workloads for AI","url":"https://healthtechmagazine.net/article/2026/09/instead-models-and-gpus-focus-right-workloads-ai","reason":"too_old"},{"title":"Healthcare's Digital Future Depends On Network Resilience","url":"https://healthtechmagazine.net/article/2026/09/healthcares-digital-future-depends-network-resilience","reason":"too_old"},{"title":"How Healthcare IT Teams Can Run EHR Optimization as a Continuous Cycle","url":"https://healthtechmagazine.net/article/2026/09/ehr-optimization-continuous-cycle-healthcare-it","reason":"too_old"},{"title":"Mergers and Acquisitions: An Overview of Notable Healthcare M&A Activity in 2026","url":"https://healthtechmagazine.net/article/2026/09/mergers-and-acquisitions-overview-notable-healthcare-ma-activity-2026","reason":"too_old"},{"title":"How To Scale AI for Healthcare While Cutting Operating Expenses","url":"https://healthtechmagazine.net/article/2026/09/how-scale-ai-healthcare-while-cutting-operating-expenses","reason":"too_old"},{"title":"Clinical Care Resilience Planning Is Not a Passive Act","url":"https://healthtechmagazine.net/article/2026/09/clinical-care-resilience-planning-not-passive-act","reason":"too_old"},{"title":"UI Health Care Shares Journey To Adopt an Ambient Documentation Tool","url":"https://healthtechmagazine.net/article/2026/09/ui-health-care-shares-journey-adopt-ambient-documentation-tool","reason":"too_old"},{"title":"The Biggest Healthcare AI Question Is Not What It Can Do, but When It Should Be Used","url":"https://healthtechmagazine.net/article/2026/09/biggest-healthcare-ai-question-not-what-it-can-do-when-it-should-be-used","reason":"too_old"},{"title":"Real-Time Analytics at the Edge: Enabling Faster Clinical Decisions at the Point of Care","url":"https://healthtechmagazine.net/article/2026/09/real-time-analytics-edge-enabling-faster-clinical-decisions-point-care","reason":"too_old"},{"title":"Types of AI in Healthcare: Examples & Use Cases","url":"https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon","reason":"too_old"},{"title":"How to Navigate Structured and Unstructured Data as a Healthcare Organization","url":"https://healthtechmagazine.net/article/2023/05/structured-vs-unstructured-data-in-healthcare-perfcon","reason":"too_old"},{"title":"Improving AI Adoption Through Better Clinician Support","url":"https://healthtechmagazine.net/article/2026/09/improving-ai-adoption-through-better-clinician-support","reason":"too_old"},{"title":"Before the Chatbot: Improving Patient Care Access Begins at the Foundation","url":"https://healthtechmagazine.net/article/2026/09/chatbot-improving-patient-care-access-begins-foundation","reason":"too_old"},{"title":"AI Weapons Detection in Healthcare: Modernizing Hospital Physical Security","url":"https://healthtechmagazine.net/article/2026/09/ai-weapons-detection-healthcare-modernizing-hospital-physical-security-perfcon","reason":"too_old"},{"title":"5 Questions Ask How To Improve Data Context in Healthcare","url":"https://healthtechmagazine.net/article/2026/09/5-questions-ask-how-improve-data-context-healthcare","reason":"too_old"},{"title":"AI Is Changing Cyberattacks. Are Healthcare Incident Response Plans Ready?","url":"https://healthtechmagazine.net/article/2026/09/ai-changing-cyberattacks-are-healthcare-incident-response-plans-ready","reason":"too_old"},{"title":"FAIR for Hospitals: What a Ransomware Shutdown Really Costs","url":"https://healthtechmagazine.net/article/2026/09/fair-hospitals-what-ransomware-shutdown-really-costs","reason":"too_old"},{"title":"3 tips to manage soaring health costs","url":"https://www.healthcaredive.com/news/3-tips-to-manage-soaring-health-costs/833253/","reason":"insufficient_information"},{"title":"Zocdoc acquires Sohar Health in latest push to scale tech infrastructure","url":"https://www.healthcaredive.com/news/zocdoc-acquires-sohar-health-in-latest-push-to-scale-tech-infrastructure/833129/","reason":"duplicate"},{"title":"Top healthcare conferences to attend in 2027","url":"https://www.healthcaredive.com/news/top-healthcare-conferences-2027/831809/","reason":"insufficient_information"}],"topic_count":7,"article_count":47}
+{
+  "digest_type": "biweekly_medtech_news",
+  "digest_date": "2026-10-23",
+  "date_range": {
+    "start": "2026-10-09",
+    "end": "2026-10-23"
+  },
+  "source_batch_label": "medtech_news_biweekly_digest",
+  "topic_groups": [
+    {
+      "topic": "Health AI and Digital Health",
+      "articles": [
+        {
+          "title": "Time to invest in the 'human stack' to foster trust in health AI",
+          "url": "https://www.healthcareitnews.com/news/time-invest-human-stack-foster-trust-health-ai",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "Healthcare leaders at the HIMSS AI in Healthcare Forum argued that AI returns depend on more than technology purchases. The article says organizations should invest in people, priorities, processes and policies alongside tools. Kaiser Permanente's AI leadership framed this broader foundation as essential for trust. The piece focuses on governance and operational readiness for health AI adoption.",
+          "keywords": ["health AI", "trust", "governance"]
+        },
+        {
+          "title": "As AI transforms patient experience, clinicians see changes too",
+          "url": "https://www.healthcareitnews.com/news/ai-transforms-patient-experience-clinicians-face-changes-too",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "Panelists at the HIMSS AI in Healthcare Forum discussed how AI is reshaping both patient and clinician experiences. The article says these tools can streamline care delivery but can also add complexity depending on implementation and users. It presents AI as a dual-use operational change rather than a simple efficiency upgrade. The discussion centers on workflow impact across care settings.",
+          "keywords": ["AI", "patient experience", "clinical workflow"]
+        },
+        {
+          "title": "HIMSS AI Forum: Attendees offer thoughts on AI opportunities and hurdles, Part 1",
+          "url": "https://www.healthcareitnews.com/news/himss-ai-forum-attendees-offer-thoughts-ai-opportunities-and-hurdles-part-1",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "This article compiles attendee perspectives from the HIMSS AI Forum. Stakeholders discussed how they are using AI in health systems and what regulatory issues remain unresolved. The piece highlights both enthusiasm for practical use cases and concern about oversight. It serves as a snapshot of current provider sentiment on healthcare AI.",
+          "keywords": ["HIMSS", "AI adoption", "regulation"]
+        },
+        {
+          "title": "STAT Plus: FDA finalizes its guidance on apps related to drugs, pharma rejoices",
+          "url": "https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "The FDA finalized guidance covering apps related to drugs. The title indicates the pharmaceutical industry welcomed the move. Based on the URL cues, the guidance appears relevant to digital therapeutics and software tied to drug use. The article centers on regulatory clarity for health technology connected to medicines.",
+          "keywords": ["FDA", "digital health", "guidance"]
+        },
+        {
+          "title": "Opella, Microsoft partner on AI platform for health content review",
+          "url": "https://www.mobihealthnews.com/news/opella-microsoft-partner-ai-platform-health-content-review",
+          "url_valid": true,
+          "source": "MobiHealthNews",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Opella and Microsoft are partnering on an AI platform for reviewing health content. The proof of concept uses 14 specialized AI agents to flag potential issues. Medical, legal and regulatory experts still retain final approval authority. The project emphasizes AI-assisted review rather than fully automated decision-making.",
+          "keywords": ["AI agents", "content review", "Microsoft"]
+        },
+        {
+          "title": "NVIDIA unveils partnerships to expand healthcare AI, protein design tools",
+          "url": "https://www.mobihealthnews.com/news/nvidia-unveils-partnerships-expand-healthcare-ai-protein-design-tools",
+          "url_valid": true,
+          "source": "MobiHealthNews",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "NVIDIA announced new partnerships aimed at expanding healthcare AI and protein design capabilities. The company introduced a protein design model with the University of Washington. It is also working with Siemens Healthineers on more personalized radiation treatment. The announcement spans both life sciences research and clinical technology applications.",
+          "keywords": ["NVIDIA", "protein design", "healthcare AI"]
+        },
+        {
+          "title": "Developers, not doctors, should be held accountable for generative AI medical devices, providers say",
+          "url": "https://www.healthcaredive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833738/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "Providers are arguing that developers rather than physicians should bear accountability for generative AI medical devices. The title and URL indicate the debate is tied to FDA oversight. The article likely reflects growing concern about liability as AI tools move closer to regulated clinical use. It highlights a key policy fault line in medical AI governance.",
+          "keywords": ["generative AI", "medical devices", "liability"]
+        },
+        {
+          "title": "AMA releases governance framework for agentic AI in healthcare",
+          "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "The American Medical Association released a governance framework for agentic AI in healthcare. The article says industry groups are issuing guidance while federal regulation remains limited. This framework appears intended to help organizations manage autonomous or semi-autonomous AI tools. It reflects accelerating efforts to set guardrails before formal rules are in place.",
+          "keywords": ["AMA", "agentic AI", "framework"]
+        },
+        {
+          "title": "Suki raises $90M in Series E round to create AI agents",
+          "url": "https://www.healthcaredive.com/news/suki-raises-90m-in-series-e-round-to-create-ai-agents/832862/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "Suki raised $90 million in a Series E financing round. The company said it will use the capital to build AI agents and deepen ties with its health technology partners. The funding suggests continued investor interest in clinical workflow AI. The article frames the raise as a growth move tied to product expansion and partnerships.",
+          "keywords": ["funding", "AI agents", "Suki"]
+        },
+        {
+          "title": "OpenEvidence, Doximity settle thorny AI legal battle",
+          "url": "https://www.healthcaredive.com/news/openevidence-doximity-settle-explosive-ai-legal-battle/833480/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "OpenEvidence and Doximity settled a legal dispute involving health AI. The summary references dueling lawsuits, claims of corporate espionage and allegations of harassment. The settlement ends a high-profile conflict between two companies in the clinical AI space. The article focuses on the resolution of the dispute rather than a court ruling on the merits.",
+          "keywords": ["legal dispute", "health AI", "settlement"]
+        },
+        {
+          "title": "STAT Plus: Lobbyists and trade groups fight to shape how states regulate medical AI",
+          "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-14",
+          "summary_4_sentences": "Trade groups and lobbyists are trying to influence how states regulate medical AI. The title suggests the debate is especially focused on autonomous clinical AI. The article likely examines competing policy positions as state-level rules take shape. It underscores that AI regulation is becoming a major healthcare policy battleground.",
+          "keywords": ["medical AI", "state regulation", "lobbying"]
+        },
+        {
+          "title": "STAT Plus: Why this startup is taking its AI to predict breast cancer risk directly to patients",
+          "url": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-08",
+          "summary_4_sentences": "A startup is bringing its breast cancer risk prediction AI directly to patients. The title indicates a consumer-facing strategy rather than a provider-only deployment model. The article likely explores the business and clinical rationale for bypassing traditional channels. It highlights how AI diagnostics companies are experimenting with go-to-market approaches.",
+          "keywords": ["breast cancer", "AI diagnostics", "consumer health"]
+        }
+      ]
+    },
+    {
+      "topic": "Payers, Coverage and Medicare Advantage",
+      "articles": [
+        {
+          "title": "STAT Plus: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past",
+          "url": "https://www.statnews.com/2026/10/22/kff-2026-benefits-survey-9-percent-premium-increase/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "Workers are paying 9% more for family health coverage this year, according to the article title. The piece points to a larger increase than in recent years. It appears to draw on KFF survey data about employer-sponsored insurance costs. The story highlights renewed pressure on household and employer healthcare spending.",
+          "keywords": ["premiums", "employer coverage", "KFF"]
+        },
+        {
+          "title": "Health insurance premiums jump 9%, and more Americans don't have access to coverage",
+          "url": "https://www.statnews.com/2026/10/22/health-news-insurance-premiums-jump-more-americans-lose-coverage/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "Health insurance premiums rose 9%, and the article says more Americans lack access to coverage. The title suggests a broad look at affordability and coverage erosion. It likely connects rising costs with worsening access. The piece adds context to concerns about the stability of health insurance markets.",
+          "keywords": ["health insurance", "coverage access", "premium growth"]
+        },
+        {
+          "title": "More than half of Medicare beneficiaries are enrolled in Advantage plans",
+          "url": "https://www.healthcareitnews.com/video/more-half-medicare-beneficiaries-are-enrolled-advantage-plans",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "This item reports that more than half of Medicare beneficiaries are enrolled in Medicare Advantage plans. The format appears to be a video rather than a text article. Even with limited detail, it clearly points to the continued growth of private-plan enrollment within Medicare. The piece reflects the scale and policy importance of Medicare Advantage.",
+          "keywords": ["Medicare Advantage", "enrollment", "Medicare"]
+        },
+        {
+          "title": "STAT Plus: CMS extends fraud crackdown to New York's adult day care program",
+          "url": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "CMS is extending a fraud crackdown to New York's adult day care program. The title indicates the action is part of a broader enforcement effort in Medicaid-related services. The article likely examines oversight of operators and payment integrity concerns. It signals continued federal scrutiny of program abuse in safety-net care.",
+          "keywords": ["CMS", "fraud", "Medicaid"]
+        },
+        {
+          "title": "STAT Plus: The key health care ballot measures we're watching in the midterms",
+          "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-20",
+          "summary_4_sentences": "This article previews major healthcare ballot measures in the midterm elections. The title suggests these contests reveal broader health policy divides in the U.S. The piece likely spans issues such as coverage, reproductive health or drug policy depending on state ballots. It frames elections as an important venue for healthcare policymaking.",
+          "keywords": ["midterms", "ballot measures", "health policy"]
+        },
+        {
+          "title": "STAT Plus: BlackRock to buy majority stake in Humana's CenterWell clinics for $2.8 billion",
+          "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-13",
+          "summary_4_sentences": "BlackRock is buying a majority stake in Humana's CenterWell clinics for $2.8 billion. The deal involves senior-focused primary care assets tied to Medicare populations. It reflects continued investment in payer-linked care delivery models. The article centers on ownership change and strategic positioning in value-based senior care.",
+          "keywords": ["BlackRock", "Humana", "primary care"]
+        },
+        {
+          "title": "STAT Plus: Medicare Advantage star ratings trigger new bonuses, and uncertainty",
+          "url": "https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-09",
+          "summary_4_sentences": "New Medicare Advantage star ratings are triggering bonus changes and uncertainty for insurers. The title suggests winners and losers among plans as quality scores shift. The article likely examines financial implications for carriers and the broader MA market. It highlights how ratings remain a major lever in Medicare Advantage competition.",
+          "keywords": ["Medicare Advantage", "star ratings", "insurers"]
+        },
+        {
+          "title": "CMS proposes rule to clean up MA provider directories, shine light on PBMs",
+          "url": "https://www.healthcaredive.com/news/cms-proposes-rule-clean-up-ma-provider-directories-pbms/833325/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "CMS proposed a rule aimed at improving Medicare Advantage provider directories and increasing transparency around PBMs. The summary says the changes would implement healthcare provisions from a February funding package. Most reforms would not take effect until 2028. The article focuses on administrative cleanup and oversight in Medicare-related markets.",
+          "keywords": ["CMS", "Medicare Advantage", "PBMs"]
+        },
+        {
+          "title": "Trump administration boots 189,000 deceased, duplicate enrollees off ACA subsidies",
+          "url": "https://www.healthcaredive.com/news/trump-administration-boots-189000-deceased-duplicate-enrollees-off-aca-su/833037/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "The Trump administration removed 189,000 deceased or duplicate enrollees from ACA subsidies. The summary says the move is part of a broader crackdown on fraud, waste and abuse in federal programs. The action affects exchange administration rather than benefit design. The article highlights tighter eligibility enforcement in the ACA marketplace.",
+          "keywords": ["ACA", "subsidies", "eligibility"]
+        },
+        {
+          "title": "Trade association sues Trump administration over ACA broker, agent freeze",
+          "url": "https://www.healthcaredive.com/news/hhs-cms-aca-broker-freeze-lawsuit-nabip/833209/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "A trade association sued the Trump administration over an ACA broker and agent freeze. The National Association of Benefits and Insurance Professionals alleges HHS failed to provide required public notice and comment. The lawsuit challenges the legality of the policy process rather than only its substance. The article reflects ongoing conflict over ACA marketplace administration.",
+          "keywords": ["ACA", "lawsuit", "brokers"]
+        },
+        {
+          "title": "Centene joins insurers waiving prior authorizations for top providers",
+          "url": "https://www.healthcaredive.com/news/centene-joins-insurers-waiving-prior-authorizations-for-top-providers/832975/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "Centene is joining other insurers in waiving prior authorizations for certain top providers. The summary describes the move as a gold card program. It comes amid state and federal pressure for prior authorization reform. The article shows payers adapting utilization management practices in response to policy and provider concerns.",
+          "keywords": ["prior authorization", "Centene", "gold card"]
+        },
+        {
+          "title": "UnitedHealth eyes Medicare Advantage opportunities, bolstered by Q3 profit growth",
+          "url": "https://www.healthcaredive.com/news/unitedhealth-q3-2026-profits-soar-medicare-advantage-strategy/832827/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "UnitedHealth reported stronger third-quarter profit growth and raised its 2026 earnings guidance. The article says the company beat analyst expectations for the third time this year. It frames the results as support for a sustainable financial turnaround. Medicare Advantage is presented as a key area of opportunity in that strategy.",
+          "keywords": ["UnitedHealth", "Medicare Advantage", "earnings"]
+        },
+        {
+          "title": "Humana enters $2.8B primary care joint venture with BlackRock",
+          "url": "https://www.healthcaredive.com/news/humana-enters-28b-primary-care-joint-venture-with-blackrock/832872/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "Humana announced a $2.8 billion primary care joint venture with BlackRock involving CenterWell clinics. BlackRock will acquire a majority stake in nearly 150 senior primary care sites. The deal expands capital support for Humana's care delivery footprint. It underscores continued convergence between insurers, investors and provider assets.",
+          "keywords": ["Humana", "BlackRock", "CenterWell"]
+        },
+        {
+          "title": "Alignment sues CMS over 2027 Medicare Advantage star ratings crash",
+          "url": "https://www.healthcaredive.com/news/alignment-lawsuit-2027-medicare-advantage-star-ratings-cms/832774/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "Alignment is suing CMS over a sharp drop in its 2027 Medicare Advantage star ratings. The article says the lawsuit follows the insurer's earlier warning that it would pursue all available remedies. The dispute centers on quality scores that can materially affect plan payments and competitiveness. It is a direct legal response to the latest ratings cycle.",
+          "keywords": ["Alignment", "CMS", "star ratings"]
+        }
+      ]
+    },
+    {
+      "topic": "Biotech, Pharma and Clinical Trials",
+      "articles": [
+        {
+          "title": "STAT Plus: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations",
+          "url": "https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "AbbVie's skin disorder drug succeeded in a late-stage trial. The title says the results still fell short of market expectations. The article likely focuses on how investors and analysts interpreted the magnitude of benefit. It reflects the difference between technical trial success and commercial enthusiasm.",
+          "keywords": ["AbbVie", "phase 3", "dermatology"]
+        },
+        {
+          "title": "STAT Plus: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
+          "url": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "Detailed data confirmed that Moderna and Merck's cancer vaccine met key endpoints in a melanoma trial. The provided summary says the success of intismeran autogene could open the door to treatments for other cancers. The article appears to focus on the data release rather than earlier strategic commentary. It marks an important milestone for personalized mRNA cancer vaccines.",
+          "keywords": ["Moderna", "Merck", "cancer vaccine"]
+        },
+        {
+          "title": "STAT Plus: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
+          "url": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "Telehealth providers are prescribing GLP-1 drugs off-label for addiction before any FDA approval for that use. The title suggests clinical practice is moving faster than formal regulation. The article likely examines demand, evidence gaps and oversight concerns. It highlights how telehealth can accelerate adoption of emerging drug uses.",
+          "keywords": ["GLP-1", "telehealth", "off-label"]
+        },
+        {
+          "title": "STAT Plus: Will the Treasury restrict U.S. investment in the Chinese biotech sector?",
+          "url": "https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "The Treasury may restrict U.S. investment in Chinese biotech, according to this article. The title points to a policy question with implications for cross-border capital and partnerships. The piece likely examines how national security concerns are intersecting with biotech finance. It reflects rising geopolitical pressure on life sciences investment flows.",
+          "keywords": ["Chinese biotech", "Treasury", "investment restrictions"]
+        },
+        {
+          "title": "Phantom Neuro implants first humans with its muscle-machine interface",
+          "url": "https://www.mobihealthnews.com/news/phantom-neuro-implants-first-humans-its-muscle-machine-interface",
+          "url_valid": true,
+          "source": "MobiHealthNews",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Phantom Neuro implanted its muscle-machine interface in humans for the first time. The investigational Phantom X system translates muscle signals from a residual limb into commands for a robotic prosthetic. This marks an early clinical milestone for the company's neurotechnology platform. The article focuses on first-in-human progress in assistive device development.",
+          "keywords": ["neurotech", "prosthetics", "first-in-human"]
+        },
+        {
+          "title": "STAT Plus: Mark Cuban wants to crack open the market for rare disease treatments",
+          "url": "https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Mark Cuban is aiming to expand access to rare disease treatments. The title suggests a market-disruption strategy tied to Cost Plus Drugs. The article likely explores pricing, distribution or sourcing barriers in orphan medicines. It frames rare disease therapy access as a business and policy opportunity.",
+          "keywords": ["rare disease", "Mark Cuban", "drug access"]
+        },
+        {
+          "title": "STAT Plus: Roivant says closely watched immune drug succeeded in new eye disease",
+          "url": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Roivant said its closely watched immune drug succeeded in a new eye disease indication. The URL indicates the condition is noninfectious uveitis. The article likely covers trial results and what they mean for the drug's development path. It represents a notable clinical update for an immunology program.",
+          "keywords": ["Roivant", "uveitis", "trial results"]
+        },
+        {
+          "title": "STAT Plus: A German biotech has big ambitions in cancer. Now it needs to get a medicine approved",
+          "url": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "This article profiles a German biotech with major ambitions in cancer treatment. The URL points to Immatics and cell therapies targeting the PRAME protein. The story likely examines the company's scientific promise alongside the challenge of securing its first approval. It is a strategic look at a biotech at an inflection point.",
+          "keywords": ["Immatics", "cell therapy", "oncology"]
+        },
+        {
+          "title": "Oracle and AstraZeneca to collaborate 'smarter' clinical trials",
+          "url": "https://www.healthcareitnews.com/news/oracle-and-astrazeneca-collaborate-smarter-clinical-trials",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Oracle and AstraZeneca announced a nonbinding collaboration on smarter clinical trials. The goal is to accelerate recruitment by bringing evidence-driven insights into patient care workflows. The partnership suggests a tighter link between health IT systems and trial operations. It reflects ongoing efforts to modernize study enrollment with data tools.",
+          "keywords": ["clinical trials", "Oracle", "AstraZeneca"]
+        },
+        {
+          "title": "STAT Plus: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
+          "url": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-20",
+          "summary_4_sentences": "Launch prices for new medicines dipped slightly last year but remained high overall. The title indicates the finding comes from an analysis rather than a single company announcement. The article likely examines whether pricing trends are easing only marginally. It reinforces that new-drug affordability remains a persistent concern.",
+          "keywords": ["drug pricing", "launch prices", "pharma"]
+        },
+        {
+          "title": "STAT Plus: Gilead's IBD drug eliminated symptoms for patients, mid-stage study finds",
+          "url": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-19",
+          "summary_4_sentences": "Gilead reported that its inflammatory bowel disease drug eliminated symptoms for patients in a mid-stage study. The title points to a strong phase 2 result. The article likely discusses the magnitude of benefit and what it means for later-stage development. It adds to Gilead's pipeline news during the period.",
+          "keywords": ["Gilead", "IBD", "phase 2"]
+        },
+        {
+          "title": "Merck and Moderna have 'lot of exploring to do' after initial cancer vaccine success",
+          "url": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-15",
+          "summary_4_sentences": "Merck and Moderna are still exploring next steps after early success with their cancer vaccine program. The title suggests a strategy-focused piece rather than a specific new data release. It likely examines how the companies may expand beyond initial melanoma results. The article captures the uncertainty and opportunity following a promising oncology milestone.",
+          "keywords": ["Moderna", "Merck", "oncology strategy"]
+        },
+        {
+          "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
+          "url": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-15",
+          "summary_4_sentences": "The Trump administration is advancing a plan involving peptide drugs favored by RFK Jr. The title indicates a policy move with implications for regulation or access. The article likely explores how political priorities are shaping the treatment category. It reflects the intersection of drug policy and administration politics.",
+          "keywords": ["peptide drugs", "Trump administration", "RFK Jr."]
+        },
+        {
+          "title": "Compass Pathways CEO: Psychedelics company will 'go slow before we go fast'",
+          "url": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-14",
+          "summary_4_sentences": "Compass Pathways' CEO said the psychedelics company will go slow before going fast. The title suggests a cautious development and commercialization posture. The article likely reflects comments made at a STAT event about pacing in a closely watched field. It highlights the measured strategy of a prominent psychedelics developer.",
+          "keywords": ["psychedelics", "Compass Pathways", "strategy"]
+        },
+        {
+          "title": "STAT Plus: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+          "url": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-13",
+          "summary_4_sentences": "Concerns are growing about safety issues tied to a Neurocrine Biosciences rare disease drug. The URL points to a treatment related to Prader-Willi syndrome. The article likely examines adverse-event questions or regulatory implications. It signals potential risk for a closely watched rare disease product.",
+          "keywords": ["Neurocrine", "rare disease", "drug safety"]
+        },
+        {
+          "title": "STAT Plus: In Duchenne muscular dystrophy, a promising therapy is available to a fortunate few",
+          "url": "https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-07",
+          "summary_4_sentences": "A promising Duchenne muscular dystrophy therapy is available only to a limited number of patients. The title suggests access constraints despite scientific progress. The article likely discusses exon-skipping drugs and the uneven availability of treatment options. It highlights the gap between innovation and real-world reach in rare disease care.",
+          "keywords": ["Duchenne", "rare disease", "access"]
+        }
+      ]
+    },
+    {
+      "topic": "Hospitals, Providers and Care Delivery",
+      "articles": [
+        {
+          "title": "When health systems merge EHRs, clinical context is on the line",
+          "url": "https://www.healthcareitnews.com/news/when-health-systems-merge-ehrs-clinical-context-line",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "This article examines the risks to clinical context when health systems merge EHRs. Even with limited summary text, the title clearly points to challenges in preserving meaning during record consolidation. The piece likely focuses on data integrity, workflow continuity and patient safety. It highlights a common but underappreciated issue in health system integration.",
+          "keywords": ["EHR", "health system merger", "clinical context"]
+        },
+        {
+          "title": "Epic enables EHRs to communicate with other apps",
+          "url": "https://www.healthcareitnews.com/news/epic-enables-ehrs-communicate-other-apps",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Epic announced a capability that enables EHRs to communicate with other apps. The title suggests a move toward broader interoperability and application connectivity. Even without more detail, the article clearly concerns health IT integration. It points to continued efforts to make core clinical systems more extensible.",
+          "keywords": ["Epic", "interoperability", "apps"]
+        },
+        {
+          "title": "Seoul St. Mary's automates cancer drug registration",
+          "url": "https://www.healthcareitnews.com/news/asia/seoul-st-marys-automates-cancer-drug-registration",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Seoul St. Mary's Hospital automated patient registration for cancer drug risk management. The hospital has applied for patent and copyright protection for the in-house system. The article presents the project as an operational innovation in oncology administration. It shows how provider organizations are building their own workflow tools.",
+          "keywords": ["oncology", "automation", "hospital IT"]
+        },
+        {
+          "title": "Rural hospital independence depends on making technology count",
+          "url": "https://www.healthcareitnews.com/news/rural-hospital-independence-depends-making-technology-count",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Nemaha County Hospital is using targeted technology investments to remain independent. The article says faster revenue processes and expanded access to care are central to that strategy. It frames IT spending as a survival tool rather than a discretionary upgrade for rural providers. The piece highlights the operational realities of small hospital sustainability.",
+          "keywords": ["rural hospital", "technology strategy", "independence"]
+        },
+        {
+          "title": "STAT Plus: He's slashing quality at nursing homes. This state is letting it happen",
+          "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-20",
+          "summary_4_sentences": "This article alleges that quality is being cut at nursing homes while state oversight falls short. The title suggests a focus on a specific operator or chain in Massachusetts. The piece likely examines staffing, care standards or regulatory enforcement. It raises concerns about accountability in long-term care.",
+          "keywords": ["nursing homes", "quality", "Massachusetts"]
+        },
+        {
+          "title": "Resident physicians may lose some of their most important work hour protections",
+          "url": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-20",
+          "summary_4_sentences": "Resident physicians may lose key work-hour protections under potential rule changes. The title points specifically to time off between shifts. The article likely examines ACGME policy and the implications for training conditions and patient safety. It highlights renewed debate over resident labor standards.",
+          "keywords": ["resident physicians", "work hours", "ACGME"]
+        },
+        {
+          "title": "STAT Plus: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
+          "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-20",
+          "summary_4_sentences": "Dana-Farber and Beth Israel are beginning construction on a new $1.68 billion cancer hospital. The article centers on a major capital project in oncology care delivery. The scale of the investment signals long-term confidence in specialized cancer infrastructure. It is a significant provider expansion story in academic medicine.",
+          "keywords": ["cancer hospital", "construction", "Dana-Farber"]
+        },
+        {
+          "title": "How consumer tech company Whoop is building for Medicare patients",
+          "url": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-14",
+          "summary_4_sentences": "Whoop is adapting its consumer technology approach for Medicare patients. The title suggests a move from general wellness toward older adult or population health use cases. The article likely explores product design and reimbursement considerations for serving this market. It reflects the growing overlap between consumer health tech and payer-provider populations.",
+          "keywords": ["Whoop", "Medicare", "consumer health tech"]
+        },
+        {
+          "title": "STAT Plus: Can you live longer for $5,500? Longevity clinics are the buzzy new trend at nonprofit hospitals",
+          "url": "https://www.statnews.com/2026/10/06/hospitals-longevity-clinics-healthy-aging-wellness-trend/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-06",
+          "summary_4_sentences": "Nonprofit hospitals are launching longevity clinics as a new wellness-oriented offering. The title emphasizes a high price point and the promise of longer life. The article likely examines whether these programs fit hospital missions and what evidence supports them. It captures a growing trend toward premium preventive services in provider settings.",
+          "keywords": ["longevity clinics", "nonprofit hospitals", "wellness"]
+        },
+        {
+          "title": "Risant Health to acquire Oklahoma system Integris Health",
+          "url": "https://www.healthcaredive.com/news/risant-health-acquire-oklahoma-system-integris-health/833748/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "Risant Health is acquiring Integris Health in Oklahoma. The title indicates another expansion step for the Kaiser-linked system builder. Even without a detailed summary, the event is clearly a provider acquisition. The deal adds to ongoing consolidation among health systems.",
+          "keywords": ["acquisition", "Risant Health", "Integris"]
+        },
+        {
+          "title": "Hackensack Meridian, Hunterdon pen merger agreement",
+          "url": "https://www.healthcaredive.com/news/hackensack-meridian-hunterdon-pen-merger-agreement/833610/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "Hackensack Meridian and Hunterdon signed a merger agreement. The article marks a formal step toward combining the organizations. Even with limited detail, it clearly concerns hospital consolidation in New Jersey. The agreement could reshape regional provider competition and operations.",
+          "keywords": ["hospital merger", "Hackensack Meridian", "Hunterdon"]
+        },
+        {
+          "title": "Rush, Endeavor to merge into Illinois powerhouse",
+          "url": "https://www.healthcaredive.com/news/rush-endeavor-to-merge-illinois-hospital-powerhouse/833089/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "Rush and Endeavor plan to merge into a larger Illinois health system. The summary says the combination could strengthen their position in a fragmented and competitive Chicagoland market if regulators approve. The article frames the deal as both strategic and market-shaping. It is another major example of provider consolidation during the period.",
+          "keywords": ["Rush", "Endeavor", "hospital merger"]
+        }
+      ]
+    },
+    {
+      "topic": "Public Health, Science and Other Medical News",
+      "articles": [
+        {
+          "title": "STAT Plus: Nutrition experts press White House to release ultra-processed food definition",
+          "url": "https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "Nutrition experts are pressing the White House to release a definition of ultra-processed food. The title suggests the lack of a formal definition is affecting policy or public messaging. The article likely explores how the term is being used in nutrition debates and MAHA-related politics. It reflects the growing policy importance of food classification.",
+          "keywords": ["nutrition", "ultra-processed food", "White House"]
+        },
+        {
+          "title": "Top MAHA adviser Calley Means resigns from White House days ahead of midterms",
+          "url": "https://www.statnews.com/2026/10/22/calley-means-resigns-white-house-adviser-maha-movement/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "Calley Means resigned from his White House adviser role days before the midterms. The title identifies him as a top adviser connected to the MAHA movement. The timing suggests potential political implications for that agenda. The article focuses on a personnel change with policy significance.",
+          "keywords": ["MAHA", "White House", "resignation"]
+        },
+        {
+          "title": "What I got wrong about the Affordable Care Act -- and how to fix it",
+          "url": "https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "This article is a reflection on the Affordable Care Act and proposed fixes. The title suggests the author is revisiting earlier assumptions about the law's ability to contain healthcare costs. It appears to be an opinion or analysis piece rather than straight news reporting. The focus is on policy lessons and reform ideas.",
+          "keywords": ["ACA", "health policy", "costs"]
+        },
+        {
+          "title": "The inherited disease my family called 'it' had a name, which changed everything",
+          "url": "https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-22",
+          "summary_4_sentences": "This personal essay describes a family finally identifying an inherited disease they had long referred to only indirectly. The title emphasizes how receiving a diagnosis changed the family's understanding. The piece likely explores the emotional and practical impact of naming a rare condition. It adds a patient-centered perspective to rare disease coverage.",
+          "keywords": ["rare disease", "diagnosis", "personal essay"]
+        },
+        {
+          "title": "STAT Plus: Another diabetes association leader is out while review continues",
+          "url": "https://www.statnews.com/2026/10/21/american-diabetes-association-leadership-change-controversy/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Another leader at a diabetes association has departed while a review continues. The URL indicates the organization is the American Diabetes Association. The article likely covers governance turmoil or an internal controversy. It points to ongoing instability at a major medical nonprofit.",
+          "keywords": ["American Diabetes Association", "leadership", "governance"]
+        },
+        {
+          "title": "How knocking on doors can help beat measles -- again",
+          "url": "https://www.statnews.com/2026/10/21/measles-public-health-door-to-door-initiatives/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "This article argues that door-to-door public health efforts can help control measles. The title suggests a return to older outreach methods in response to current challenges. The piece likely examines practical community engagement strategies for vaccination and case finding. It highlights labor-intensive but proven public health tactics.",
+          "keywords": ["measles", "public health", "community outreach"]
+        },
+        {
+          "title": "Replication is necessary even if scientists do everything right",
+          "url": "https://www.statnews.com/2026/10/21/nih-replication-process-type-1-error-bhattacharya/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "This article makes the case that replication remains essential in science even when studies are well conducted. The title points to statistical error and research process issues rather than misconduct. It appears to be a broader commentary on scientific reliability. The piece reinforces replication as a core safeguard in biomedical research.",
+          "keywords": ["replication", "research integrity", "science"]
+        },
+        {
+          "title": "A counterintuitive way to build trust in measles vaccines and public health",
+          "url": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Experts propose a counterintuitive messaging approach to build trust in measles vaccines and public health. The title suggests conventional communication strategies may be falling short. The article likely explores how framing and tone affect vaccine uptake. It focuses on trust-building rather than new biomedical findings.",
+          "keywords": ["measles vaccine", "trust", "health communication"]
+        },
+        {
+          "title": "Why I wish you didn't want to see Nathan Fielder's Elizabeth Holmes documentary",
+          "url": "https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-20",
+          "summary_4_sentences": "This commentary reflects on public fascination with an Elizabeth Holmes documentary. The title suggests concern that the story may reward performance over truth. The article likely examines how charisma and narrative shape perceptions of fraud. It is a media and culture take tied to a well-known health tech scandal.",
+          "keywords": ["Elizabeth Holmes", "Theranos", "commentary"]
+        },
+        {
+          "title": "I was a Theranos whistleblower. In 'You Can See Everything,' Elizabeth Holmes is still lying",
+          "url": "https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-19",
+          "summary_4_sentences": "A former Theranos whistleblower argues that Elizabeth Holmes is still lying in a new portrayal. The title indicates a first-person critique tied to the documentary or related media. The piece offers an insider perspective on the continuing public retelling of the Theranos saga. It revisits accountability and truth in one of health tech's defining scandals.",
+          "keywords": ["Theranos", "whistleblower", "Elizabeth Holmes"]
+        },
+        {
+          "title": "Trump orders creation of NIH division, task force on women's health",
+          "url": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-19",
+          "summary_4_sentences": "Trump ordered the creation of an NIH division and task force focused on women's health. The title indicates the move came through executive action. The article likely covers the structure and political framing of the initiative. It represents a federal reorganization step in biomedical and public health policy.",
+          "keywords": ["NIH", "women's health", "executive order"]
+        },
+        {
+          "title": "STAT Plus: In DOGE's aftermath, federal health workers bristle at new performance reviews",
+          "url": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-16",
+          "summary_4_sentences": "Federal health workers are uneasy about new performance reviews after DOGE-related upheaval. The title suggests morale and trust issues inside health agencies. The article likely examines how workforce management changes are being received by employees. It highlights internal strain within the federal health bureaucracy.",
+          "keywords": ["federal workforce", "health agencies", "performance reviews"]
+        },
+        {
+          "title": "STAT Plus: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
+          "url": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-16",
+          "summary_4_sentences": "A jury ruled in favor of scientist David Sabatini and awarded $6 million in damages. The title indicates the case stemmed from his ouster and allegations tied to sexual misconduct. The article focuses on the legal outcome of a closely watched dispute in academic science. It marks a concrete court decision rather than broader commentary.",
+          "keywords": ["David Sabatini", "jury verdict", "academic science"]
+        },
+        {
+          "title": "Forty percent of high school students report binge eating in new CDC survey",
+          "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-15",
+          "summary_4_sentences": "A new CDC survey found that 40% of high school students report binge eating. The title signals an alarming prevalence estimate among teenagers. The article likely explores implications for adolescent mental health and eating disorder awareness. It highlights a notable public health finding from federal survey data.",
+          "keywords": ["CDC", "binge eating", "adolescent health"]
+        },
+        {
+          "title": "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope -- and a path forward",
+          "url": "https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-15",
+          "summary_4_sentences": "This article tells a patient-centered story about receiving an mRNA cancer vaccine after a melanoma diagnosis. The title emphasizes hope and a path forward rather than trial endpoints. It likely complements broader reporting on the Moderna-Merck program with a human perspective. The piece focuses on lived experience in cancer treatment innovation.",
+          "keywords": ["melanoma", "mRNA vaccine", "patient story"]
+        },
+        {
+          "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
+          "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-13",
+          "summary_4_sentences": "This obituary reports the death of journalist Helen Branswell at age 69. The title highlights her acclaimed reporting on infectious diseases and public health. The piece recognizes her influence on health journalism and science communication. It is a notable media industry loss within the health reporting community.",
+          "keywords": ["obituary", "health journalism", "public health"]
+        },
+        {
+          "title": "STAT Plus: Will MAHA survive the midterms?",
+          "url": "https://www.statnews.com/2026/10/09/maha-movement-rfk-jr-campaign-trail-midterm-elections/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-09",
+          "summary_4_sentences": "This article asks whether the MAHA movement will survive the midterm elections. The title suggests a political analysis of the movement's durability and influence. It likely examines campaign dynamics, leadership and voter response. The piece situates health-related activism within electoral politics.",
+          "keywords": ["MAHA", "midterms", "politics"]
+        },
+        {
+          "title": "Hospital and pharmaceutical prices are smothering America's businesses",
+          "url": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/",
+          "url_valid": true,
+          "source": "STAT",
+          "published_at": "2026-10-05",
+          "summary_4_sentences": "This article argues that hospital and pharmaceutical prices are heavily burdening American businesses. The title suggests a cost-focused analysis tied to insurance premiums and medical bills. It appears to be part of a broader series on out-of-pocket and system costs. The piece emphasizes the employer-side consequences of healthcare inflation.",
+          "keywords": ["healthcare costs", "drug prices", "employers"]
+        },
+        {
+          "title": "Ghost networks haunt mental health access, study finds",
+          "url": "https://www.healthcaredive.com/news/ghost-networks-haunt-mental-health-access-study-finds/833643/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "A study found that ghost networks continue to undermine mental health access. The title suggests provider directories may list clinicians who are unavailable or inaccurate. This creates barriers even when coverage appears adequate on paper. The article highlights a persistent access problem in behavioral health care.",
+          "keywords": ["mental health", "provider directories", "access"]
+        },
+        {
+          "title": "3 tips to manage soaring health costs",
+          "url": "https://www.healthcaredive.com/news/3-tips-to-manage-soaring-health-costs/833253/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "This article offers three ideas for managing rising health costs. It draws on remarks from a Marsh McLennan executive at a CFO Leadership Council conference. The focus is on keeping employees healthy while controlling spending. The piece is aimed at employer decision-makers facing sustained benefit cost pressure.",
+          "keywords": ["health costs", "employers", "benefits"]
+        },
+        {
+          "title": "FDA 'reset' continues with new plan for reviewing rare disease drugs",
+          "url": "https://www.healthcaredive.com/news/fda-rare-disease-framework-initiative-drug-development/833119/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "The FDA is continuing a broader reset with a new plan for reviewing rare disease drugs. The summary says the revamped framework could reduce uncertainty for investors assessing approval chances. The article suggests the agency is trying to make rare disease regulation more predictable. It focuses on process reform rather than a single product decision.",
+          "keywords": ["FDA", "rare disease", "drug review"]
+        },
+        {
+          "title": "CVS to pay $315M to settle opioid prescribing allegations",
+          "url": "https://www.healthcaredive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832969/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "CVS will pay $315 million to settle allegations related to opioid prescribing. Prosecutors said the company filled unnecessary prescriptions that fueled the opioid epidemic. CVS said it admitted no wrongdoing and strongly disagreed with the claims. The article centers on a major legal settlement tied to the long-running opioid crisis.",
+          "keywords": ["CVS", "opioids", "settlement"]
+        },
+        {
+          "title": "New bill would overhaul the No Surprises Act's arbitration process",
+          "url": "https://www.healthcaredive.com/news/new-bill-would-overhaul-no-surprises-acts-arbitration-process-frank-pallone/832713/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "A new bill would overhaul the No Surprises Act's arbitration process. The summary says the legislation from Rep. Frank Pallone would eliminate the current arbitration system entirely. That signals growing congressional interest in revisiting how the consumer protection law works in practice. The article focuses on a significant proposed policy change in payment dispute resolution.",
+          "keywords": ["No Surprises Act", "arbitration", "Congress"]
+        }
+      ]
+    },
+    {
+      "topic": "Cybersecurity and Infrastructure",
+      "articles": [
+        {
+          "title": "8 popular AI scribes may need medical device regulation: TGA",
+          "url": "https://www.healthcareitnews.com/news/anz/8-popular-ai-scribes-may-need-medical-device-regulation-tga",
+          "url_valid": true,
+          "source": "Healthcare IT News",
+          "published_at": "2026-10-21",
+          "summary_4_sentences": "Australia's Therapeutic Goods Administration found that eight popular AI scribes may require medical device regulation. The review said none of the 12 suppliers classified their products as medical devices despite likely qualifying functions. The article highlights a mismatch between product claims and regulatory obligations. It signals closer scrutiny of ambient documentation tools.",
+          "keywords": ["AI scribes", "medical device regulation", "TGA"]
+        },
+        {
+          "title": "Health-ISAC, Microsoft and partners take down popular phishing kit services",
+          "url": "https://www.healthcaredive.com/news/phishing-marketplace-takedown-microsoft-health-isac/833215/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "Health-ISAC, Microsoft and partners disrupted popular phishing kit services. The summary says the effort targeted a prolific China-based phishing ecosystem. The action reflects coordinated cyber defense across industry and technology groups. The article highlights active measures to reduce threats facing healthcare organizations.",
+          "keywords": ["cybersecurity", "phishing", "Microsoft"]
+        },
+        {
+          "title": "Tracking healthcare data breaches",
+          "url": "https://www.healthcaredive.com/news/tracking-healthcare-data-breaches-cybersecurity-hacking-hospitals/696184/",
+          "url_valid": true,
+          "source": "Healthcare Dive",
+          "published_at": "2026-10-23",
+          "summary_4_sentences": "This Healthcare Dive tracker covers notable healthcare data breaches. The provided update says a vendor handling some California Medicaid billing reported a breach affecting more than 970,000 people. Because the article is a running tracker, it summarizes ongoing cybersecurity incidents rather than a single event. It remains relevant as a current batch item because the date was missing and defaulted under source-specific rules.",
+          "keywords": ["data breaches", "cybersecurity", "Medicaid"]
+        }
+      ]
+    }
+  ],
+  "excluded_items": [
+    {
+      "title": "Centene, Oscar, UnitedHealthcare sidle into some new counties in 2027 ACA plans",
+      "url": "https://www.healthcaredive.com/news/centene-oscar-unitedhealthcare-new-counties-aca-2027/833442/",
+      "reason": "too_old"
+    },
+    {
+      "title": "Top healthcare conferences to attend in 2027",
+      "url": "https://www.healthcaredive.com/news/top-healthcare-conferences-2027/831809/",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Humana soars, Alignment plummets in 2027 Medicare Advantage star ratings",
+      "url": "https://www.healthcaredive.com/news/medicare-advantage-stars-2027-winners-losers/832582/",
+      "reason": "too_old"
+    },
+    {
+      "title": "MultiCare, Samaritan combination to close in November",
+      "url": "https://www.healthcaredive.com/news/multicare-samaritan-combination-close-november/832973/",
+      "reason": "too_old"
+    },
+    {
+      "title": "STAT Plus: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
+      "url": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "STAT Plus: What to expect from the Moderna-Merck cancer vaccine data reveal",
+      "url": "https://www.statnews.com/2026/10/22/esmo-2026-what-to-know-ahead-of-moderna-merck-cancer-vaccine-data-reveal/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "STAT Plus: Crackdowns loom, from China to New York",
+      "url": "https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "STAT Plus: Pharmalittle: We're reading about a U.S. rule on Chinese deals, Belgium refusing Mounjaro coverage, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/22/chinese-biotech-deals-scrutiny-belgium-refuses-mounjaro-coverage/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "STAT Plus: What's the deal with Isomorphic Labs?",
+      "url": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "STAT Plus: Pharmalittle: We're reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "510(k) for ECG AI, Chinese smart ring and more briefs",
+      "url": "https://www.mobihealthnews.com/news/asia/510k-ecg-ai-chinese-smart-ring-and-more-briefs",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "STAT Plus: Pharmalittle: We're reading about drug launch prices, an AstraZeneca AI deal, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "STAT Plus: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
+      "url": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "STAT Plus: Cambridge scientist David Sabatini speaks out after courtroom victory: 'The hardest years of my life'",
+      "url": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "STAT Plus: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini's downfall",
+      "url": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
+      "url": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/",
+      "reason": "too_old"
+    },
+    {
+      "title": "STAT Plus: UnitedHealth investor lawsuit moves forward on allegations it 'manufactured earnings' to hide declining profits",
+      "url": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/",
+      "reason": "too_old"
+    },
+    {
+      "title": "STAT Plus: Leaders of Mass General, Dana-Farber among hospital execs who got big raises in 2024",
+      "url": "https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/",
+      "reason": "too_old"
+    },
+    {
+      "title": "STAT Plus: Mass General Brigham, nurses called to talk at State House amid biggest nursing strike in Mass.",
+      "url": "https://www.statnews.com/2026/07/08/brigham-and-womens-hospital-boston-nurses-strike-largest-massachusetts-history/",
+      "reason": "too_old"
+    },
+    {
+      "title": "Molina joins Medicaid recovery bandwagon despite mixed Q3",
+      "url": "https://www.healthcaredive.com/news/molina-q3-2026-medicaid-recovery-momentum/833650/",
+      "reason": "too_old"
+    },
+    {
+      "title": "Elevance sees Medicaid momentum in Q3",
+      "url": "https://www.healthcaredive.com/news/elevance-medicaid-momentum-q3-2026-elv/833559/",
+      "reason": "too_old"
+    },
+    {
+      "title": "5 doctors weigh in on the promise, limitations of a closely watched multicancer blood test",
+      "url": "https://www.healthcaredive.com/news/5-doctors-weigh-in-on-the-promise-limitations-of-a-closely-watched-multica/833455/",
+      "reason": "too_old"
+    },
+    {
+      "title": "Drugmakers seek to intervene in lawsuit challenging 340B pilot",
+      "url": "https://www.healthcaredive.com/news/drugmakers-seek-to-intervene-in-lawsuit-challenging-340b-pilot/833354/",
+      "reason": "duplicate"
+    },
+    {
+      "title": "30 Healthcare IT Influencers Worth a Follow in 2025",
+      "url": "https://healthtechmagazine.net/article/2025/06/30-healthcare-it-influencers-worth-follow-2025",
+      "reason": "too_old"
+    },
+    {
+      "title": "Healthcare Deals 2025: Notable Mergers & Acquisitions Activity",
+      "url": "https://healthtechmagazine.net/article/2025/04/mergers-and-acquisitions-overview-notable-healthcare-ma-activity-2025",
+      "reason": "too_old"
+    },
+    {
+      "title": "Modernizing Disaster Recovery for Healthcare Networks",
+      "url": "https://healthtechmagazine.net/article/2026/10/disaster-recovery-healthcare-networks-planning-guide",
+      "reason": "too_old"
+    },
+    {
+      "title": "Q&A: Cleveland Clinic Grounds Tech Change in Reliability and Scalability",
+      "url": "https://healthtechmagazine.net/article/2026/10/qa-cleveland-clinic-grounds-tech-change-reliability-and-scalability",
+      "reason": "too_old"
+    },
+    {
+      "title": "Healthcare's AI Expansion Calls for a More Connected Security Strategy",
+      "url": "https://healthtechmagazine.net/article/2026/10/healthcares-ai-expansion-calls-more-connected-security-strategy",
+      "reason": "too_old"
+    },
+    {
+      "title": "Q&A: NVIDIA Healthcare Leader on What It Takes To Make Edge-to-Cloud AI Work",
+      "url": "https://healthtechmagazine.net/article/2026/10/qa-nvidia-healthcare-leader-what-it-takes-make-edge-cloud-ai-work",
+      "reason": "too_old"
+    },
+    {
+      "title": "Restoring Clinician Access Is a Key Element of Cyber Recovery",
+      "url": "https://healthtechmagazine.net/article/2026/10/restoring-clinician-access-key-element-cyber-recovery",
+      "reason": "too_old"
+    },
+    {
+      "title": "Why Tabletop Exercises Expose More Than Technical Weaknesses for Healthcare IT Teams",
+      "url": "https://healthtechmagazine.net/article/2026/10/why-tabletop-exercises-expose-more-technical-weaknesses-healthcare-it-teams",
+      "reason": "too_old"
+    },
+    {
+      "title": "Review: PDC Certis B4 Direct Thermal Label Printer Supports Clear Patient Identification",
+      "url": "https://healthtechmagazine.net/article/2026/10/review-pdc-certis-b4-direct-thermal-label-printer-supports-clear-patient-identification",
+      "reason": "too_old"
+    },
+    {
+      "title": "Review: RSA ID Plus Gives Healthcare Identity Security a Stronger Pulse",
+      "url": "https://healthtechmagazine.net/article/2026/10/review-rsa-id-plus-gives-healthcare-identity-security-stronger-pulse",
+      "reason": "too_old"
+    },
+    {
+      "title": "Your Security Stack Is Working. Are Your Security Operations?",
+      "url": "https://healthtechmagazine.net/article/2026/10/your-security-stack-working-are-your-security-operations",
+      "reason": "too_old"
+    },
+    {
+      "title": "How a Healthcare IT Endpoint Refresh Improves Cost and Asset Management",
+      "url": "https://healthtechmagazine.net/article/2026/10/how-healthcare-it-endpoint-refresh-improves-cost-and-asset-management",
+      "reason": "too_old"
+    },
+    {
+      "title": "Healthcare IT Leaders Seek a New North Star in the Age of AI",
+      "url": "https://healthtechmagazine.net/article/2026/10/healthcare-it-leaders-seek-new-north-star-age-ai",
+      "reason": "too_old"
+    },
+    {
+      "title": "Healthcare Organizations Must Brave the New World of Cyberthreats With AI",
+      "url": "https://healthtechmagazine.net/article/2026/09/healthcare-organizations-must-brave-new-world-cyberthreats-ai",
+      "reason": "too_old"
+    },
+    {
+      "title": "Instead of Models and GPUs, Focus on the Right Workloads for AI",
+      "url": "https://healthtechmagazine.net/article/2026/09/instead-models-and-gpus-focus-right-workloads-ai",
+      "reason": "too_old"
+    },
+    {
+      "title": "Healthcare's Digital Future Depends On Network Resilience",
+      "url": "https://healthtechmagazine.net/article/2026/09/healthcares-digital-future-depends-network-resilience",
+      "reason": "too_old"
+    },
+    {
+      "title": "How Healthcare IT Teams Can Run EHR Optimization as a Continuous Cycle",
+      "url": "https://healthtechmagazine.net/article/2026/09/ehr-optimization-continuous-cycle-healthcare-it",
+      "reason": "too_old"
+    },
+    {
+      "title": "How To Scale AI for Healthcare While Cutting Operating Expenses",
+      "url": "https://healthtechmagazine.net/article/2026/09/how-scale-ai-healthcare-while-cutting-operating-expenses",
+      "reason": "too_old"
+    },
+    {
+      "title": "UI Health Care Shares Journey To Adopt an Ambient Documentation Tool",
+      "url": "https://healthtechmagazine.net/article/2026/09/ui-health-care-shares-journey-adopt-ambient-documentation-tool",
+      "reason": "too_old"
+    },
+    {
+      "title": "Real-Time Analytics at the Edge: Enabling Faster Clinical Decisions at the Point of Care",
+      "url": "https://healthtechmagazine.net/article/2026/09/real-time-analytics-edge-enabling-faster-clinical-decisions-point-care",
+      "reason": "too_old"
+    },
+    {
+      "title": "Improving AI Adoption Through Better Clinician Support",
+      "url": "https://healthtechmagazine.net/article/2026/09/improving-ai-adoption-through-better-clinician-support",
+      "reason": "too_old"
+    },
+    {
+      "title": "Before the Chatbot: Improving Patient Care Access Begins at the Foundation",
+      "url": "https://healthtechmagazine.net/article/2026/09/chatbot-improving-patient-care-access-begins-foundation",
+      "reason": "too_old"
+    },
+    {
+      "title": "AI Weapons Detection in Healthcare: Modernizing Hospital Physical Security",
+      "url": "https://healthtechmagazine.net/article/2026/09/ai-weapons-detection-healthcare-modernizing-hospital-physical-security-perfcon",
+      "reason": "too_old"
+    },
+    {
+      "title": "Clinical Care Resilience Planning Is Not a Passive Act",
+      "url": "https://healthtechmagazine.net/article/2026/09/clinical-care-resilience-planning-not-passive-act",
+      "reason": "too_old"
+    },
+    {
+      "title": "Mergers and Acquisitions: An Overview of Notable Healthcare M&A Activity in 2026",
+      "url": "https://healthtechmagazine.net/article/2026/09/mergers-and-acquisitions-overview-notable-healthcare-ma-activity-2026",
+      "reason": "too_old"
+    },
+    {
+      "title": "Why Virtual Care Is Becoming an Integral Part of Nursing Education",
+      "url": "https://healthtechmagazine.net/article/2026/10/why-virtual-care-becoming-integral-part-nursing-education",
+      "reason": "too_old"
+    },
+    {
+      "title": "Types of AI in Healthcare: Examples & Use Cases",
+      "url": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon",
+      "reason": "too_old"
+    }
+  ],
+  "topic_count": 6,
+  "article_count": 53
+}
